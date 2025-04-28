@@ -173,7 +173,7 @@ public:
         return false;
     }
 
-    void loadTiles(const std::string& filename, bool ifInter) {
+    void loadTiles(const std::string& filename) {
         std::ifstream file(filename);
         if (!file) {
             std::cerr << "Failed to open free tiles file: " << filename << "\n";
@@ -184,11 +184,14 @@ public:
         while (std::getline(file, line)) {
             if (line.empty()) continue;
 
-            // First line is part count (should be 1 based on your format)
-            int partCount;
-            std::istringstream iss(line);
-            if (!(iss >> partCount)) {
-                std::cerr << "Invalid part count: " << line << "\n";
+            // First line: intraTile or interTile
+            bool ifInter = false;
+            if (line == "interTile") {
+                ifInter = true;
+            } else if (line == "intraTile") {
+                ifInter = false;
+            } else {
+                std::cerr << "Unknown tile type: " << line << "\n";
                 continue;
             }
 
@@ -265,13 +268,11 @@ public:
 
 int main() {
     TilePacker packer;
-    packer.setSeparation(10);
+    packer.setSeparation(4);
     // Load intra tiles (format: Position_x, width, height, dx, dy)
-    const char* intra_tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\intra_tiles.txt";
-    const char* inter_tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\inter_tiles.txt";
+    const char* tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\inter_intra_tiles.txt";
     
-    packer.loadTiles(inter_tiles, true);
-    packer.loadTiles(intra_tiles, false);
+    packer.loadTiles(tiles);
 
     // Load inter tiles (format: part_count followed by width, height, dx, dy)
     // Visualize the packing (showing first 20 rows and 80 columns)

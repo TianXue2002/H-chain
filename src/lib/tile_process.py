@@ -202,18 +202,18 @@ def export_inter_intra(tiles, filename, seam_lst):
     with open(filename, "w") as f:
         for tile in tiles:
             # Write the number of parts for this tile
-            f.write(f"{len(tile)}\n")
             for part in tile:
+                inter = False
                 w,h,x,y = tile[0]
                 for i in range(len(seam_lst)):
                     seam = seam_lst[i]
                     if y < seam and y+h >= seam:
-                        f.write(f"interTile {part[0]} {part[1]} {part[2]} {part[3]}\n")
+                        f.write(f"interTile\n")
+                        f.write(f"{part[0]} {part[1]} {part[2]} {part[3]}\n")
                         inter = True
                 if not inter:
-                    f.write(f"intraTile {part[0]} {part[1]} {part[2]} {part[3]}\n")
-                # Write each part's details: w h dx dy
-                f.write(f"{part[0]} {part[1]} {part[2]} {part[3]}\n")
+                    f.write(f"intraTile\n")
+                    f.write(f"{part[0]} {part[1]} {part[2]} {part[3]}\n")
     print(f"Tiles successfully exported to {filename}")
 
 def read_placed_tiles(filename):
