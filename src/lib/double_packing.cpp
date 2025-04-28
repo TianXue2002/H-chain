@@ -4,6 +4,9 @@
 #include <algorithm>
 #include <sstream>
 #include <climits>
+#include <cmath>
+
+
 
 #define MAX_WIDTH 1000000
 #define MAX_HEIGHT 100
@@ -18,7 +21,7 @@ public:
     std::vector<TilePart> parts;
     bool isInter;
     int positionX;  // Absolute x position for preplaced tiles or placed free tiles
-
+    int separation = 0;
     explicit Tile(const std::vector<TilePart>& p, bool inter = false, int x = 0)
         : parts(p), isInter(inter), positionX(x) {}
 
@@ -54,9 +57,9 @@ private:
     std::vector<std::vector<bool>> intra_grid;
     std::vector<std::vector<bool>> inter_grid;
     std::vector<Tile> placedTiles;
+    int min_separation = 0;
     int boundingWidth = 0;
     int boundingHeight = 0;
-    int separation = 0;
 
     void initializeGrid() {
         intra_grid.resize(MAX_HEIGHT, std::vector<bool>(MAX_WIDTH, false));
@@ -85,7 +88,7 @@ private:
 
     bool inter_fits(int x, const Tile& tile) const {
         for (const auto& part : tile.parts) {
-            int endX = x + part.offsetX + part.width + separation;
+            int endX = x + part.offsetX + part.width + tile.separation;
             int endY = part.offsetY + part.height;
 
             if (endX > MAX_WIDTH || endY > MAX_HEIGHT) {
@@ -123,7 +126,7 @@ private:
                     intra_grid[row][col] = true;
                 }
                 // Occupied the inter grid
-                for (int col = x + part.offsetX; col < x + part.offsetX + part.width + separation; ++col) {
+                for (int col = x + part.offsetX; col < x + part.offsetX + part.width + tile.separation; ++col) {
                     inter_grid[row][col] = true;
                 }
             }
@@ -141,7 +144,7 @@ public:
             std::cerr << "Separation must be non-negative.\n";
             return;
         }
-        separation = sep;
+        min_separation = sep;
     }
 
     bool placeIntraTile(const std::vector<TilePart>& parts) {
@@ -158,13 +161,14 @@ public:
         return false;
     }
 
-    bool placeInterTile(const std::vector<TilePart>& parts) {
+    bool placeInterTile(const std::vector<TilePart>& parts, int max_width) {
         Tile tile(parts);
         tile.isInter = true;
-        for (int x = 0; x <= MAX_WIDTH - (tile.getTotalWidth() + separation); ++x) {
+        tile.separation = ceil(min_separation/max_width+1)*max_width;
+        for (int x = 0; x <= MAX_WIDTH - (tile.getTotalWidth() + tile.separation); ++x) {
             if (inter_fits(x, tile)) {
                 inter_occupied(x, tile);
-                boundingWidth = std::max(boundingWidth, x + tile.getTotalWidth()+separation);
+                boundingWidth = std::max(boundingWidth, x + tile.getTotalWidth()+tile.separation);
                 tile.positionX = x; // Record the position of the free tile
                 placedTiles.push_back(tile);
                 return true;
@@ -179,7 +183,7 @@ public:
             std::cerr << "Failed to open free tiles file: " << filename << "\n";
             return;
         }
-
+        int max_width = 0;
         std::string line;
         while (std::getline(file, line)) {
             if (line.empty()) continue;
@@ -203,7 +207,12 @@ public:
 
             std::istringstream partIss(line);
             int w, h, dx, dy;
+
+            
             if (partIss >> w >> h >> dx >> dy) {
+                if (w > max_width){
+                    max_width = w;
+                }
                 std::vector<TilePart> parts;
                 parts.emplace_back(w, h, dx, dy);
                 if(!ifInter){
@@ -215,7 +224,7 @@ public:
                         std::cerr << "\n";
                     }
                 } else {
-                    if (!placeInterTile(parts)) {
+                    if (!placeInterTile(parts, max_width)) {
                         std::cerr << "Failed to place inter tile: ";
                         for (const auto& part : parts) {
                             std::cerr << part.width << "x" << part.height << " ";
@@ -266,9 +275,34 @@ public:
 
 };
 
+#include <iostream>
+#include <fstream>
+#include <string>
+
+int readSeparation(const std::string& filename) {
+    std::ifstream file(filename);
+    if (!file) {
+        std::cerr << "Failed to open separation file: " << filename << "\n";
+        return -1;  // or throw an error
+    }
+
+    int separation;
+    file >> separation;
+
+    if (file.fail()) {
+        std::cerr << "Failed to read separation value from file: " << filename << "\n";
+        return -1;
+    }
+
+    return separation;
+}
+
+
 int main() {
     TilePacker packer;
-    packer.setSeparation(4);
+    const char* separation_file = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\separation.txt";
+    int min_separation = readSeparation(separation_file);
+    packer.setSeparation(min_separation);
     // Load intra tiles (format: Position_x, width, height, dx, dy)
     const char* tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\inter_intra_tiles.txt";
     
@@ -276,12 +310,12 @@ int main() {
 
     // Load inter tiles (format: part_count followed by width, height, dx, dy)
     // Visualize the packing (showing first 20 rows and 80 columns)
-    packer.visualize();
+    // packer.visualize();
 
     // Export results
-    const char* result_tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\all_tiles.txt";
+    const char* result_tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\result_tiles.txt";
     packer.exportResults(result_tiles);
 
-    std::cout << "Packing completed. Results saved to all_tiles.txt\n";
+    std::cout << "Packing completed. Results saved to result_tiles.txt\n";
     return 0;
 }
