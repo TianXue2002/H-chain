@@ -60,6 +60,7 @@ private:
     int min_separation = 0;
     int boundingWidth = 0;
     int boundingHeight = 0;
+    bool if_double = false;
 
     void initializeGrid() {
         intra_grid.resize(MAX_HEIGHT, std::vector<bool>(MAX_WIDTH, false));
@@ -147,6 +148,16 @@ public:
         min_separation = sep;
     }
 
+    void setDouble(bool flag) {
+        if_double = flag;
+        if(if_double){
+            std::cout<<"right"<<std::endl;
+        }
+        else{
+            std::cout<<"wrong"<<std::endl;
+        }
+    }
+
     bool placeIntraTile(const std::vector<TilePart>& parts) {
         Tile tile(parts);
         for (int x = 0; x <= MAX_WIDTH - tile.getTotalWidth(); ++x) {
@@ -164,7 +175,12 @@ public:
     bool placeInterTile(const std::vector<TilePart>& parts, int max_width) {
         Tile tile(parts);
         tile.isInter = true;
-        tile.separation = ceil(min_separation/max_width+1)*max_width;
+        if (if_double){
+            tile.separation = min_separation;
+        }else{
+            tile.separation = ceil(min_separation/max_width+1)*max_width;
+        }
+        
         for (int x = 0; x <= MAX_WIDTH - (tile.getTotalWidth() + tile.separation); ++x) {
             if (inter_fits(x, tile)) {
                 inter_occupied(x, tile);
@@ -208,7 +224,6 @@ public:
             std::istringstream partIss(line);
             int w, h, dx, dy;
 
-            
             if (partIss >> w >> h >> dx >> dy) {
                 if (w > max_width){
                     max_width = w;
@@ -224,7 +239,13 @@ public:
                         std::cerr << "\n";
                     }
                 } else {
-                    if (!placeInterTile(parts, max_width)) {
+                    int cur_width = 0;
+                    if (if_double){
+                        cur_width = min_separation;
+                    }else{
+                        cur_width = max_width;
+                    }
+                    if (!placeInterTile(parts, cur_width)) {
                         std::cerr << "Failed to place inter tile: ";
                         for (const auto& part : parts) {
                             std::cerr << part.width << "x" << part.height << " ";
@@ -279,42 +300,57 @@ public:
 #include <fstream>
 #include <string>
 
-int readSeparation(const std::string& filename) {
+std::pair<int, bool> readSeparationAndFlag(const std::string& filename) {
     std::ifstream file(filename);
     if (!file) {
-        std::cerr << "Failed to open separation file: " << filename << "\n";
-        return -1;  // or throw an error
+        std::cerr << "Failed to open file: " << filename << "\n";
+        return {-1, false};
     }
 
     int separation;
-    file >> separation;
+    bool flag;
+    file >> separation >> flag; // assumes both values are present
 
     if (file.fail()) {
-        std::cerr << "Failed to read separation value from file: " << filename << "\n";
-        return -1;
+        std::cerr << "Failed to read separation and flag from file: " << filename << "\n";
+        return {-1, false};
     }
 
-    return separation;
+    return {separation, flag};
 }
 
 
 int main() {
     TilePacker packer;
     const char* separation_file = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\separation.txt";
-    int min_separation = readSeparation(separation_file);
+    auto [min_separation, if_double] = readSeparationAndFlag(separation_file);
+    std::cout<<"separation is "<< min_separation << std::endl;
+    std::cout<<"double_packed is "<< if_double << std::endl;
+    packer.setDouble(if_double);
     packer.setSeparation(min_separation);
     // Load intra tiles (format: Position_x, width, height, dx, dy)
-    const char* tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\inter_intra_tiles.txt";
+    if (!if_double){
+        const char* tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\inter_intra_tiles.txt";
+        packer.loadTiles(tiles);
+    }else{
+        const char* tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\second_input_tiles.txt";
+        packer.loadTiles(tiles);
+    }
     
-    packer.loadTiles(tiles);
 
     // Load inter tiles (format: part_count followed by width, height, dx, dy)
     // Visualize the packing (showing first 20 rows and 80 columns)
     // packer.visualize();
 
     // Export results
-    const char* result_tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\result_tiles.txt";
-    packer.exportResults(result_tiles);
+    if(!if_double){
+        const char* result_tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\result_tiles.txt";
+        packer.exportResults(result_tiles);
+    }else{
+        const char* result_tiles = "C:\\Users\\24835\\Desktop\\homework\\uiuc\\Covey\\chem\\H-chain\\src\\double_packing\\tiles\\second_result_tiles.txt";
+        packer.exportResults(result_tiles);
+    }
+    
 
     std::cout << "Packing completed. Results saved to result_tiles.txt\n";
     return 0;
