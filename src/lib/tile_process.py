@@ -207,7 +207,7 @@ def export_inter_intra(tiles, filename, seam_lst):
                 w,h,x,y = tile[0]
                 for i in range(len(seam_lst)):
                     seam = seam_lst[i]
-                    if y < seam and y+h >= seam:
+                    if y < seam and y+h >= seam and not inter:
                         f.write(f"interTile\n")
                         f.write(f"{part[0]} {part[1]} {part[2]} {part[3]}\n")
                         inter = True
@@ -374,8 +374,8 @@ class TilePacker:
         ax.set_xlim(min_x, max_x)
         ax.set_ylim(0, self.bounding_height)
 
-        # Hide axis ticks
-        ax.set_xticks([])
+        # # Hide axis ticks
+        # ax.set_xticks([])
         ax.set_yticks([])
 
         # Draw seams

@@ -1,552 +1,4 @@
 interTile
-12 23 0 0
-interTile
-12 23 0 0
-interTile
-12 23 0 0
-interTile
-12 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-6 23 0 0
-interTile
-8 22 0 0
-interTile
-8 22 0 0
-interTile
-8 22 0 0
-interTile
-8 22 0 0
-interTile
-12 22 0 0
-interTile
-12 22 0 0
-interTile
-12 22 0 0
-interTile
-12 22 0 0
-interTile
-12 21 0 0
-interTile
-12 21 0 0
-interTile
-12 21 0 0
-interTile
-12 21 0 0
-interTile
-12 21 0 2
-interTile
-12 21 0 2
-interTile
-12 21 0 2
-interTile
-12 21 0 2
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 0
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-6 21 0 2
-interTile
-8 21 0 1
-interTile
-8 21 0 1
-interTile
-8 21 0 1
-interTile
-8 21 0 1
-interTile
-8 20 0 0
-interTile
-8 20 0 0
-interTile
-8 20 0 0
-interTile
-8 20 0 0
-interTile
-8 20 0 2
-interTile
-8 20 0 2
-interTile
-8 20 0 2
-interTile
-8 20 0 2
-interTile
-12 20 0 0
-interTile
-12 20 0 0
-interTile
-12 20 0 0
-interTile
-12 20 0 0
-interTile
-12 20 0 2
-interTile
-12 20 0 2
-interTile
-12 20 0 2
-interTile
-12 20 0 2
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-6 19 0 0
-interTile
-12 19 0 2
-interTile
-12 19 0 2
-interTile
-12 19 0 2
-interTile
-12 19 0 2
-interTile
-12 19 0 4
-interTile
-12 19 0 4
-interTile
-12 19 0 4
-interTile
-12 19 0 4
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-6 19 0 2
-interTile
-8 19 0 1
-interTile
-8 19 0 1
-interTile
-8 19 0 1
-interTile
-8 19 0 1
-interTile
-8 19 0 3
-interTile
-8 19 0 3
-interTile
-8 19 0 3
-interTile
-8 19 0 3
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-6 19 0 4
-interTile
-12 18 0 0
-interTile
-12 18 0 0
-interTile
-12 18 0 0
-interTile
-12 18 0 0
-interTile
-8 18 0 2
-interTile
-8 18 0 2
-interTile
-8 18 0 2
-interTile
-8 18 0 2
-interTile
-8 18 0 4
-interTile
-8 18 0 4
-interTile
-8 18 0 4
-interTile
-8 18 0 4
-interTile
-12 18 0 2
-interTile
-12 18 0 2
-interTile
-12 18 0 2
-interTile
-12 18 0 2
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 0
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-6 17 0 2
-interTile
-8 17 0 1
-interTile
-8 17 0 1
-interTile
-8 17 0 1
-interTile
-8 17 0 1
-interTile
-12 17 0 4
-interTile
-12 17 0 4
-interTile
-12 17 0 4
-interTile
-12 17 0 4
-interTile
-12 17 0 6
-interTile
-12 17 0 6
-interTile
-12 17 0 6
-interTile
-12 17 0 6
-interTile
-8 17 0 3
-interTile
-8 17 0 3
-interTile
-8 17 0 3
-interTile
-8 17 0 3
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 4
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-6 17 0 6
-interTile
-12 16 0 0
-interTile
-12 16 0 0
-interTile
-12 16 0 0
-interTile
-12 16 0 0
-interTile
-12 16 0 2
-interTile
-12 16 0 2
-interTile
-12 16 0 2
-interTile
-12 16 0 2
-interTile
-8 16 0 4
-interTile
-8 16 0 4
-interTile
-8 16 0 4
-interTile
-8 16 0 4
-interTile
-8 16 0 6
-interTile
-8 16 0 6
-interTile
-8 16 0 6
-interTile
-8 16 0 6
-interTile
-12 15 0 0
-interTile
-12 15 0 0
-interTile
-14 15 0 0
-interTile
-14 15 0 0
-interTile
-14 15 0 0
-interTile
-14 15 0 0
-interTile
-14 15 0 0
-interTile
-14 15 0 0
-interTile
-14 15 0 0
-interTile
-14 15 0 0
-interTile
 6 15 0 0
 interTile
 6 15 0 0
@@ -563,54 +15,6 @@ interTile
 interTile
 6 15 0 0
 interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-6 15 0 2
-interTile
-8 15 0 1
-interTile
-8 15 0 1
-interTile
-8 15 0 1
-interTile
-8 15 0 1
-interTile
-8 15 0 3
-interTile
-8 15 0 3
-interTile
-8 15 0 3
-interTile
-8 15 0 3
-interTile
 6 15 0 4
 interTile
 6 15 0 4
@@ -626,82 +30,6 @@ interTile
 6 15 0 4
 interTile
 6 15 0 4
-interTile
-6 15 0 4
-interTile
-6 15 0 4
-interTile
-6 15 0 4
-interTile
-6 15 0 4
-interTile
-6 15 0 4
-interTile
-6 15 0 4
-interTile
-6 15 0 4
-interTile
-6 15 0 4
-interTile
-12 15 0 6
-interTile
-12 15 0 6
-interTile
-12 15 0 6
-interTile
-12 15 0 6
-interTile
-12 15 0 8
-interTile
-12 15 0 8
-interTile
-14 15 0 8
-interTile
-14 15 0 8
-interTile
-14 15 0 8
-interTile
-14 15 0 8
-interTile
-14 15 0 8
-interTile
-14 15 0 8
-interTile
-14 15 0 8
-interTile
-14 15 0 8
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
-interTile
-6 15 0 6
 interTile
 6 15 0 8
 interTile
@@ -718,110 +46,6 @@ interTile
 6 15 0 8
 interTile
 6 15 0 8
-interTile
-8 14 0 0
-interTile
-8 14 0 0
-interTile
-12 14 0 0
-interTile
-12 14 0 0
-interTile
-10 14 0 1
-interTile
-10 14 0 1
-interTile
-10 14 0 1
-interTile
-10 14 0 1
-interTile
-10 14 0 1
-interTile
-10 14 0 1
-interTile
-10 14 0 1
-interTile
-10 14 0 1
-interTile
-12 14 0 2
-interTile
-12 14 0 2
-interTile
-12 14 0 2
-interTile
-12 14 0 2
-interTile
-8 14 0 6
-interTile
-8 14 0 6
-interTile
-8 14 0 6
-interTile
-8 14 0 6
-interTile
-8 14 0 8
-interTile
-8 14 0 8
-interTile
-12 14 0 8
-interTile
-12 14 0 8
-interTile
-10 14 0 9
-interTile
-10 14 0 9
-interTile
-10 14 0 9
-interTile
-10 14 0 9
-interTile
-10 14 0 9
-interTile
-10 14 0 9
-interTile
-10 14 0 9
-interTile
-10 14 0 9
-interTile
-12 13 0 0
-interTile
-12 13 0 0
-interTile
-12 13 0 2
-interTile
-12 13 0 2
-interTile
-14 13 0 0
-interTile
-14 13 0 0
-interTile
-14 13 0 0
-interTile
-14 13 0 0
-interTile
-14 13 0 0
-interTile
-14 13 0 0
-interTile
-14 13 0 0
-interTile
-14 13 0 0
-interTile
-14 13 0 2
-interTile
-14 13 0 2
-interTile
-14 13 0 2
-interTile
-14 13 0 2
-interTile
-14 13 0 2
-interTile
-14 13 0 2
-interTile
-14 13 0 2
-interTile
-14 13 0 2
 interTile
 6 13 0 0
 interTile
@@ -855,34 +79,6 @@ interTile
 interTile
 6 13 0 2
 interTile
-8 13 0 1
-interTile
-8 13 0 1
-interTile
-8 13 0 3
-interTile
-8 13 0 3
-interTile
-8 13 0 3
-interTile
-8 13 0 3
-interTile
-6 13 0 4
-interTile
-6 13 0 4
-interTile
-6 13 0 4
-interTile
-6 13 0 4
-interTile
-6 13 0 4
-interTile
-6 13 0 4
-interTile
-6 13 0 4
-interTile
-6 13 0 4
-interTile
 6 13 0 4
 interTile
 6 13 0 4
@@ -914,62 +110,6 @@ interTile
 6 13 0 6
 interTile
 6 13 0 6
-interTile
-6 13 0 6
-interTile
-6 13 0 6
-interTile
-6 13 0 6
-interTile
-6 13 0 6
-interTile
-6 13 0 6
-interTile
-6 13 0 6
-interTile
-6 13 0 6
-interTile
-6 13 0 6
-interTile
-12 13 0 8
-interTile
-12 13 0 8
-interTile
-12 13 0 10
-interTile
-12 13 0 10
-interTile
-14 13 0 8
-interTile
-14 13 0 8
-interTile
-14 13 0 8
-interTile
-14 13 0 8
-interTile
-14 13 0 8
-interTile
-14 13 0 8
-interTile
-14 13 0 8
-interTile
-14 13 0 8
-interTile
-14 13 0 10
-interTile
-14 13 0 10
-interTile
-14 13 0 10
-interTile
-14 13 0 10
-interTile
-14 13 0 10
-interTile
-14 13 0 10
-interTile
-14 13 0 10
-interTile
-14 13 0 10
 interTile
 6 13 0 8
 interTile
@@ -1003,106 +143,6 @@ interTile
 interTile
 6 13 0 10
 interTile
-8 13 0 9
-interTile
-8 13 0 9
-interTile
-8 12 0 0
-interTile
-8 12 0 0
-interTile
-8 12 0 2
-interTile
-8 12 0 2
-interTile
-12 12 0 0
-interTile
-12 12 0 0
-interTile
-12 12 0 2
-interTile
-12 12 0 2
-interTile
-10 12 0 1
-interTile
-10 12 0 1
-interTile
-10 12 0 1
-interTile
-10 12 0 1
-interTile
-10 12 0 1
-interTile
-10 12 0 1
-interTile
-10 12 0 1
-interTile
-10 12 0 1
-interTile
-10 12 0 3
-interTile
-10 12 0 3
-interTile
-10 12 0 3
-interTile
-10 12 0 3
-interTile
-10 12 0 3
-interTile
-10 12 0 3
-interTile
-10 12 0 3
-interTile
-10 12 0 3
-interTile
-8 12 0 8
-interTile
-8 12 0 8
-interTile
-8 12 0 10
-interTile
-8 12 0 10
-interTile
-12 12 0 8
-interTile
-12 12 0 8
-interTile
-12 12 0 10
-interTile
-12 12 0 10
-interTile
-10 12 0 9
-interTile
-10 12 0 9
-interTile
-10 12 0 9
-interTile
-10 12 0 9
-interTile
-10 12 0 9
-interTile
-10 12 0 9
-interTile
-10 12 0 9
-interTile
-10 12 0 9
-interTile
-10 12 0 11
-interTile
-10 12 0 11
-interTile
-10 12 0 11
-interTile
-10 12 0 11
-interTile
-10 12 0 11
-interTile
-10 12 0 11
-interTile
-10 12 0 11
-interTile
-10 12 0 11
-interTile
 6 11 0 0
 interTile
 6 11 0 0
@@ -1119,62 +159,6 @@ interTile
 interTile
 6 11 0 0
 interTile
-14 11 0 0
-interTile
-14 11 0 0
-interTile
-14 11 0 0
-interTile
-14 11 0 0
-interTile
-14 11 0 0
-interTile
-14 11 0 0
-interTile
-14 11 0 0
-interTile
-14 11 0 0
-interTile
-12 11 0 2
-interTile
-12 11 0 2
-interTile
-14 11 0 2
-interTile
-14 11 0 2
-interTile
-14 11 0 2
-interTile
-14 11 0 2
-interTile
-14 11 0 2
-interTile
-14 11 0 2
-interTile
-14 11 0 2
-interTile
-14 11 0 2
-interTile
-12 11 0 4
-interTile
-12 11 0 4
-interTile
-14 11 0 4
-interTile
-14 11 0 4
-interTile
-14 11 0 4
-interTile
-14 11 0 4
-interTile
-14 11 0 4
-interTile
-14 11 0 4
-interTile
-14 11 0 4
-interTile
-14 11 0 4
-interTile
 6 11 0 2
 interTile
 6 11 0 2
@@ -1190,14 +174,6 @@ interTile
 6 11 0 2
 interTile
 6 11 0 2
-interTile
-8 11 0 1
-interTile
-8 11 0 1
-interTile
-8 11 0 3
-interTile
-8 11 0 3
 interTile
 6 11 0 4
 interTile
@@ -1231,22 +207,6 @@ interTile
 interTile
 6 11 0 6
 interTile
-6 11 0 6
-interTile
-6 11 0 6
-interTile
-6 11 0 6
-interTile
-6 11 0 6
-interTile
-6 11 0 6
-interTile
-6 11 0 6
-interTile
-6 11 0 6
-interTile
-6 11 0 6
-interTile
 6 11 0 8
 interTile
 6 11 0 8
@@ -1262,62 +222,6 @@ interTile
 6 11 0 8
 interTile
 6 11 0 8
-interTile
-14 11 0 8
-interTile
-14 11 0 8
-interTile
-14 11 0 8
-interTile
-14 11 0 8
-interTile
-14 11 0 8
-interTile
-14 11 0 8
-interTile
-14 11 0 8
-interTile
-14 11 0 8
-interTile
-12 11 0 10
-interTile
-12 11 0 10
-interTile
-14 11 0 10
-interTile
-14 11 0 10
-interTile
-14 11 0 10
-interTile
-14 11 0 10
-interTile
-14 11 0 10
-interTile
-14 11 0 10
-interTile
-14 11 0 10
-interTile
-14 11 0 10
-interTile
-12 11 0 12
-interTile
-12 11 0 12
-interTile
-14 11 0 12
-interTile
-14 11 0 12
-interTile
-14 11 0 12
-interTile
-14 11 0 12
-interTile
-14 11 0 12
-interTile
-14 11 0 12
-interTile
-14 11 0 12
-interTile
-14 11 0 12
 interTile
 6 11 0 10
 interTile
@@ -1335,14 +239,6 @@ interTile
 interTile
 6 11 0 10
 interTile
-8 11 0 9
-interTile
-8 11 0 9
-interTile
-8 11 0 11
-interTile
-8 11 0 11
-interTile
 6 11 0 12
 interTile
 6 11 0 12
@@ -1358,134 +254,6 @@ interTile
 6 11 0 12
 interTile
 6 11 0 12
-interTile
-12 10 0 0
-interTile
-12 10 0 0
-interTile
-10 10 0 1
-interTile
-10 10 0 1
-interTile
-10 10 0 1
-interTile
-10 10 0 1
-interTile
-10 10 0 1
-interTile
-10 10 0 1
-interTile
-10 10 0 1
-interTile
-10 10 0 1
-interTile
-8 10 0 2
-interTile
-8 10 0 2
-interTile
-8 10 0 4
-interTile
-8 10 0 4
-interTile
-10 10 0 4
-interTile
-10 10 0 4
-interTile
-10 10 0 4
-interTile
-10 10 0 4
-interTile
-10 10 0 4
-interTile
-10 10 0 4
-interTile
-10 10 0 4
-interTile
-10 10 0 4
-interTile
-12 10 0 2
-interTile
-12 10 0 2
-interTile
-10 10 0 3
-interTile
-10 10 0 3
-interTile
-10 10 0 3
-interTile
-10 10 0 3
-interTile
-10 10 0 3
-interTile
-10 10 0 3
-interTile
-10 10 0 3
-interTile
-10 10 0 3
-interTile
-12 10 0 8
-interTile
-12 10 0 8
-interTile
-10 10 0 9
-interTile
-10 10 0 9
-interTile
-10 10 0 9
-interTile
-10 10 0 9
-interTile
-10 10 0 9
-interTile
-10 10 0 9
-interTile
-10 10 0 9
-interTile
-10 10 0 9
-interTile
-8 10 0 10
-interTile
-8 10 0 10
-interTile
-8 10 0 12
-interTile
-8 10 0 12
-interTile
-10 10 0 12
-interTile
-10 10 0 12
-interTile
-10 10 0 12
-interTile
-10 10 0 12
-interTile
-10 10 0 12
-interTile
-10 10 0 12
-interTile
-10 10 0 12
-interTile
-10 10 0 12
-interTile
-12 10 0 10
-interTile
-12 10 0 10
-interTile
-10 10 0 11
-interTile
-10 10 0 11
-interTile
-10 10 0 11
-interTile
-10 10 0 11
-interTile
-10 10 0 11
-interTile
-10 10 0 11
-interTile
-10 10 0 11
-interTile
-10 10 0 11
 interTile
 6 9 0 0
 interTile
@@ -1518,86 +286,6 @@ interTile
 6 9 0 2
 interTile
 6 9 0 2
-interTile
-14 9 0 0
-interTile
-14 9 0 0
-interTile
-14 9 0 0
-interTile
-14 9 0 0
-interTile
-14 9 0 0
-interTile
-14 9 0 0
-interTile
-14 9 0 0
-interTile
-14 9 0 0
-interTile
-14 9 0 2
-interTile
-14 9 0 2
-interTile
-14 9 0 2
-interTile
-14 9 0 2
-interTile
-14 9 0 2
-interTile
-14 9 0 2
-interTile
-14 9 0 2
-interTile
-14 9 0 2
-interTile
-8 9 0 1
-interTile
-8 9 0 1
-interTile
-12 9 0 4
-interTile
-12 9 0 4
-interTile
-12 9 0 6
-interTile
-12 9 0 6
-interTile
-14 9 0 4
-interTile
-14 9 0 4
-interTile
-14 9 0 4
-interTile
-14 9 0 4
-interTile
-14 9 0 4
-interTile
-14 9 0 4
-interTile
-14 9 0 4
-interTile
-14 9 0 4
-interTile
-14 9 0 6
-interTile
-14 9 0 6
-interTile
-14 9 0 6
-interTile
-14 9 0 6
-interTile
-14 9 0 6
-interTile
-14 9 0 6
-interTile
-14 9 0 6
-interTile
-14 9 0 6
-interTile
-8 9 0 3
-interTile
-8 9 0 3
 interTile
 6 9 0 4
 interTile
@@ -1663,86 +351,6 @@ interTile
 interTile
 6 9 0 10
 interTile
-14 9 0 8
-interTile
-14 9 0 8
-interTile
-14 9 0 8
-interTile
-14 9 0 8
-interTile
-14 9 0 8
-interTile
-14 9 0 8
-interTile
-14 9 0 8
-interTile
-14 9 0 8
-interTile
-14 9 0 10
-interTile
-14 9 0 10
-interTile
-14 9 0 10
-interTile
-14 9 0 10
-interTile
-14 9 0 10
-interTile
-14 9 0 10
-interTile
-14 9 0 10
-interTile
-14 9 0 10
-interTile
-8 9 0 9
-interTile
-8 9 0 9
-interTile
-12 9 0 12
-interTile
-12 9 0 12
-interTile
-12 9 0 14
-interTile
-12 9 0 14
-interTile
-14 9 0 12
-interTile
-14 9 0 12
-interTile
-14 9 0 12
-interTile
-14 9 0 12
-interTile
-14 9 0 12
-interTile
-14 9 0 12
-interTile
-14 9 0 12
-interTile
-14 9 0 12
-interTile
-14 9 0 14
-interTile
-14 9 0 14
-interTile
-14 9 0 14
-interTile
-14 9 0 14
-interTile
-14 9 0 14
-interTile
-14 9 0 14
-interTile
-14 9 0 14
-interTile
-14 9 0 14
-interTile
-8 9 0 11
-interTile
-8 9 0 11
-interTile
 6 9 0 12
 interTile
 6 9 0 12
@@ -1774,166 +382,6 @@ interTile
 6 9 0 14
 interTile
 6 9 0 14
-interTile
-12 8 0 0
-interTile
-12 8 0 0
-interTile
-12 8 0 2
-interTile
-12 8 0 2
-interTile
-10 8 0 1
-interTile
-10 8 0 1
-interTile
-10 8 0 1
-interTile
-10 8 0 1
-interTile
-10 8 0 1
-interTile
-10 8 0 1
-interTile
-10 8 0 1
-interTile
-10 8 0 1
-interTile
-10 8 0 3
-interTile
-10 8 0 3
-interTile
-10 8 0 3
-interTile
-10 8 0 3
-interTile
-10 8 0 3
-interTile
-10 8 0 3
-interTile
-10 8 0 3
-interTile
-10 8 0 3
-interTile
-8 8 0 4
-interTile
-8 8 0 4
-interTile
-8 8 0 6
-interTile
-8 8 0 6
-interTile
-10 8 0 4
-interTile
-10 8 0 4
-interTile
-10 8 0 4
-interTile
-10 8 0 4
-interTile
-10 8 0 4
-interTile
-10 8 0 4
-interTile
-10 8 0 4
-interTile
-10 8 0 4
-interTile
-10 8 0 6
-interTile
-10 8 0 6
-interTile
-10 8 0 6
-interTile
-10 8 0 6
-interTile
-10 8 0 6
-interTile
-10 8 0 6
-interTile
-10 8 0 6
-interTile
-10 8 0 6
-interTile
-12 8 0 8
-interTile
-12 8 0 8
-interTile
-12 8 0 10
-interTile
-12 8 0 10
-interTile
-10 8 0 9
-interTile
-10 8 0 9
-interTile
-10 8 0 9
-interTile
-10 8 0 9
-interTile
-10 8 0 9
-interTile
-10 8 0 9
-interTile
-10 8 0 9
-interTile
-10 8 0 9
-interTile
-10 8 0 11
-interTile
-10 8 0 11
-interTile
-10 8 0 11
-interTile
-10 8 0 11
-interTile
-10 8 0 11
-interTile
-10 8 0 11
-interTile
-10 8 0 11
-interTile
-10 8 0 11
-interTile
-8 8 0 12
-interTile
-8 8 0 12
-interTile
-8 8 0 14
-interTile
-8 8 0 14
-interTile
-10 8 0 12
-interTile
-10 8 0 12
-interTile
-10 8 0 12
-interTile
-10 8 0 12
-interTile
-10 8 0 12
-interTile
-10 8 0 12
-interTile
-10 8 0 12
-interTile
-10 8 0 12
-interTile
-10 8 0 14
-interTile
-10 8 0 14
-interTile
-10 8 0 14
-interTile
-10 8 0 14
-interTile
-10 8 0 14
-interTile
-10 8 0 14
-interTile
-10 8 0 14
-interTile
-10 8 0 14
 intraTile
 12 7 0 0
 intraTile
@@ -2071,30 +519,6 @@ interTile
 interTile
 6 7 0 2
 interTile
-14 7 0 2
-interTile
-14 7 0 2
-interTile
-14 7 0 2
-interTile
-14 7 0 2
-interTile
-14 7 0 2
-interTile
-14 7 0 2
-interTile
-14 7 0 2
-interTile
-14 7 0 2
-interTile
-8 7 0 1
-interTile
-8 7 0 1
-interTile
-8 7 0 3
-interTile
-8 7 0 3
-interTile
 6 7 0 4
 interTile
 6 7 0 4
@@ -2111,25 +535,21 @@ interTile
 interTile
 6 7 0 4
 interTile
-12 7 0 6
+14 7 0 4
 interTile
-12 7 0 6
+14 7 0 4
 interTile
-14 7 0 6
+14 7 0 4
 interTile
-14 7 0 6
+14 7 0 4
 interTile
-14 7 0 6
+14 7 0 4
 interTile
-14 7 0 6
+14 7 0 4
 interTile
-14 7 0 6
+14 7 0 4
 interTile
-14 7 0 6
-interTile
-14 7 0 6
-interTile
-14 7 0 6
+14 7 0 4
 intraTile
 12 7 0 8
 intraTile
@@ -2283,30 +703,6 @@ interTile
 interTile
 6 7 0 10
 interTile
-14 7 0 10
-interTile
-14 7 0 10
-interTile
-14 7 0 10
-interTile
-14 7 0 10
-interTile
-14 7 0 10
-interTile
-14 7 0 10
-interTile
-14 7 0 10
-interTile
-14 7 0 10
-interTile
-8 7 0 9
-interTile
-8 7 0 9
-interTile
-8 7 0 11
-interTile
-8 7 0 11
-interTile
 6 7 0 12
 interTile
 6 7 0 12
@@ -2323,25 +719,21 @@ interTile
 interTile
 6 7 0 12
 interTile
-12 7 0 14
+14 7 0 12
 interTile
-12 7 0 14
+14 7 0 12
 interTile
-14 7 0 14
+14 7 0 12
 interTile
-14 7 0 14
+14 7 0 12
 interTile
-14 7 0 14
+14 7 0 12
 interTile
-14 7 0 14
+14 7 0 12
 interTile
-14 7 0 14
+14 7 0 12
 interTile
-14 7 0 14
-interTile
-14 7 0 14
-interTile
-14 7 0 14
+14 7 0 12
 intraTile
 12 7 0 16
 intraTile
@@ -2615,25 +1007,21 @@ intraTile
 intraTile
 10 6 0 1
 interTile
-12 6 0 2
+10 6 0 4
 interTile
-12 6 0 2
+10 6 0 4
 interTile
-10 6 0 3
+10 6 0 4
 interTile
-10 6 0 3
+10 6 0 4
 interTile
-10 6 0 3
+10 6 0 4
 interTile
-10 6 0 3
+10 6 0 4
 interTile
-10 6 0 3
+10 6 0 4
 interTile
-10 6 0 3
-interTile
-10 6 0 3
-interTile
-10 6 0 3
+10 6 0 4
 intraTile
 10 6 0 8
 intraTile
@@ -2654,26 +1042,6 @@ intraTile
 12 6 0 8
 intraTile
 12 6 0 8
-interTile
-8 6 0 6
-interTile
-8 6 0 6
-interTile
-10 6 0 6
-interTile
-10 6 0 6
-interTile
-10 6 0 6
-interTile
-10 6 0 6
-interTile
-10 6 0 6
-interTile
-10 6 0 6
-interTile
-10 6 0 6
-interTile
-10 6 0 6
 intraTile
 8 6 0 8
 intraTile
@@ -2791,25 +1159,21 @@ intraTile
 intraTile
 10 6 0 9
 interTile
-12 6 0 10
+10 6 0 12
 interTile
-12 6 0 10
+10 6 0 12
 interTile
-10 6 0 11
+10 6 0 12
 interTile
-10 6 0 11
+10 6 0 12
 interTile
-10 6 0 11
+10 6 0 12
 interTile
-10 6 0 11
+10 6 0 12
 interTile
-10 6 0 11
+10 6 0 12
 interTile
-10 6 0 11
-interTile
-10 6 0 11
-interTile
-10 6 0 11
+10 6 0 12
 intraTile
 10 6 0 16
 intraTile
@@ -2830,26 +1194,6 @@ intraTile
 12 6 0 16
 intraTile
 12 6 0 16
-interTile
-8 6 0 14
-interTile
-8 6 0 14
-interTile
-10 6 0 14
-interTile
-10 6 0 14
-interTile
-10 6 0 14
-interTile
-10 6 0 14
-interTile
-10 6 0 14
-interTile
-10 6 0 14
-interTile
-10 6 0 14
-interTile
-10 6 0 14
 intraTile
 8 6 0 16
 intraTile
@@ -2967,30 +1311,6 @@ intraTile
 intraTile
 10 6 0 17
 intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
 10 5 0 2
 intraTile
 10 5 0 2
@@ -3198,42 +1518,6 @@ intraTile
 10 5 0 2
 intraTile
 10 5 0 2
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-interTile
-8 5 0 3
-interTile
-8 5 0 3
 interTile
 6 5 0 4
 interTile
@@ -3266,22 +1550,22 @@ interTile
 6 5 0 6
 interTile
 6 5 0 6
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
+interTile
+10 5 0 6
+interTile
+10 5 0 6
+interTile
+10 5 0 6
+interTile
+10 5 0 6
+interTile
+10 5 0 6
+interTile
+10 5 0 6
+interTile
+10 5 0 6
+interTile
+10 5 0 6
 intraTile
 10 5 0 10
 intraTile
@@ -3370,22 +1654,6 @@ intraTile
 10 5 0 9
 intraTile
 10 5 0 9
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
 intraTile
 4 5 0 8
 intraTile
@@ -3506,90 +1774,6 @@ intraTile
 10 5 0 10
 intraTile
 10 5 0 10
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-interTile
-8 5 0 11
-interTile
-8 5 0 11
 interTile
 6 5 0 12
 interTile
@@ -3622,22 +1806,22 @@ interTile
 6 5 0 14
 interTile
 6 5 0 14
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
-10 5 0 16
-intraTile
-10 5 0 16
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
+interTile
+10 5 0 14
+interTile
+10 5 0 14
+interTile
+10 5 0 14
+interTile
+10 5 0 14
+interTile
+10 5 0 14
+interTile
+10 5 0 14
+interTile
+10 5 0 14
+interTile
+10 5 0 14
 intraTile
 10 5 0 18
 intraTile
@@ -3726,38 +1910,6 @@ intraTile
 10 5 0 17
 intraTile
 10 5 0 17
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 0
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 2
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 8
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
-intraTile
-10 5 0 10
 intraTile
 4 5 0 16
 intraTile
@@ -4607,30 +2759,6 @@ intraTile
 intraTile
 6 3 0 3
 intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
 4 3 0 1
 intraTile
 4 3 0 1
@@ -4742,22 +2870,22 @@ intraTile
 6 3 0 3
 intraTile
 6 3 0 3
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
+interTile
+6 3 0 5
+interTile
+6 3 0 5
+interTile
+6 3 0 5
+interTile
+6 3 0 5
+interTile
+6 3 0 5
+interTile
+6 3 0 5
+interTile
+6 3 0 5
+interTile
+6 3 0 5
 interTile
 6 3 0 6
 interTile
@@ -4774,38 +2902,6 @@ interTile
 6 3 0 6
 interTile
 6 3 0 6
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
 intraTile
 6 3 0 9
 intraTile
@@ -4854,22 +2950,6 @@ intraTile
 6 3 0 9
 intraTile
 6 3 0 9
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
 intraTile
 4 3 0 10
 intraTile
@@ -4942,38 +3022,22 @@ intraTile
 6 3 0 11
 intraTile
 6 3 0 11
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
+interTile
+6 3 0 13
+interTile
+6 3 0 13
+interTile
+6 3 0 13
+interTile
+6 3 0 13
+interTile
+6 3 0 13
+interTile
+6 3 0 13
+interTile
+6 3 0 13
+interTile
+6 3 0 13
 interTile
 6 3 0 14
 interTile
@@ -4990,70 +3054,6 @@ interTile
 6 3 0 14
 interTile
 6 3 0 14
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
-intraTile
-6 3 0 17
-intraTile
-6 3 0 17
-intraTile
-6 3 0 19
-intraTile
-6 3 0 19
 intraTile
 6 3 0 17
 intraTile
@@ -5102,38 +3102,6 @@ intraTile
 6 3 0 17
 intraTile
 6 3 0 17
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 1
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 3
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 9
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
-intraTile
-6 3 0 11
 intraTile
 4 3 0 18
 intraTile

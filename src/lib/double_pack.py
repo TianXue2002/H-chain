@@ -55,10 +55,12 @@ def export_separation(filename, separation_value, if_double):
 
 def first_pack(excitations, separation, seam_lst):
     tiles = create_circuit_tile(excitations)
+    print(f"first input has {len(tiles)} tiles")
     # random.shuffle(tiles)
-    tiles = sorted(tiles, key=lambda tile: tile[0][1], reverse=True)
     # tiles = create_circuit_tile(excitations)
     filename = "./tiles/inter_intra_tiles.txt"
+    # np.random.shuffle(tiles)
+    tiles = sorted(tiles, key=lambda tile: tile[0][1], reverse=True)
     export_inter_intra(tiles, filename, seam_lst)
     c_directory = "../lib/double_packing.exe"
     separation_file = "./tiles/separation.txt"
@@ -66,6 +68,7 @@ def first_pack(excitations, separation, seam_lst):
     bounding_width, placed_tiles_lst = packing_with_c(tiles,c_directory)
     filename = './tiles/result_tiles.txt'
     bounding_width, placed_tiles = read_packing_results(filename)
+    print(f"first output has {len(placed_tiles)} tiles")
     return bounding_width, placed_tiles
 
 def double_pack_with_c(excitations, separation, seam_lst, if_double = False):
@@ -77,19 +80,23 @@ def double_pack_with_c(excitations, separation, seam_lst, if_double = False):
         for placed_tile in placed_tiles:
             new_tiles.append(placed_tile[1])
         return new_tiles
+    
+    def sort_key(tile):
+        criteria = (tile[0], tile[1][0][1], tile[1][0][3])
+        return criteria
 
-    ordered_placed_tiles = sorted(placed_tiles_lst, key=lambda tile: tile[0])
+    ordered_placed_tiles = sorted(placed_tiles_lst, key=sort_key)
     filename = "./tiles/second_input_tiles.txt"
 
     new_tiles = reexport_tiles(ordered_placed_tiles)
-    print(ordered_placed_tiles)
-    print(new_tiles)
     export_inter_intra(new_tiles, filename, seam_lst)
     
+    print(f"second output has {len(new_tiles)} tiles")
     separation_file = "./tiles/separation.txt"
     export_separation(separation_file, separation, True)
     second_packing_c = "../lib/double_packing.exe"
     second_bounding_width, second_placed_tiles_lst = packing_with_c(new_tiles,second_packing_c)
     filename = './tiles/second_result_tiles.txt'
     bounding_width, placed_tiles_lst = read_packing_results(filename)
+    print(f"second output has {len(placed_tiles_lst)} tiles")
     return bounding_width, placed_tiles_lst

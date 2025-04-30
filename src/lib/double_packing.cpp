@@ -178,7 +178,15 @@ public:
         if (if_double){
             tile.separation = min_separation;
         }else{
-            tile.separation = ceil(min_separation/max_width+1)*max_width;
+            if(max_width > min_separation){
+                tile.separation = max_width;
+            } else{
+                tile.separation = min_separation;
+            }
+            if(max_width < 8 & !if_double & tile.separation<min_separation){
+                tile.separation = 8;
+            }
+            
         }
         
         for (int x = 0; x <= MAX_WIDTH - (tile.getTotalWidth() + tile.separation); ++x) {
@@ -201,6 +209,7 @@ public:
         }
         int max_width = 0;
         std::string line;
+        int count = 0;
         while (std::getline(file, line)) {
             if (line.empty()) continue;
 
@@ -208,8 +217,10 @@ public:
             bool ifInter = false;
             if (line == "interTile") {
                 ifInter = true;
+                count ++;
             } else if (line == "intraTile") {
                 ifInter = false;
+                count ++;
             } else {
                 std::cerr << "Unknown tile type: " << line << "\n";
                 continue;
@@ -258,6 +269,7 @@ public:
                 std::cerr << "Invalid tile part format: " << line << "\n";
             }
         }
+        std::cout<<"read tiles:"<<count<<std::endl;
     }
 
     void visualize(int maxRows = 20, int maxCols = 80) const {
@@ -275,6 +287,7 @@ public:
 
     void exportResults(const std::string& filename) const {
         std::ofstream out(filename);
+
         if (!out) {
             std::cerr << "Failed to open output file: " << filename << "\n";
             return;
