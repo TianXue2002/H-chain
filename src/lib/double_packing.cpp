@@ -13,7 +13,10 @@
 
 struct TilePart {
     int width, height, offsetX, offsetY;
-    TilePart(int w, int h, int dx, int dy) : width(w), height(h), offsetX(dx), offsetY(dy) {}
+    std:: string pauli;
+    std:: string t;
+    TilePart(int w, int h, int dx, int dy, const std::string &pauli,
+    const std::string &t) : width(w), height(h), offsetX(dx), offsetY(dy), pauli(pauli), t(t) {}
 };
 
 class Tile {
@@ -70,7 +73,7 @@ private:
     bool intra_fits(int x, const Tile& tile) const {
         for (const auto& part : tile.parts) {
             int endX = x + part.offsetX + part.width;
-            int endY = part.offsetY + part.height;
+            int endY = part.offsetY + part.height + 1;
 
             if (endX > MAX_WIDTH || endY > MAX_HEIGHT) {
                 return false;
@@ -90,7 +93,7 @@ private:
     bool inter_fits(int x, const Tile& tile) const {
         for (const auto& part : tile.parts) {
             int endX = x + part.offsetX + part.width + tile.separation;
-            int endY = part.offsetY + part.height;
+            int endY = part.offsetY + part.height + 1;
 
             if (endX > MAX_WIDTH || endY > MAX_HEIGHT) {
                 return false;
@@ -109,10 +112,11 @@ private:
 
     void intra_occupied(int x, const Tile& tile) {
         for (const auto& part : tile.parts) {
-            for (int row = part.offsetY; row < part.offsetY + part.height; ++row) {
+            for (int row = part.offsetY; row < part.offsetY + part.height + 1; ++row) {
                 for (int col = x + part.offsetX; col < x + part.offsetX + part.width; ++col) {
                     intra_grid[row][col] = true;
                     inter_grid[row][col] = true;
+                    printf("%d\n", row);
                 }
             }
             boundingHeight = std::max(boundingHeight, part.offsetY + part.height);
@@ -121,10 +125,11 @@ private:
 
     void inter_occupied(int x, const Tile& tile) {
         for (const auto& part : tile.parts) {
-            for (int row = part.offsetY; row < part.offsetY + part.height; ++row) {
+            for (int row = part.offsetY; row < part.offsetY + part.height + 1; ++row) {
                 // Occupied the intra grid
                 for (int col = x + part.offsetX; col < x + part.offsetX + part.width; ++col) {
                     intra_grid[row][col] = true;
+                    printf("%d\n", row);
                 }
                 // Occupied the inter grid
                 for (int col = x + part.offsetX; col < x + part.offsetX + part.width + tile.separation; ++col) {
@@ -239,38 +244,48 @@ public:
                 if (w > max_width){
                     max_width = w;
                 }
-                std::vector<TilePart> parts;
-                parts.emplace_back(w, h, dx, dy);
-                if(!ifInter){
-                    if (!placeIntraTile(parts)) {
-                        std::cerr << "Failed to place intra tile: ";
-                        for (const auto& part : parts) {
-                            std::cerr << part.width << "x" << part.height << " ";
-                        }
-                        std::cerr << "\n";
-                    }
-                } else {
-                    int cur_width = 0;
-                    if (if_double){
-                        cur_width = min_separation;
-                    }else{
-                        cur_width = max_width;
-                    }
-                    if (!placeInterTile(parts, cur_width)) {
-                        std::cerr << "Failed to place inter tile: ";
-                        for (const auto& part : parts) {
-                            std::cerr << part.width << "x" << part.height << " ";
-                        }
-                        std::cerr << "\n";
-                    }
-                }
-                
-            } else {
-                std::cerr << "Invalid tile part format: " << line << "\n";
             }
+
+            std::string pauli;
+            if (!std::getline(file, pauli)) {
+                std::cerr << "Unexpected pauli string\n";
+                break;
+            }
+
+            std::string t;
+            if (!std::getline(file, t)) {
+                std::cerr << "Unexpected t string\n";
+                break;
+            }
+
+            std::vector<TilePart> parts;
+            parts.emplace_back(w, h, dx, dy, pauli, t);
+            if(!ifInter){
+                if (!placeIntraTile(parts)) {
+                    std::cerr << "Failed to place intra tile: ";
+                    for (const auto& part : parts) {
+                        std::cerr << part.width << "x" << part.height << " ";
+                    }
+                    std::cerr << "\n";
+                }
+            } else {
+                int cur_width = 0;
+                if (if_double){
+                    cur_width = min_separation;
+                }else{
+                    cur_width = max_width;
+                }
+                if (!placeInterTile(parts, cur_width)) {
+                    std::cerr << "Failed to place inter tile: ";
+                    for (const auto& part : parts) {
+                        std::cerr << part.width << "x" << part.height << " ";
+                    }
+                    std::cerr << "\n";
+                }     
         }
         std::cout<<"read tiles:"<<count<<std::endl;
     }
+}
 
     void visualize(int maxRows = 20, int maxCols = 80) const {
         std::cout << "Packing visualization (" << boundingWidth << "x" << boundingHeight << "):\n";
@@ -302,6 +317,10 @@ public:
             for (const auto& part : tile.parts) {
                 out << part.width << " " << part.height << " "
                     << part.offsetX << " " << part.offsetY << " ";
+                out << "\n";
+                out << part.pauli;
+                out << "\n";
+                out << part.t;
             }
             out << "\n";
         }

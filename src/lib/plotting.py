@@ -7,11 +7,9 @@ import subprocess
 
 def packing_with_c(tiles, c_directory, ifreordered = True):
     print("Current Directory:", os.path.abspath("./lib/tile_packing.exe"))
-
-
     if ifreordered:
         print("sorted")
-        sorted(tiles, key=lambda x: sum(w * h for w, h, _, _ in x), reverse=True)
+        sorted(tiles, key=lambda x: x.w * x.h, reverse=True)
     filename = "C:/Users/24835/Desktop/homework/uiuc/Covey/chem/H-chain/test_tiles.txt"
     export_tiles_to_file(tiles, filename)
     subprocess.run([c_directory, "output.txt"])
@@ -159,7 +157,7 @@ def time_gate_with_C(excitations, N, epsilon, ifsorted = True, ratio=4):
     tiles = create_circuit_tile(excitations)
     if ifsorted:
         print("sorted")
-        tiles = sorted(tiles, key=lambda x: sum(w * h for w, h, _, _ in x), reverse=True)
+        tiles = sorted(tiles, key=lambda x: sum(x.w * x.h), reverse=True)
     bounding_width, _ = packing_with_c(tiles)
     initial_time = bounding_width * 25
     time[0] = initial_time
@@ -169,7 +167,7 @@ def time_gate_with_C(excitations, N, epsilon, ifsorted = True, ratio=4):
         inter_tile = expand_tiles(inter_tile, ratio)
         tiles = inter_tile + intra_tile
         if sorted:
-            tiles = sorted(tiles, key=lambda x: sum(w * h for w, h, _, _ in x), reverse=True)
+            tiles = sorted(tiles, key=lambda x: sum(x.w * x.h), reverse=True)
         bounding_width, _ = packing_with_c(tiles)
         time[seam] = bounding_width * 25
     for i in range(N):
@@ -210,8 +208,8 @@ def time_gate(excitations, N):
 
             # Adjust inter_tiles
             for i in range(len(inter_tiles)):
-                inter_tiles[i][0] = inter_tiles[i][0].copy()
-                inter_tiles[i][0][0] += 2 * (ratio - 1)
+                cur_tile = inter_tiles[i]
+                cur_tile.w += 2 * (ratio - 1)
 
             post_tiles = inter_tiles + intra_tiles
             post_packer = TilePacker(post_tiles)

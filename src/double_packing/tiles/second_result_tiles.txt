@@ -1,1602 +1,1862 @@
-Bounding Width: 4448
-Bounding Height: 23
-Placed 0 12 7 0 16 
-Placed 0 6 15 0 0 
-Placed 6 4 7 0 0 
-Placed 6 4 7 0 8 
-Placed 10 2 1 0 0 
-Placed 10 2 1 0 2 
-Placed 10 2 1 0 4 
-Placed 10 2 1 0 6 
-Placed 10 2 1 0 8 
-Placed 10 2 1 0 10 
-Placed 10 2 1 0 12 
-Placed 10 2 1 0 14 
-Placed 12 12 7 0 16 
-Placed 12 6 15 0 0 
-Placed 18 4 7 0 0 
-Placed 18 4 7 0 8 
-Placed 22 2 1 0 0 
-Placed 22 2 1 0 2 
-Placed 22 2 1 0 4 
-Placed 22 2 1 0 6 
-Placed 22 2 1 0 8 
-Placed 22 2 1 0 10 
-Placed 22 2 1 0 12 
-Placed 22 2 1 0 14 
-Placed 24 14 7 0 16 
-Placed 24 6 15 0 0 
-Placed 30 6 7 0 0 
-Placed 30 6 7 0 8 
-Placed 36 6 15 0 0 
-Placed 38 14 7 0 16 
-Placed 42 6 7 0 0 
-Placed 42 6 7 0 8 
-Placed 48 6 15 0 0 
-Placed 52 14 7 0 16 
-Placed 54 6 7 0 0 
-Placed 54 6 7 0 8 
-Placed 60 6 15 0 0 
-Placed 66 6 7 0 0 
-Placed 66 6 7 0 8 
-Placed 66 14 7 0 16 
-Placed 72 6 15 0 0 
-Placed 78 6 7 0 0 
-Placed 78 6 7 0 8 
-Placed 80 14 7 0 16 
-Placed 84 6 15 0 0 
-Placed 90 12 7 0 0 
-Placed 90 6 7 0 8 
-Placed 94 2 1 0 16 
-Placed 94 2 1 0 18 
-Placed 94 2 1 0 20 
-Placed 94 2 1 0 22 
-Placed 96 6 15 0 8 
-Placed 102 12 7 0 0 
-Placed 102 6 7 0 8 
-Placed 102 4 7 0 16 
-Placed 106 2 1 0 16 
-Placed 106 2 1 0 18 
-Placed 106 2 1 0 20 
-Placed 106 2 1 0 22 
-Placed 108 6 15 0 8 
-Placed 114 14 7 0 0 
-Placed 114 6 7 0 8 
-Placed 114 4 7 0 16 
-Placed 118 2 1 0 16 
-Placed 118 2 1 0 18 
-Placed 118 2 1 0 20 
-Placed 118 2 1 0 22 
-Placed 120 6 15 0 8 
-Placed 126 4 7 0 8 
-Placed 126 6 7 0 16 
-Placed 128 14 7 0 0 
-Placed 130 2 1 0 8 
-Placed 130 2 1 0 10 
-Placed 130 2 1 0 12 
-Placed 130 2 1 0 14 
-Placed 132 6 15 0 8 
-Placed 138 4 7 0 8 
-Placed 138 6 7 0 16 
-Placed 142 2 1 0 8 
-Placed 142 2 1 0 10 
-Placed 142 2 1 0 12 
-Placed 142 2 1 0 14 
-Placed 142 14 7 0 0 
-Placed 144 6 15 0 8 
-Placed 150 2 1 0 14 
-Placed 150 4 6 0 8 
-Placed 150 6 7 0 16 
-Placed 152 2 1 0 14 
-Placed 154 2 1 0 8 
-Placed 154 2 1 0 10 
-Placed 154 2 1 0 12 
-Placed 154 2 1 0 14 
-Placed 156 14 7 0 0 
-Placed 156 6 15 0 8 
-Placed 162 2 1 0 14 
-Placed 162 4 6 0 8 
-Placed 162 6 7 0 16 
-Placed 166 2 1 0 8 
-Placed 166 2 1 0 10 
-Placed 166 2 1 0 12 
-Placed 168 6 15 0 8 
-Placed 170 14 7 0 0 
-Placed 174 2 1 0 8 
-Placed 174 4 6 0 9 
-Placed 174 6 7 0 16 
-Placed 176 2 1 0 8 
-Placed 178 2 1 0 10 
-Placed 178 2 1 0 12 
-Placed 180 6 15 0 8 
-Placed 184 6 7 0 0 
-Placed 186 4 6 0 9 
-Placed 186 6 7 0 16 
-Placed 190 2 1 0 0 
-Placed 190 2 1 0 2 
-Placed 190 2 1 0 4 
-Placed 190 2 1 0 6 
-Placed 190 2 1 0 10 
-Placed 190 2 1 0 12 
-Placed 192 6 9 0 14 
-Placed 192 6 13 0 0 
-Placed 198 4 5 0 8 
-Placed 198 6 7 0 0 
-Placed 198 6 7 0 16 
-Placed 204 6 9 0 14 
-Placed 204 6 13 0 0 
-Placed 210 4 5 0 8 
+Bounding Width: 3442
+Bounding Height: 15
+Placed 0 8 14 0 0 
+I_0Y_11X_14
+-t_87
+Placed 8 4 7 0 0 
+I_0Y_6X_7
+-t_37
+Placed 8 6 7 0 8 
+X_8X_9X_14Y_15
+t_107
+Placed 12 4 7 0 0 
+I_0X_6Y_7
+t_37
+Placed 16 8 14 0 0 
+I_0X_11Y_14
+t_87
+Placed 24 6 7 0 0 
+X_0X_1X_6Y_7
+t_41
+Placed 24 6 7 0 8 
+X_8X_9Y_14X_15
+-t_107
+Placed 30 2 1 0 4 
+Y_4X_5
+t_36
+Placed 30 2 1 0 6 
+Y_6X_7
+t_37
+Placed 32 8 13 0 1 
+I_1Y_11X_14
+-t_91
+Placed 40 6 7 0 0 
+X_0X_1Y_6X_7
+-t_41
+Placed 40 6 7 0 8 
+Y_8Y_9Y_14X_15
+-t_107
+Placed 46 2 1 0 4 
+Y_4X_5
+-t_36
+Placed 46 2 1 0 6 
+Y_6X_7
+-t_37
+Placed 48 8 13 0 1 
+I_1X_11Y_14
+t_91
+Placed 56 6 7 0 0 
+Y_0Y_1Y_6X_7
+-t_41
+Placed 56 6 7 0 8 
+X_8Y_9Y_14Y_15
+t_107
+Placed 62 2 1 0 4 
+Y_4X_5
+t_38
+Placed 62 2 1 0 6 
+Y_6X_7
+t_39
+Placed 64 8 12 0 0 
+I_0Y_9X_12
+-t_86
+Placed 72 6 7 0 0 
+X_0Y_1Y_6Y_7
+t_41
+Placed 72 6 7 0 8 
+Y_8X_9X_14X_15
+-t_107
+Placed 78 2 1 0 4 
+Y_4X_5
+-t_38
+Placed 78 2 1 0 6 
+Y_6X_7
+-t_39
+Placed 80 8 12 0 0 
+I_0X_9Y_12
+t_86
+Placed 88 6 7 0 0 
+Y_0X_1X_6X_7
+-t_41
+Placed 88 6 7 0 8 
+Y_8X_9Y_14Y_15
+-t_107
+Placed 94 2 1 0 4 
+Y_4X_5
+t_56
+Placed 94 2 1 0 6 
+Y_6X_7
+t_57
+Placed 96 8 12 0 2 
+I_2Y_11X_14
+-t_89
+Placed 104 6 7 0 0 
+Y_0X_1Y_6Y_7
+-t_41
+Placed 104 6 7 0 8 
+Y_8Y_9X_14Y_15
+t_107
+Placed 110 2 1 0 4 
+Y_4X_5
+-t_56
+Placed 110 2 1 0 6 
+Y_6X_7
+-t_57
+Placed 112 8 12 0 2 
+I_2X_11Y_14
+t_89
+Placed 120 6 7 0 0 
+Y_0Y_1X_6Y_7
+t_41
+Placed 120 6 7 0 8 
+X_8Y_9X_14X_15
+t_107
+Placed 126 2 1 0 4 
+Y_4X_5
+t_58
+Placed 126 2 1 0 6 
+Y_6X_7
+t_59
+Placed 128 8 11 0 1 
+I_1Y_9X_12
+-t_90
+Placed 136 8 6 0 8 
+I_8Y_11X_14
+-t_99
+Placed 136 6 7 0 0 
+X_0Y_1X_6X_7
+t_41
+Placed 142 2 1 0 4 
+Y_4X_5
+-t_58
+Placed 142 2 1 0 6 
+Y_6X_7
+-t_59
+Placed 144 8 11 0 1 
+I_1X_9Y_12
+t_90
+Placed 152 8 6 0 8 
+I_8X_11Y_14
+t_99
+Placed 152 6 7 0 0 
+X_0X_1X_6Y_7
+t_53
+Placed 160 8 11 0 3 
+I_3Y_11X_14
+-t_93
+Placed 168 6 5 0 8 
+X_8X_9X_12Y_13
+t_106
+Placed 168 6 7 0 0 
+X_0X_1Y_6X_7
+-t_53
+Placed 174 8 11 0 3 
+I_3X_11Y_14
+t_93
+Placed 182 6 5 0 8 
+X_8X_9Y_12X_13
+-t_106
+Placed 182 6 7 0 0 
+Y_0Y_1Y_6X_7
+-t_53
+Placed 188 8 10 0 2 
+I_2Y_9X_12
+-t_88
+Placed 196 6 5 0 8 
+Y_8Y_9Y_12X_13
+-t_106
+Placed 196 6 7 0 0 
+X_0Y_1Y_6Y_7
+-t_53
+Placed 202 8 10 0 2 
+I_2X_9Y_12
+t_88
+Placed 210 6 5 0 8 
+X_8Y_9Y_12Y_13
+t_106
 Placed 210 6 7 0 0 
-Placed 210 6 7 0 16 
-Placed 216 6 9 0 14 
-Placed 216 6 13 0 0 
-Placed 222 4 5 0 10 
-Placed 222 4 7 0 0 
-Placed 222 4 7 0 16 
-Placed 226 2 1 0 0 
-Placed 226 2 1 0 2 
-Placed 226 2 1 0 4 
-Placed 226 2 1 0 6 
-Placed 226 2 1 0 16 
-Placed 226 2 1 0 18 
-Placed 226 2 1 0 20 
-Placed 226 2 1 0 22 
-Placed 228 6 9 0 14 
-Placed 228 6 13 0 0 
-Placed 234 4 5 0 10 
-Placed 234 4 7 0 0 
-Placed 234 4 7 0 16 
-Placed 238 2 1 0 0 
-Placed 238 2 1 0 2 
-Placed 238 2 1 0 4 
-Placed 238 2 1 0 6 
-Placed 238 2 1 0 16 
-Placed 238 2 1 0 18 
-Placed 238 2 1 0 20 
-Placed 238 2 1 0 22 
-Placed 240 6 9 0 14 
-Placed 240 6 13 0 0 
-Placed 246 2 1 0 6 
-Placed 246 2 1 0 22 
-Placed 246 6 5 0 8 
-Placed 246 4 6 0 0 
-Placed 246 4 6 0 16 
-Placed 248 2 1 0 6 
-Placed 248 2 1 0 22 
-Placed 250 2 1 0 0 
-Placed 250 2 1 0 2 
-Placed 250 2 1 0 4 
-Placed 250 2 1 0 6 
-Placed 250 2 1 0 16 
-Placed 250 2 1 0 18 
-Placed 250 2 1 0 20 
-Placed 250 2 1 0 22 
-Placed 252 6 9 0 14 
-Placed 252 6 13 0 0 
-Placed 258 6 5 0 8 
-Placed 258 4 6 0 0 
-Placed 258 4 6 0 16 
-Placed 262 2 1 0 0 
-Placed 262 2 1 0 2 
-Placed 262 2 1 0 4 
-Placed 262 2 1 0 16 
-Placed 262 2 1 0 18 
-Placed 262 2 1 0 20 
-Placed 264 6 9 0 14 
-Placed 264 6 13 0 0 
-Placed 270 2 1 0 0 
-Placed 270 2 1 0 16 
-Placed 270 6 5 0 8 
-Placed 270 4 6 0 1 
-Placed 270 4 6 0 17 
-Placed 274 2 1 0 2 
-Placed 274 2 1 0 4 
-Placed 274 2 1 0 18 
-Placed 274 2 1 0 20 
-Placed 276 6 9 0 14 
-Placed 276 6 13 0 0 
-Placed 282 6 5 0 8 
-Placed 282 4 6 0 1 
-Placed 282 14 7 0 16 
-Placed 288 6 13 0 2 
-Placed 294 4 5 0 0 
-Placed 294 6 5 0 8 
-Placed 296 14 7 0 16 
-Placed 300 6 13 0 2 
-Placed 306 4 5 0 0 
-Placed 306 6 5 0 8 
-Placed 310 14 7 0 16 
-Placed 312 6 13 0 2 
-Placed 318 4 5 0 2 
-Placed 318 6 5 0 8 
-Placed 324 10 7 0 16 
-Placed 324 6 13 0 2 
-Placed 330 4 5 0 2 
-Placed 330 6 5 0 8 
-Placed 334 10 7 0 16 
-Placed 336 6 13 0 2 
-Placed 342 6 5 0 0 
-Placed 342 6 5 0 10 
-Placed 344 10 7 0 16 
-Placed 348 6 13 0 2 
-Placed 354 6 5 0 0 
-Placed 354 6 5 0 10 
-Placed 354 10 7 0 16 
-Placed 360 6 13 0 2 
-Placed 364 10 7 0 16 
-Placed 366 6 5 0 0 
-Placed 366 6 5 0 10 
-Placed 372 6 13 0 2 
-Placed 374 10 7 0 16 
-Placed 378 6 5 0 10 
-Placed 378 14 7 0 0 
-Placed 384 6 13 0 8 
-Placed 390 6 5 0 10 
-Placed 390 4 6 0 17 
-Placed 392 14 7 0 0 
-Placed 396 6 13 0 8 
-Placed 402 6 5 0 10 
-Placed 402 4 5 0 16 
-Placed 406 14 7 0 0 
-Placed 408 6 13 0 8 
-Placed 414 6 5 0 10 
-Placed 414 4 5 0 16 
-Placed 420 10 7 0 0 
-Placed 420 6 13 0 8 
-Placed 426 6 5 0 10 
-Placed 426 4 5 0 18 
-Placed 430 10 7 0 0 
-Placed 432 6 13 0 8 
-Placed 438 4 5 0 8 
-Placed 438 4 5 0 18 
-Placed 440 10 7 0 0 
-Placed 444 6 13 0 8 
-Placed 450 4 5 0 8 
-Placed 450 6 5 0 16 
-Placed 450 10 7 0 0 
-Placed 456 6 13 0 8 
-Placed 460 10 7 0 0 
-Placed 462 4 5 0 10 
-Placed 462 6 5 0 16 
-Placed 468 6 13 0 8 
-Placed 470 10 7 0 0 
-Placed 474 4 5 0 10 
-Placed 474 6 5 0 16 
-Placed 480 6 9 0 0 
-Placed 480 6 13 0 10 
-Placed 486 6 4 0 8 
-Placed 486 6 5 0 0 
-Placed 486 6 5 0 16 
-Placed 492 6 9 0 0 
-Placed 492 6 13 0 10 
-Placed 498 6 4 0 8 
-Placed 498 6 5 0 0 
-Placed 498 6 5 0 16 
-Placed 504 6 9 0 0 
-Placed 504 6 13 0 10 
-Placed 510 6 4 0 8 
-Placed 510 6 5 0 0 
-Placed 510 6 5 0 16 
-Placed 516 6 9 0 0 
-Placed 516 6 13 0 10 
-Placed 522 6 4 0 8 
-Placed 522 6 5 0 0 
-Placed 522 6 5 0 16 
-Placed 528 6 9 0 0 
-Placed 528 6 13 0 10 
-Placed 534 6 4 0 8 
-Placed 534 6 5 0 0 
-Placed 534 6 5 0 16 
-Placed 540 6 9 0 0 
-Placed 540 6 13 0 10 
-Placed 546 6 4 0 8 
-Placed 546 6 5 0 2 
-Placed 546 6 5 0 18 
-Placed 552 6 9 0 0 
-Placed 552 6 13 0 10 
-Placed 558 6 4 0 10 
-Placed 558 6 5 0 2 
-Placed 558 6 5 0 18 
-Placed 564 6 9 0 0 
-Placed 564 6 13 0 10 
-Placed 570 6 4 0 10 
-Placed 570 6 5 0 2 
-Placed 570 6 5 0 18 
-Placed 576 6 11 0 0 
-Placed 576 6 11 0 12 
-Placed 582 6 4 0 9 
-Placed 582 6 5 0 2 
-Placed 582 6 5 0 18 
-Placed 588 6 11 0 0 
-Placed 588 6 11 0 12 
-Placed 594 6 4 0 9 
-Placed 594 6 5 0 2 
-Placed 594 6 5 0 18 
-Placed 600 6 11 0 0 
-Placed 600 6 11 0 12 
-Placed 606 6 4 0 9 
-Placed 606 6 5 0 2 
-Placed 606 6 5 0 18 
-Placed 612 6 11 0 0 
-Placed 612 6 11 0 12 
-Placed 618 6 4 0 9 
-Placed 618 6 5 0 2 
-Placed 618 6 5 0 18 
-Placed 624 6 11 0 0 
-Placed 624 6 11 0 12 
-Placed 630 4 4 0 8 
-Placed 630 6 5 0 2 
-Placed 630 6 5 0 18 
-Placed 636 6 11 0 0 
-Placed 636 6 11 0 12 
-Placed 642 4 4 0 8 
-Placed 642 4 5 0 0 
-Placed 642 4 5 0 16 
-Placed 648 6 11 0 0 
-Placed 648 6 11 0 12 
-Placed 654 4 4 0 10 
-Placed 654 4 5 0 0 
-Placed 654 4 5 0 16 
-Placed 660 6 11 0 0 
-Placed 660 6 11 0 12 
-Placed 666 4 4 0 10 
-Placed 666 4 5 0 2 
-Placed 666 10 7 0 16 
-Placed 672 6 11 0 2 
-Placed 676 10 7 0 16 
-Placed 678 6 4 0 10 
-Placed 678 4 5 0 2 
-Placed 684 6 11 0 2 
-Placed 686 10 7 0 16 
-Placed 690 6 4 0 0 
-Placed 690 6 4 0 10 
-Placed 696 10 7 0 16 
-Placed 696 6 11 0 2 
-Placed 702 6 4 0 0 
-Placed 702 4 4 0 9 
-Placed 706 12 7 0 16 
-Placed 708 6 11 0 2 
-Placed 714 6 4 0 0 
-Placed 714 4 4 0 9 
-Placed 718 12 7 0 16 
-Placed 720 6 11 0 2 
-Placed 726 6 4 0 0 
-Placed 726 4 4 0 11 
-Placed 730 12 7 0 16 
-Placed 732 6 11 0 2 
-Placed 738 6 4 0 0 
-Placed 738 4 4 0 11 
-Placed 742 12 7 0 16 
-Placed 744 6 11 0 2 
-Placed 750 6 4 0 0 
-Placed 750 6 4 0 9 
-Placed 754 12 7 0 16 
-Placed 756 6 11 0 2 
-Placed 762 8 4 0 0 
-Placed 762 6 4 0 9 
-Placed 766 12 7 0 16 
-Placed 768 6 11 0 4 
-Placed 770 8 4 0 0 
-Placed 774 6 4 0 11 
-Placed 778 8 4 0 0 
-Placed 778 12 7 0 16 
-Placed 780 6 11 0 4 
-Placed 786 8 4 0 0 
-Placed 786 6 4 0 11 
-Placed 790 12 7 0 16 
-Placed 792 6 11 0 4 
-Placed 794 8 4 0 0 
-Placed 798 6 4 0 11 
-Placed 802 8 4 0 0 
-Placed 802 14 7 0 16 
-Placed 804 6 11 0 4 
-Placed 810 8 4 0 0 
-Placed 810 6 4 0 11 
-Placed 816 14 7 0 16 
-Placed 816 6 11 0 4 
-Placed 818 8 4 0 0 
-Placed 822 6 4 0 10 
-Placed 826 8 4 0 0 
-Placed 828 6 11 0 4 
-Placed 830 14 7 0 16 
-Placed 834 8 4 0 0 
-Placed 834 6 4 0 10 
-Placed 840 6 11 0 4 
-Placed 842 8 4 0 0 
-Placed 844 14 7 0 16 
-Placed 846 6 4 0 11 
-Placed 850 8 4 0 0 
-Placed 852 6 11 0 4 
-Placed 858 6 4 0 11 
-Placed 858 4 5 0 18 
-Placed 858 10 7 0 0 
-Placed 862 8 4 0 19 
-Placed 864 6 11 0 8 
-Placed 868 10 7 0 0 
-Placed 870 6 3 0 9 
-Placed 870 4 5 0 18 
-Placed 874 8 4 0 19 
-Placed 876 6 11 0 8 
-Placed 878 10 7 0 0 
-Placed 882 6 3 0 9 
-Placed 882 6 4 0 16 
-Placed 888 4 4 0 19 
-Placed 888 10 7 0 0 
-Placed 888 6 11 0 8 
-Placed 894 6 3 0 11 
-Placed 894 6 4 0 16 
-Placed 898 12 7 0 0 
-Placed 900 4 4 0 19 
-Placed 900 6 11 0 8 
-Placed 906 6 3 0 11 
-Placed 906 6 4 0 16 
-Placed 910 12 7 0 0 
-Placed 912 6 4 0 19 
-Placed 912 6 11 0 8 
-Placed 918 4 3 0 9 
-Placed 918 6 4 0 16 
-Placed 922 12 7 0 0 
-Placed 924 6 4 0 19 
-Placed 924 6 11 0 8 
-Placed 930 4 3 0 9 
-Placed 930 6 4 0 16 
-Placed 934 12 7 0 0 
-Placed 936 6 4 0 19 
-Placed 936 6 11 0 8 
-Placed 942 6 3 0 9 
-Placed 942 6 4 0 16 
-Placed 946 12 7 0 0 
-Placed 948 6 4 0 19 
-Placed 948 6 11 0 8 
-Placed 954 6 3 0 9 
-Placed 954 6 4 0 18 
-Placed 958 12 7 0 0 
-Placed 960 6 11 0 10 
-Placed 966 6 3 0 11 
-Placed 966 6 4 0 18 
-Placed 970 12 7 0 0 
-Placed 972 6 11 0 10 
-Placed 978 6 3 0 11 
-Placed 978 6 4 0 17 
-Placed 982 12 7 0 0 
-Placed 984 6 11 0 10 
-Placed 990 6 3 0 9 
-Placed 990 6 4 0 17 
-Placed 994 14 7 0 0 
-Placed 996 6 11 0 10 
-Placed 1002 6 3 0 9 
-Placed 1002 6 4 0 17 
-Placed 1008 14 7 0 0 
-Placed 1008 6 11 0 10 
-Placed 1014 6 3 0 9 
-Placed 1014 6 4 0 17 
-Placed 1020 6 11 0 10 
-Placed 1022 14 7 0 0 
-Placed 1026 6 3 0 9 
-Placed 1026 4 4 0 16 
-Placed 1032 6 11 0 10 
-Placed 1036 14 7 0 0 
-Placed 1038 6 3 0 9 
-Placed 1038 4 4 0 16 
-Placed 1044 6 11 0 10 
-Placed 1050 6 3 0 9 
-Placed 1050 6 4 0 2 
-Placed 1050 4 4 0 18 
-Placed 1056 6 9 0 2 
-Placed 1056 6 9 0 12 
-Placed 1062 6 3 0 9 
-Placed 1062 6 4 0 2 
-Placed 1062 4 4 0 18 
-Placed 1068 6 9 0 2 
-Placed 1068 6 9 0 12 
-Placed 1074 6 3 0 9 
-Placed 1074 6 4 0 1 
-Placed 1074 6 4 0 18 
-Placed 1080 6 9 0 2 
-Placed 1080 6 9 0 12 
-Placed 1086 6 3 0 11 
-Placed 1086 6 4 0 1 
-Placed 1086 6 4 0 18 
-Placed 1092 6 9 0 2 
-Placed 1092 6 9 0 12 
-Placed 1098 6 3 0 11 
-Placed 1098 6 4 0 1 
-Placed 1098 4 4 0 17 
-Placed 1104 6 9 0 2 
-Placed 1104 6 9 0 12 
-Placed 1110 4 3 0 9 
-Placed 1110 6 4 0 1 
-Placed 1110 4 4 0 17 
-Placed 1116 6 9 0 2 
-Placed 1116 6 9 0 12 
-Placed 1122 4 3 0 9 
-Placed 1122 4 4 0 0 
-Placed 1122 6 4 0 17 
-Placed 1128 6 9 0 2 
-Placed 1128 6 9 0 12 
-Placed 1134 6 3 0 9 
-Placed 1134 4 4 0 0 
-Placed 1134 6 4 0 17 
-Placed 1140 6 9 0 2 
-Placed 1140 6 9 0 12 
-Placed 1146 6 3 0 9 
-Placed 1146 8 4 0 0 
-Placed 1146 6 4 0 18 
-Placed 1152 6 7 0 14 
-Placed 1152 6 9 0 4 
-Placed 1154 8 4 0 0 
-Placed 1158 4 3 0 10 
-Placed 1158 14 7 0 16 
-Placed 1162 8 4 0 0 
-Placed 1164 6 9 0 4 
-Placed 1170 4 3 0 10 
-Placed 1170 8 4 0 0 
-Placed 1172 6 7 0 14 
-Placed 1176 6 9 0 4 
-Placed 1178 4 3 0 1 
-Placed 1178 14 7 0 16 
-Placed 1182 6 3 0 10 
-Placed 1182 4 4 0 2 
-Placed 1186 8 4 0 0 
-Placed 1188 6 9 0 4 
-Placed 1192 6 7 0 14 
-Placed 1194 6 3 0 10 
-Placed 1194 4 4 0 2 
-Placed 1198 8 4 0 0 
-Placed 1198 14 7 0 16 
-Placed 1200 6 9 0 4 
-Placed 1206 6 3 0 10 
-Placed 1206 6 4 0 2 
-Placed 1212 6 3 0 1 
-Placed 1212 6 7 0 14 
-Placed 1212 6 9 0 4 
-Placed 1218 6 3 0 10 
-Placed 1218 6 4 0 2 
-Placed 1218 14 7 0 16 
-Placed 1224 6 3 0 1 
-Placed 1224 6 9 0 4 
-Placed 1230 6 3 0 10 
-Placed 1230 4 4 0 1 
-Placed 1232 12 7 0 16 
-Placed 1234 8 4 0 0 
-Placed 1236 6 9 0 4 
-Placed 1242 6 3 0 10 
-Placed 1242 10 6 0 0 
-Placed 1244 12 7 0 16 
-Placed 1248 6 9 0 6 
-Placed 1252 10 6 0 0 
-Placed 1254 6 3 0 10 
-Placed 1256 12 7 0 16 
-Placed 1260 6 9 0 6 
-Placed 1262 12 6 0 0 
-Placed 1266 6 3 0 10 
-Placed 1268 12 7 0 16 
-Placed 1272 6 9 0 6 
-Placed 1274 12 6 0 0 
-Placed 1278 6 3 0 9 
-Placed 1280 12 7 0 16 
-Placed 1284 6 9 0 6 
-Placed 1286 12 6 0 0 
-Placed 1290 6 3 0 9 
-Placed 1292 12 7 0 16 
-Placed 1296 6 9 0 6 
-Placed 1298 12 6 0 0 
-Placed 1302 4 3 0 11 
-Placed 1304 12 7 0 16 
-Placed 1308 6 9 0 6 
-Placed 1310 12 6 0 0 
-Placed 1314 4 3 0 11 
-Placed 1316 12 7 0 16 
-Placed 1320 6 9 0 6 
-Placed 1322 12 6 0 0 
-Placed 1326 6 3 0 11 
-Placed 1328 10 7 0 16 
-Placed 1332 6 9 0 6 
-Placed 1334 4 4 0 1 
-Placed 1338 6 3 0 11 
-Placed 1338 12 6 0 17 
-Placed 1338 14 7 0 0 
-Placed 1344 6 9 0 8 
+Y_0X_1X_6X_7
+t_53
+Placed 216 8 10 0 4 
+I_4Y_11X_14
+-t_95
+Placed 224 6 5 0 8 
+Y_8X_9X_12X_13
+-t_106
+Placed 224 6 7 0 0 
+Y_0X_1Y_6Y_7
+t_53
+Placed 230 8 10 0 4 
+I_4X_11Y_14
+t_95
+Placed 238 6 5 0 8 
+Y_8X_9Y_12Y_13
+-t_106
+Placed 238 6 7 0 0 
+Y_0Y_1X_6Y_7
+t_53
+Placed 244 8 9 0 3 
+I_3Y_9X_12
+-t_92
+Placed 252 6 5 0 8 
+Y_8Y_9X_12Y_13
+t_106
+Placed 252 6 7 0 0 
+X_0Y_1X_6X_7
+-t_53
+Placed 258 8 9 0 3 
+I_3X_9Y_12
+t_92
+Placed 266 6 5 0 8 
+X_8Y_9X_12X_13
+t_106
+Placed 266 8 6 0 0 
+I_0Y_3X_6
+-t_11
+Placed 274 8 8 0 4 
+I_4Y_9X_12
+-t_94
+Placed 282 6 5 0 10 
+X_10X_11X_14Y_15
+t_111
+Placed 282 8 6 0 0 
+I_0X_3Y_6
+t_11
+Placed 290 8 8 0 4 
+I_4X_9Y_12
+t_94
+Placed 298 6 5 0 10 
+X_10X_11Y_14X_15
+-t_111
+Placed 298 4 6 0 1 
+I_1Y_6X_7
+-t_57
+Placed 302 4 6 0 1 
+I_1X_6Y_7
+t_57
+Placed 306 8 5 0 0 
+I_2Y_0X_5
+-t_7
+Placed 306 8 8 0 6 
+I_6Y_11X_14
+-t_97
+Placed 314 6 5 0 10 
+Y_10Y_11Y_14X_15
+-t_111
+Placed 314 8 6 0 1 
+I_7Y_1X_4
+-t_77
+Placed 322 8 5 0 0 
+I_2X_0Y_5
+t_7
+Placed 322 8 8 0 6 
+I_6X_11Y_14
+t_97
+Placed 330 12 7 0 0 
+I_0Y_2X_7
+-t_6
+Placed 330 10 7 0 8 
+X_8X_10X_13Y_15
+t_85
+Placed 340 10 7 0 8 
+X_8X_10Y_13X_15
+t_85
+Placed 342 12 7 0 0 
+I_0X_2Y_7
+t_6
+Placed 350 10 7 0 8 
+Y_8Y_10Y_13X_15
+-t_85
+Placed 354 14 7 0 0 
+X_0X_1X_2Y_7
+t_8
+Placed 360 10 7 0 8 
+X_8Y_10Y_13Y_15
+t_85
+Placed 368 14 7 0 0 
+X_0X_1Y_2X_7
+-t_8
+Placed 370 10 7 0 8 
+Y_8X_10X_13X_15
+-t_85
+Placed 380 10 7 0 8 
+Y_8X_10Y_13Y_15
+t_85
+Placed 382 14 7 0 0 
+Y_0Y_1Y_2X_7
+-t_8
+Placed 390 10 7 0 8 
+Y_8Y_10X_13Y_15
+-t_85
+Placed 396 14 7 0 0 
+X_0Y_1Y_2Y_7
+t_8
+Placed 400 10 7 0 8 
+X_8Y_10X_13X_15
+-t_85
+Placed 410 12 6 0 8 
+X_8X_9X_10Y_14
+t_82
+Placed 410 14 7 0 0 
+Y_0X_1X_2X_7
+-t_8
+Placed 422 12 6 0 8 
+X_8X_9Y_10X_14
+-t_82
+Placed 424 14 7 0 0 
+Y_0X_1Y_2Y_7
+-t_8
+Placed 434 12 6 0 8 
+Y_8Y_9Y_10X_14
+-t_82
+Placed 438 14 7 0 0 
+Y_0Y_1X_2Y_7
+t_8
+Placed 446 12 6 0 8 
+X_8Y_9Y_10Y_14
+t_82
+Placed 452 14 7 0 0 
+X_0Y_1X_2X_7
+t_8
+Placed 458 12 6 0 8 
+Y_8X_9X_10X_14
+-t_82
+Placed 466 10 7 0 0 
+I_0Y_3X_7
+-t_19
+Placed 470 12 6 0 8 
+Y_8X_9Y_10Y_14
+-t_82
+Placed 476 10 7 0 0 
+I_0X_3Y_7
+t_19
+Placed 482 12 6 0 8 
+Y_8Y_9X_10Y_14
+t_82
+Placed 486 12 7 0 0 
+X_0X_1X_3Y_7
+t_30
+Placed 494 12 6 0 8 
+X_8Y_9X_10X_14
+t_82
+Placed 498 12 7 0 0 
+X_0X_1Y_3X_7
+-t_30
+Placed 506 10 6 0 8 
+X_8X_10X_12Y_14
+t_84
+Placed 510 12 7 0 0 
+Y_0Y_1Y_3X_7
+-t_30
+Placed 516 10 6 0 8 
+X_8X_10Y_12X_14
+t_84
+Placed 522 12 7 0 0 
+X_0Y_1Y_3Y_7
+-t_30
+Placed 526 10 6 0 8 
+Y_8Y_10Y_12X_14
+-t_84
+Placed 534 12 7 0 0 
+Y_0X_1X_3X_7
+t_30
+Placed 536 10 6 0 8 
+X_8Y_10Y_12Y_14
+t_84
+Placed 546 10 6 0 8 
+Y_8X_10X_12X_14
+-t_84
+Placed 546 12 7 0 0 
+Y_0X_1Y_3Y_7
+t_30
+Placed 556 10 6 0 8 
+Y_8X_10Y_12Y_14
+t_84
+Placed 558 12 7 0 0 
+Y_0Y_1X_3Y_7
+t_30
+Placed 566 10 6 0 8 
+Y_8Y_10X_12Y_14
+-t_84
+Placed 570 12 7 0 0 
+X_0Y_1X_3X_7
+-t_30
+Placed 576 10 6 0 8 
+X_8Y_10X_12X_14
+-t_84
+Placed 582 14 7 0 0 
+X_0X_5X_6Y_7
+t_48
+Placed 586 10 6 0 8 
+X_8X_9X_11Y_14
+t_102
+Placed 596 10 6 0 8 
+X_8X_9Y_11X_14
+-t_102
+Placed 596 14 7 0 0 
+X_0X_5Y_6X_7
+-t_48
+Placed 606 10 6 0 8 
+Y_8Y_9Y_11X_14
+-t_102
+Placed 610 14 7 0 0 
+Y_0Y_5Y_6X_7
+-t_48
+Placed 616 10 6 0 8 
+X_8Y_9Y_11Y_14
+-t_102
+Placed 624 14 7 0 0 
+X_0Y_5Y_6Y_7
+t_48
+Placed 626 10 6 0 8 
+Y_8X_9X_11X_14
+t_102
+Placed 636 10 6 0 8 
+Y_8X_9Y_11Y_14
+t_102
+Placed 638 14 7 0 0 
+Y_0X_5X_6X_7
+-t_48
+Placed 646 10 6 0 8 
+Y_8Y_9X_11Y_14
+t_102
+Placed 652 14 7 0 0 
+Y_0X_5Y_6Y_7
+-t_48
+Placed 656 10 6 0 8 
+X_8Y_9X_11X_14
+-t_102
+Placed 666 10 6 0 9 
+X_9X_11X_13Y_15
+t_105
+Placed 666 14 7 0 0 
+Y_0Y_5X_6Y_7
+t_48
+Placed 676 10 6 0 9 
+X_9X_11Y_13X_15
+t_105
+Placed 680 14 7 0 0 
+X_0Y_5X_6X_7
+t_48
+Placed 686 10 6 0 9 
+Y_9Y_11Y_13X_15
+-t_105
+Placed 694 12 7 0 0 
+X_0X_4X_6Y_7
+t_66
+Placed 696 10 6 0 9 
+X_9Y_11Y_13Y_15
+t_105
+Placed 706 10 6 0 9 
+Y_9X_11X_13X_15
+-t_105
+Placed 706 12 7 0 0 
+X_0X_4Y_6X_7
+-t_66
+Placed 716 10 6 0 9 
+Y_9X_11Y_13Y_15
+t_105
+Placed 718 12 7 0 0 
+Y_0Y_4Y_6X_7
+-t_66
+Placed 726 10 6 0 9 
+Y_9Y_11X_13Y_15
+-t_105
+Placed 730 12 7 0 0 
+X_0Y_4Y_6Y_7
+-t_66
+Placed 736 10 6 0 9 
+X_9Y_11X_13X_15
+-t_105
+Placed 742 12 7 0 0 
+Y_0X_4X_6X_7
+t_66
+Placed 746 10 6 0 8 
+X_8X_11X_13Y_14
+-t_108
+Placed 754 12 7 0 0 
+Y_0X_4Y_6Y_7
+t_66
+Placed 756 10 6 0 8 
+X_8X_11Y_13X_14
+t_108
+Placed 766 10 6 0 8 
+Y_8Y_11Y_13X_14
+t_108
+Placed 766 12 7 0 0 
+Y_0Y_4X_6Y_7
+t_66
+Placed 776 10 6 0 8 
+X_8Y_11Y_13Y_14
+t_108
+Placed 778 12 7 0 0 
+X_0Y_4X_6X_7
+-t_66
+Placed 786 10 6 0 8 
+Y_8X_11X_13X_14
+-t_108
+Placed 790 10 7 0 0 
+I_7Y_0X_4
+-t_71
+Placed 796 10 6 0 8 
+Y_8X_11Y_13Y_14
+-t_108
+Placed 800 10 7 0 0 
+I_7X_0Y_4
+t_71
+Placed 806 10 6 0 8 
+Y_8Y_11X_13Y_14
+-t_108
+Placed 810 12 7 0 0 
+I_7Y_0X_5
+-t_74
+Placed 816 10 6 0 8 
+X_8Y_11X_13X_14
+t_108
+Placed 822 12 7 0 0 
+I_7X_0Y_5
+t_74
+Placed 826 10 6 0 9 
+X_9X_10X_12Y_15
+t_109
+Placed 834 10 6 0 0 
+I_0Y_2X_6
+-t_2
+Placed 836 10 6 0 9 
+X_9X_10Y_12X_15
+-t_109
+Placed 844 10 6 0 0 
+I_0X_2Y_6
+t_2
+Placed 846 10 6 0 9 
+Y_9Y_10Y_12X_15
+-t_109
+Placed 854 12 6 0 0 
+X_0X_1X_2Y_6
+t_4
+Placed 856 10 6 0 9 
+X_9Y_10Y_12Y_15
+-t_109
+Placed 866 12 6 0 0 
+X_0X_1Y_2X_6
+-t_4
+Placed 866 10 6 0 9 
+Y_9X_10X_12X_15
+t_109
+Placed 876 10 6 0 9 
+Y_9X_10Y_12Y_15
+t_109
+Placed 878 12 6 0 0 
+Y_0Y_1Y_2X_6
+-t_4
+Placed 886 10 6 0 9 
+Y_9Y_10X_12Y_15
+t_109
+Placed 890 12 6 0 0 
+X_0Y_1Y_2Y_6
+t_4
+Placed 896 10 6 0 9 
+X_9Y_10X_12X_15
+-t_109
+Placed 902 12 6 0 0 
+Y_0X_1X_2X_6
+-t_4
+Placed 906 12 6 0 9 
+X_9X_13X_14Y_15
+t_114
+Placed 914 12 6 0 0 
+Y_0X_1Y_2Y_6
+-t_4
+Placed 918 12 6 0 9 
+X_9X_13Y_14X_15
+-t_114
+Placed 926 12 6 0 0 
+Y_0Y_1X_2Y_6
+t_4
+Placed 930 12 6 0 9 
+Y_9Y_13Y_14X_15
+-t_114
+Placed 938 12 6 0 0 
+X_0Y_1X_2X_6
+t_4
+Placed 942 12 6 0 9 
+X_9Y_13Y_14Y_15
+t_114
+Placed 950 12 6 0 1 
+I_1Y_2X_7
+-t_24
+Placed 954 12 6 0 9 
+Y_9X_13X_14X_15
+-t_114
+Placed 962 12 6 0 1 
+I_1X_2Y_7
+t_24
+Placed 966 12 6 0 9 
+Y_9X_13Y_14Y_15
+-t_114
+Placed 974 10 6 0 0 
+X_0X_1X_3Y_6
+t_26
+Placed 978 12 6 0 9 
+Y_9Y_13X_14Y_15
+t_114
+Placed 984 10 6 0 0 
+X_0X_1Y_3X_6
+-t_26
+Placed 990 12 6 0 9 
+X_9Y_13X_14X_15
+t_114
+Placed 994 10 6 0 0 
+Y_0Y_1Y_3X_6
+-t_26
+Placed 1002 10 5 0 9 
+X_9X_11X_12Y_14
+t_104
+Placed 1004 10 6 0 0 
+X_0Y_1Y_3Y_6
+-t_26
+Placed 1012 10 5 0 9 
+X_9X_11Y_12X_14
+t_104
+Placed 1014 10 6 0 0 
+Y_0X_1X_3X_6
+t_26
+Placed 1022 10 5 0 9 
+Y_9Y_11Y_12X_14
+-t_104
+Placed 1024 10 6 0 0 
+Y_0X_1Y_3Y_6
+t_26
+Placed 1032 10 5 0 9 
+X_9Y_11Y_12Y_14
+t_104
+Placed 1034 10 6 0 0 
+Y_0Y_1X_3Y_6
+t_26
+Placed 1042 10 5 0 9 
+Y_9X_11X_12X_14
+-t_104
+Placed 1044 10 6 0 0 
+X_0Y_1X_3X_6
+-t_26
+Placed 1052 10 5 0 9 
+Y_9X_11Y_12Y_14
+t_104
+Placed 1054 10 6 0 1 
+I_1Y_3X_7
+-t_32
+Placed 1062 10 5 0 9 
+Y_9Y_11X_12Y_14
+-t_104
+Placed 1064 10 6 0 1 
+I_1X_3Y_7
+t_32
+Placed 1072 10 5 0 9 
+X_9Y_11X_12X_14
+-t_104
+Placed 1074 10 6 0 0 
+I_6Y_0X_4
+-t_34
+Placed 1082 6 5 0 10 
+X_10Y_11Y_14Y_15
+t_111
+Placed 1084 10 6 0 0 
+I_6X_0Y_4
+t_34
+Placed 1088 6 5 0 10 
+Y_10X_11X_14X_15
+-t_111
+Placed 1094 6 5 0 10 
+Y_10X_11Y_14Y_15
+-t_111
+Placed 1094 12 6 0 0 
+I_6Y_0X_5
+-t_45
+Placed 1100 6 5 0 10 
+Y_10Y_11X_14Y_15
+t_111
+Placed 1106 6 5 0 10 
+X_10Y_11X_14X_15
+t_111
+Placed 1106 12 6 0 0 
+I_6X_0Y_5
+t_45
+Placed 1112 8 5 0 9 
+I_14Y_9X_12
+-t_112
+Placed 1118 12 6 0 1 
+X_1X_5X_6Y_7
+t_64
+Placed 1120 8 5 0 9 
+I_14X_9Y_12
+t_112
+Placed 1128 8 4 0 8 
+X_8X_10X_11Y_12
+t_83
+Placed 1130 12 6 0 1 
+X_1X_5Y_6X_7
+-t_64
+Placed 1136 8 4 0 8 
+X_8X_10Y_11X_12
+t_83
+Placed 1142 12 6 0 1 
+Y_1Y_5Y_6X_7
+-t_64
+Placed 1144 8 4 0 8 
+Y_8Y_10Y_11X_12
+-t_83
+Placed 1152 8 4 0 8 
+X_8Y_10Y_11Y_12
+t_83
+Placed 1154 12 6 0 1 
+X_1Y_5Y_6Y_7
+t_64
+Placed 1160 8 4 0 8 
+Y_8X_10X_11X_12
+-t_83
+Placed 1166 12 6 0 1 
+Y_1X_5X_6X_7
+-t_64
+Placed 1168 8 4 0 8 
+Y_8X_10Y_11Y_12
+t_83
+Placed 1176 8 4 0 8 
+Y_8Y_10X_11Y_12
+-t_83
+Placed 1178 12 6 0 1 
+Y_1X_5Y_6Y_7
+-t_64
+Placed 1184 8 4 0 8 
+X_8Y_10X_11X_12
+-t_83
+Placed 1190 12 6 0 1 
+Y_1Y_5X_6Y_7
+t_64
+Placed 1192 8 4 0 8 
+I_8Y_9X_12
+-t_98
+Placed 1200 8 4 0 8 
+I_8X_9Y_12
+t_98
+Placed 1202 12 6 0 1 
+X_1Y_5X_6X_7
+t_64
+Placed 1208 8 4 0 10 
+I_10Y_11X_14
+-t_101
+Placed 1214 10 6 0 1 
+X_1X_4X_6Y_7
+t_68
+Placed 1216 8 4 0 10 
+I_10X_11Y_14
+t_101
+Placed 1224 8 4 0 11 
+X_11X_12X_13Y_15
+t_115
+Placed 1224 10 6 0 1 
+X_1X_4Y_6X_7
+-t_68
+Placed 1232 8 4 0 11 
+X_11X_12Y_13X_15
+t_115
+Placed 1234 10 6 0 1 
+Y_1Y_4Y_6X_7
+-t_68
+Placed 1240 8 4 0 11 
+Y_11Y_12Y_13X_15
+-t_115
+Placed 1244 10 6 0 1 
+X_1Y_4Y_6Y_7
+-t_68
+Placed 1248 8 4 0 11 
+X_11Y_12Y_13Y_15
+t_115
+Placed 1254 10 6 0 1 
+Y_1X_4X_6X_7
+t_68
+Placed 1256 8 4 0 11 
+Y_11X_12X_13X_15
+-t_115
+Placed 1264 8 4 0 11 
+Y_11X_12Y_13Y_15
+t_115
+Placed 1264 10 6 0 1 
+Y_1X_4Y_6Y_7
+t_68
+Placed 1272 8 4 0 11 
+Y_11Y_12X_13Y_15
+-t_115
+Placed 1274 10 6 0 1 
+Y_1Y_4X_6Y_7
+t_68
+Placed 1280 8 4 0 11 
+X_11Y_12X_13X_15
+-t_115
+Placed 1284 10 6 0 1 
+X_1Y_4X_6X_7
+-t_68
+Placed 1288 6 3 0 9 
+Y_9X_12
+t_0
+Placed 1294 6 3 0 9 
+X_9Y_12
+-t_0
+Placed 1294 8 6 0 1 
+I_7X_1Y_4
+t_77
+Placed 1300 6 3 0 11 
+Y_11X_14
+t_1
+Placed 1302 10 6 0 1 
+I_7Y_1X_5
+-t_80
+Placed 1306 6 3 0 11 
+X_11Y_14
+-t_1
+Placed 1312 6 3 0 9 
+Y_9X_12
+t_86
+Placed 1312 10 6 0 1 
+I_7X_1Y_5
+t_80
+Placed 1318 4 3 0 9 
+I_10Y_9X_12
+-t_100
+Placed 1322 8 5 0 0 
+I_1Y_0X_5
+-t_22
+Placed 1322 8 6 0 6 
+I_6Y_9X_12
+-t_96
+Placed 1330 6 3 0 9 
+Y_9X_12
+-t_86
+Placed 1330 10 5 0 2 
+Y_2X_7
+t_6
+Placed 1336 6 3 0 11 
+Y_11X_14
+t_87
+Placed 1340 10 5 0 0 
+Y_0X_5
+t_7
+Placed 1342 8 6 0 6 
+I_6X_9Y_12
+t_96
 Placed 1350 6 3 0 11 
-Placed 1350 12 6 0 17 
-Placed 1352 14 7 0 0 
-Placed 1356 6 9 0 8 
-Placed 1362 6 3 0 11 
-Placed 1362 10 6 0 17 
-Placed 1366 14 7 0 0 
-Placed 1368 6 9 0 8 
-Placed 1372 10 6 0 17 
+Y_11X_14
+-t_87
+Placed 1350 10 5 0 2 
+Y_2X_7
+-t_6
+Placed 1356 6 3 0 9 
+Y_9X_12
+t_88
+Placed 1360 10 5 0 0 
+Y_0X_5
+-t_7
+Placed 1362 6 3 0 9 
+Y_9X_12
+-t_88
+Placed 1368 6 3 0 11 
+Y_11X_14
+t_89
+Placed 1370 10 5 0 0 
+X_0X_2X_3Y_5
+t_9
 Placed 1374 6 3 0 11 
-Placed 1380 14 7 0 0 
-Placed 1380 6 9 0 8 
-Placed 1382 10 6 0 17 
-Placed 1386 6 3 0 11 
-Placed 1392 10 6 0 17 
-Placed 1392 6 9 0 8 
-Placed 1394 12 7 0 0 
+Y_11X_14
+-t_89
+Placed 1380 6 3 0 9 
+Y_9X_12
+t_90
+Placed 1380 10 5 0 0 
+X_0X_2Y_3X_5
+t_9
+Placed 1386 6 3 0 9 
+Y_9X_12
+-t_90
+Placed 1390 10 5 0 0 
+Y_0Y_2Y_3X_5
+-t_9
+Placed 1392 6 3 0 11 
+Y_11X_14
+t_91
 Placed 1398 6 3 0 11 
-Placed 1402 10 6 0 17 
-Placed 1404 6 9 0 8 
-Placed 1406 12 7 0 0 
-Placed 1410 6 3 0 11 
-Placed 1412 10 6 0 17 
-Placed 1416 6 9 0 8 
-Placed 1418 12 7 0 0 
+Y_11X_14
+-t_91
+Placed 1400 10 5 0 0 
+X_0Y_2Y_3Y_5
+t_9
+Placed 1404 6 3 0 9 
+Y_9X_12
+t_92
+Placed 1410 6 3 0 9 
+Y_9X_12
+-t_92
+Placed 1410 10 5 0 0 
+Y_0X_2X_3X_5
+-t_9
+Placed 1416 6 3 0 11 
+Y_11X_14
+t_93
+Placed 1420 10 5 0 0 
+Y_0X_2Y_3Y_5
+t_9
 Placed 1422 6 3 0 11 
-Placed 1422 10 6 0 17 
-Placed 1428 6 9 0 8 
-Placed 1430 12 7 0 0 
-Placed 1432 8 6 0 17 
-Placed 1434 6 3 0 11 
-Placed 1440 8 4 0 19 
-Placed 1440 6 9 0 10 
-Placed 1442 12 7 0 0 
-Placed 1446 4 3 0 10 
-Placed 1448 8 4 0 19 
-Placed 1452 6 9 0 10 
-Placed 1454 12 7 0 0 
-Placed 1456 8 4 0 19 
-Placed 1458 4 3 0 10 
-Placed 1464 8 4 0 19 
-Placed 1464 6 9 0 10 
-Placed 1466 12 7 0 0 
-Placed 1470 6 3 0 9 
-Placed 1472 8 4 0 19 
-Placed 1476 6 9 0 10 
-Placed 1478 12 7 0 0 
-Placed 1480 8 4 0 19 
+Y_11X_14
+-t_93
+Placed 1428 6 3 0 9 
+Y_9X_12
+t_94
+Placed 1430 10 5 0 0 
+Y_0Y_2X_3Y_5
+-t_9
+Placed 1434 6 3 0 9 
+Y_9X_12
+-t_94
+Placed 1440 6 3 0 11 
+Y_11X_14
+t_95
+Placed 1440 10 5 0 0 
+X_0Y_2X_3X_5
+-t_9
+Placed 1446 6 3 0 11 
+Y_11X_14
+-t_95
+Placed 1450 10 5 0 1 
+I_1Y_2X_6
+-t_16
+Placed 1452 6 3 0 9 
+Y_9X_12
+t_96
+Placed 1458 6 3 0 9 
+Y_9X_12
+-t_96
+Placed 1460 10 5 0 1 
+I_1X_2Y_6
+t_16
+Placed 1464 6 3 0 11 
+Y_11X_14
+t_97
+Placed 1470 6 3 0 11 
+Y_11X_14
+-t_97
+Placed 1470 10 5 0 0 
+I_0Y_1X_5
+-t_18
+Placed 1476 6 3 0 9 
+Y_9X_12
+t_98
+Placed 1480 10 5 0 0 
+I_0X_1Y_5
+t_18
 Placed 1482 6 3 0 9 
-Placed 1488 8 4 0 19 
-Placed 1488 6 9 0 10 
-Placed 1490 10 7 0 0 
-Placed 1494 6 3 0 9 
-Placed 1496 8 4 0 19 
-Placed 1500 10 7 0 0 
-Placed 1500 6 9 0 10 
-Placed 1504 8 4 0 19 
-Placed 1506 6 3 0 9 
-Placed 1510 12 7 0 0 
-Placed 1512 8 4 0 19 
-Placed 1512 6 9 0 10 
-Placed 1518 4 3 0 11 
-Placed 1520 8 4 0 19 
-Placed 1522 12 7 0 0 
-Placed 1524 6 9 0 10 
-Placed 1530 10 6 0 9 
-Placed 1530 10 7 0 16 
-Placed 1534 6 7 0 2 
-Placed 1540 12 6 0 0 
-Placed 1540 12 7 0 8 
-Placed 1540 12 7 0 16 
-Placed 1552 8 6 0 9 
-Placed 1552 12 7 0 16 
-Placed 1552 6 7 0 2 
-Placed 1558 12 6 0 0 
-Placed 1560 12 7 0 8 
-Placed 1564 10 6 0 16 
-Placed 1572 8 6 0 9 
-Placed 1574 10 6 0 16 
-Placed 1572 6 7 0 2 
-Placed 1578 8 6 0 0 
-Placed 1580 14 7 0 8 
-Placed 1584 12 6 0 16 
-Placed 1586 4 4 0 3 
-Placed 1594 4 3 0 11 
-Placed 1594 6 7 0 2 
-Placed 1596 12 6 0 16 
-Placed 1600 8 6 0 0 
-Placed 1600 14 7 0 8 
-Placed 1590 4 4 0 3 
-Placed 1608 12 6 0 16 
-Placed 1614 6 3 0 11 
-Placed 1614 6 7 0 2 
-Placed 1620 12 6 0 1 
-Placed 1620 12 6 0 16 
-Placed 1620 14 7 0 8 
-Placed 1632 12 6 0 16 
-Placed 1634 6 3 0 11 
-Placed 1634 6 7 0 2 
-Placed 1640 12 6 0 1 
-Placed 1640 14 7 0 8 
-Placed 1644 12 6 0 16 
-Placed 1654 6 3 0 11 
-Placed 1654 6 7 0 2 
-Placed 1656 12 6 0 16 
-Placed 1660 10 6 0 0 
-Placed 1660 14 7 0 8 
-Placed 1668 12 6 0 16 
-Placed 1608 4 3 0 1 
-Placed 1674 6 3 0 11 
-Placed 1674 6 7 0 2 
-Placed 1680 10 6 0 0 
-Placed 1680 8 6 0 16 
-Placed 1680 14 7 0 8 
-Placed 1688 8 6 0 16 
-Placed 1690 8 4 0 0 
-Placed 1694 4 2 0 11 
-Placed 1694 6 7 0 4 
-Placed 1696 10 6 0 16 
-Placed 1700 10 6 0 0 
-Placed 1700 14 7 0 8 
-Placed 1706 10 6 0 16 
-Placed 1710 8 4 0 0 
-Placed 1714 4 2 0 11 
-Placed 1714 6 7 0 4 
-Placed 1716 10 6 0 16 
-Placed 1720 10 6 0 0 
-Placed 1720 14 7 0 8 
-Placed 1726 10 6 0 16 
-Placed 1730 8 4 0 0 
-Placed 1734 6 7 0 4 
-Placed 1736 10 6 0 16 
-Placed 1740 10 6 0 0 
-Placed 1740 10 7 0 8 
-Placed 1746 10 6 0 16 
-Placed 1750 6 3 0 1 
-Placed 1750 8 4 0 11 
-Placed 1750 6 7 0 4 
-Placed 1670 4 3 0 1 
-Placed 1756 10 6 0 16 
-Placed 1756 10 6 0 0 
-Placed 1758 10 7 0 8 
-Placed 1766 10 6 0 16 
-Placed 1766 6 3 0 1 
-Placed 1768 8 4 0 11 
-Placed 1768 6 7 0 4 
-Placed 1772 4 3 0 1 
-Placed 1776 10 6 0 16 
-Placed 1776 10 6 0 0 
-Placed 1776 10 7 0 8 
-Placed 1786 10 6 0 16 
-Placed 1786 6 3 0 1 
-Placed 1786 8 4 0 11 
-Placed 1786 6 7 0 4 
-Placed 1792 4 2 0 2 
-Placed 1796 10 6 0 16 
-Placed 1796 10 6 0 0 
-Placed 1794 10 7 0 8 
-Placed 1806 10 6 0 16 
-Placed 1806 6 3 0 1 
-Placed 1804 8 4 0 11 
-Placed 1806 6 7 0 4 
-Placed 1812 4 2 0 2 
-Placed 1816 10 6 0 16 
-Placed 1816 10 6 0 1 
-Placed 1812 10 7 0 8 
-Placed 1826 10 6 0 16 
-Placed 1826 6 3 0 1 
-Placed 1822 8 4 0 11 
-Placed 1826 6 7 0 4 
-Placed 1836 10 6 0 16 
-Placed 1832 10 6 0 1 
-Placed 1832 10 7 0 8 
-Placed 1846 10 6 0 16 
-Placed 1842 10 6 0 0 
-Placed 1842 10 7 0 8 
-Placed 1856 10 6 0 16 
-Placed 1852 10 6 0 0 
-Placed 1852 10 7 0 8 
-Placed 1866 10 6 0 16 
-Placed 1862 10 6 0 0 
-Placed 1862 10 7 0 8 
-Placed 1876 10 6 0 17 
-Placed 1872 10 6 0 0 
-Placed 1872 10 7 0 8 
-Placed 1886 10 6 0 17 
-Placed 1882 10 6 0 0 
-Placed 1882 12 7 0 8 
-Placed 1896 10 6 0 17 
-Placed 1892 10 6 0 0 
-Placed 1894 12 7 0 8 
-Placed 1906 12 6 0 16 
-Placed 1902 10 6 0 0 
-Placed 1906 12 7 0 8 
-Placed 1918 12 6 0 16 
-Placed 1912 10 6 0 0 
-Placed 1918 12 7 0 8 
-Placed 1922 10 6 0 0 
-Placed 1930 12 6 0 17 
-Placed 1930 12 7 0 8 
-Placed 1932 10 6 0 0 
-Placed 1942 12 6 0 17 
-Placed 1942 10 6 0 1 
-Placed 1942 12 7 0 8 
-Placed 1954 12 6 0 17 
-Placed 1952 10 6 0 1 
-Placed 1954 12 7 0 8 
-Placed 1966 12 6 0 17 
-Placed 1962 10 6 0 1 
-Placed 1966 12 7 0 8 
-Placed 1978 12 6 0 17 
-Placed 1972 12 6 0 0 
-Placed 1978 6 7 0 6 
-Placed 1990 12 6 0 17 
-Placed 1984 10 6 0 1 
-Placed 1984 14 7 0 8 
-Placed 1994 8 5 0 0 
-Placed 2002 12 6 0 17 
-Placed 1998 6 7 0 6 
-Placed 2004 10 6 0 1 
-Placed 2004 14 7 0 8 
-Placed 2014 12 6 0 17 
-Placed 2014 8 5 0 0 
-Placed 2026 10 6 0 17 
-Placed 2018 6 7 0 6 
-Placed 2024 10 6 0 1 
-Placed 2024 14 7 0 8 
-Placed 2036 10 6 0 17 
-Placed 2034 10 5 0 0 
-Placed 2046 10 6 0 17 
-Placed 2038 6 7 0 6 
-Placed 2044 10 6 0 1 
-Placed 2044 14 7 0 8 
-Placed 2056 10 6 0 17 
-Placed 2054 10 5 0 0 
-Placed 2066 10 6 0 17 
-Placed 2058 6 7 0 6 
-Placed 2064 10 6 0 1 
-Placed 2064 14 7 0 8 
-Placed 2076 10 6 0 17 
-Placed 2074 12 6 0 0 
-Placed 2086 10 6 0 17 
-Placed 2078 6 7 0 6 
-Placed 2084 14 7 0 8 
-Placed 2086 12 6 0 1 
-Placed 2096 10 6 0 17 
-Placed 2098 6 4 0 1 
-Placed 2106 8 6 0 17 
-Placed 2098 6 7 0 6 
-Placed 2104 12 6 0 1 
-Placed 2104 14 7 0 8 
-Placed 2114 10 6 0 17 
-Placed 2116 8 5 0 0 
-Placed 2124 10 6 0 17 
-Placed 2118 6 7 0 6 
-Placed 2124 12 6 0 1 
-Placed 2124 14 7 0 8 
-Placed 2134 10 5 0 18 
-Placed 2144 10 5 0 18 
-Placed 2136 12 6 0 1 
-Placed 2138 12 7 0 8 
-Placed 2154 8 5 0 16 
-Placed 2148 12 6 0 1 
-Placed 2150 12 7 0 8 
-Placed 2162 8 5 0 16 
-Placed 2160 12 6 0 1 
-Placed 2170 10 5 0 16 
-Placed 2162 12 7 0 8 
-Placed 2180 10 5 0 16 
-Placed 2172 12 6 0 1 
-Placed 2174 12 7 0 8 
-Placed 2190 10 5 0 16 
-Placed 2184 12 6 0 1 
-Placed 2186 12 7 0 8 
-Placed 2200 10 5 0 16 
-Placed 2196 10 6 0 1 
-Placed 2198 12 7 0 8 
-Placed 2210 10 5 0 16 
-Placed 2206 10 6 0 1 
-Placed 2210 12 7 0 8 
-Placed 2220 10 5 0 16 
-Placed 2216 10 6 0 1 
-Placed 2230 10 5 0 16 
-Placed 2222 12 7 0 8 
-Placed 2226 10 6 0 1 
-Placed 2240 10 5 0 16 
-Placed 2234 10 7 0 8 
-Placed 2236 10 6 0 1 
-Placed 2250 10 5 0 16 
-Placed 2244 10 7 0 8 
-Placed 2246 10 6 0 1 
-Placed 2260 10 5 0 16 
-Placed 2254 12 7 0 8 
-Placed 2256 10 6 0 1 
-Placed 2270 10 5 0 17 
-Placed 2266 10 6 0 1 
-Placed 2266 12 7 0 8 
-Placed 2280 10 5 0 17 
-Placed 2276 8 6 0 1 
-Placed 2278 6 7 0 10 
-Placed 2290 10 5 0 16 
-Placed 2284 8 6 0 1 
-Placed 2284 10 6 0 8 
-Placed 2292 10 6 0 1 
-Placed 2294 4 2 0 10 
-Placed 2300 10 5 0 18 
-Placed 2300 6 7 0 10 
-Placed 2302 10 6 0 1 
-Placed 2310 10 5 0 16 
-Placed 2306 10 6 0 8 
-Placed 2312 10 5 0 2 
-Placed 2316 4 2 0 10 
-Placed 2320 10 5 0 18 
-Placed 2320 6 7 0 10 
-Placed 2322 10 5 0 2 
-Placed 2330 8 5 0 16 
-Placed 2326 12 6 0 8 
-Placed 2332 10 5 0 0 
-Placed 2338 10 5 0 18 
-Placed 2338 6 7 0 10 
-Placed 2342 10 5 0 0 
-Placed 2348 8 5 0 16 
-Placed 2344 12 6 0 8 
-Placed 2352 10 5 0 0 
-Placed 2356 10 5 0 18 
-Placed 2356 6 7 0 10 
-Placed 2362 10 5 0 0 
-Placed 2366 10 5 0 16 
-Placed 2362 12 6 0 8 
-Placed 2372 10 5 0 0 
-Placed 2376 8 5 0 18 
-Placed 2376 6 7 0 10 
-Placed 2382 10 5 0 0 
-Placed 2384 10 5 0 16 
-Placed 2382 12 6 0 8 
-Placed 2392 10 5 0 0 
-Placed 2394 8 5 0 18 
-Placed 2394 6 7 0 10 
-Placed 2402 10 5 0 0 
-Placed 2402 8 5 0 16 
-Placed 2400 12 6 0 8 
-Placed 2412 10 5 0 1 
-Placed 2410 10 5 0 18 
-Placed 2412 6 7 0 10 
-Placed 2422 10 5 0 1 
-Placed 2420 8 5 0 16 
-Placed 2418 12 6 0 8 
-Placed 2428 8 4 0 19 
-Placed 2432 10 5 0 0 
-Placed 2430 8 4 0 8 
-Placed 2430 6 7 0 12 
-Placed 2436 4 3 0 19 
-Placed 2442 10 5 0 0 
-Placed 2440 10 5 0 16 
-Placed 2438 12 6 0 8 
-Placed 2452 10 5 0 2 
-Placed 2450 8 4 0 19 
-Placed 2450 8 4 0 8 
-Placed 2450 6 7 0 12 
-Placed 2462 10 5 0 2 
-Placed 2458 10 5 0 16 
-Placed 2458 12 6 0 8 
-Placed 2472 8 5 0 0 
-Placed 2468 8 4 0 19 
-Placed 2470 8 4 0 8 
-Placed 2470 6 7 0 12 
-Placed 2480 10 5 0 0 
-Placed 2476 10 5 0 18 
-Placed 2478 8 6 0 8 
-Placed 2490 10 5 0 0 
-Placed 2486 8 4 0 8 
-Placed 2486 8 4 0 19 
-Placed 2486 6 7 0 12 
-Placed 2500 8 5 0 0 
-Placed 2494 8 5 0 17 
-Placed 2494 8 6 0 8 
-Placed 2508 8 5 0 0 
-Placed 2502 8 4 0 8 
-Placed 2502 8 4 0 19 
-Placed 2516 10 5 0 0 
-Placed 2502 6 7 0 12 
-Placed 2510 4 3 0 19 
-Placed 2514 8 5 0 17 
-Placed 2510 12 6 0 9 
-Placed 2526 10 5 0 0 
-Placed 2522 6 4 0 18 
-Placed 2522 8 4 0 8 
-Placed 2536 10 5 0 2 
-Placed 2528 6 4 0 19 
-Placed 2528 6 7 0 12 
-Placed 2534 10 5 0 17 
-Placed 2534 12 6 0 9 
-Placed 2546 10 5 0 2 
-Placed 2544 8 4 0 19 
-Placed 2546 8 4 0 8 
-Placed 2556 8 5 0 2 
-Placed 2546 6 7 0 12 
-Placed 2564 8 5 0 2 
-Placed 2552 10 5 0 17 
-Placed 2554 10 6 0 8 
-Placed 2572 10 5 0 2 
-Placed 2564 8 4 0 8 
-Placed 2562 8 4 0 19 
-Placed 2564 6 7 0 12 
-Placed 2582 10 5 0 2 
-Placed 2570 10 5 0 17 
-Placed 2572 10 6 0 8 
-Placed 2592 8 5 0 1 
-Placed 2580 4 3 0 17 
-Placed 2582 10 6 0 8 
-Placed 2584 6 7 0 14 
-Placed 2600 8 5 0 1 
-Placed 2590 10 5 0 17 
-Placed 2592 10 6 0 8 
-Placed 2608 10 5 0 1 
-Placed 2600 4 3 0 17 
-Placed 2602 10 6 0 8 
-Placed 2618 10 5 0 1 
-Placed 2604 6 7 0 14 
-Placed 2610 10 5 0 17 
-Placed 2612 10 6 0 8 
-Placed 2628 10 5 0 1 
-Placed 2620 4 3 0 17 
-Placed 2622 10 6 0 8 
-Placed 2638 10 5 0 1 
-Placed 2624 6 7 0 14 
-Placed 2630 10 5 0 17 
-Placed 2632 10 6 0 8 
-Placed 2648 10 5 0 1 
-Placed 2640 4 3 0 17 
-Placed 2642 10 6 0 8 
-Placed 2658 10 5 0 1 
-Placed 2644 6 7 0 14 
-Placed 2650 10 5 0 17 
-Placed 2652 10 6 0 9 
-Placed 2668 10 5 0 1 
-Placed 2660 6 4 0 19 
-Placed 2662 10 6 0 8 
-Placed 2678 10 5 0 1 
-Placed 2662 6 5 0 14 
-Placed 2666 4 3 0 19 
-Placed 2670 10 5 0 17 
-Placed 2672 10 6 0 8 
-Placed 2688 8 5 0 0 
-Placed 2680 8 4 0 19 
-Placed 2682 10 6 0 8 
-Placed 2696 8 5 0 0 
-Placed 2680 6 5 0 14 
-Placed 2704 10 5 0 0 
-Placed 2688 8 5 0 16 
-Placed 2692 10 6 0 8 
-Placed 2696 8 4 0 19 
-Placed 2714 10 5 0 0 
-Placed 2702 10 6 0 8 
-Placed 2696 6 5 0 14 
-Placed 2704 4 3 0 19 
-Placed 2724 10 5 0 0 
-Placed 2708 8 5 0 16 
-Placed 2712 10 6 0 8 
-Placed 2716 6 3 0 17 
-Placed 2734 10 5 0 0 
-Placed 2722 10 6 0 8 
-Placed 2722 6 3 0 19 
-Placed 2722 6 5 0 14 
-Placed 2744 8 5 0 2 
-Placed 2728 10 5 0 16 
-Placed 2732 10 6 0 8 
-Placed 2752 8 5 0 2 
-Placed 2738 10 5 0 16 
-Placed 2742 10 6 0 8 
-Placed 2760 10 5 0 2 
-Placed 2748 10 5 0 16 
-Placed 2752 10 6 0 9 
-Placed 2770 10 5 0 2 
-Placed 2758 10 5 0 16 
-Placed 2762 10 6 0 9 
-Placed 2780 8 5 0 2 
-Placed 2768 8 5 0 18 
-Placed 2772 10 6 0 9 
-Placed 2788 8 5 0 2 
-Placed 2776 8 5 0 18 
-Placed 2782 10 6 0 9 
-Placed 2796 10 5 0 2 
-Placed 2784 10 5 0 18 
-Placed 2792 10 6 0 9 
-Placed 2806 10 5 0 2 
-Placed 2794 10 5 0 18 
-Placed 2802 10 6 0 9 
-Placed 2816 10 5 0 2 
-Placed 2804 8 5 0 18 
-Placed 2812 10 6 0 9 
-Placed 2826 10 5 0 2 
-Placed 2812 8 5 0 18 
-Placed 2822 10 6 0 9 
-Placed 2836 10 5 0 2 
-Placed 2820 8 5 0 17 
-Placed 2828 6 3 0 19 
-Placed 2832 6 5 0 14 
-Placed 2832 12 6 0 8 
-Placed 2846 10 5 0 2 
-Placed 2838 10 5 0 18 
-Placed 2856 10 5 0 2 
-Placed 2844 12 6 0 8 
-Placed 2848 10 5 0 18 
-Placed 2866 10 5 0 2 
-Placed 2856 12 6 0 9 
-Placed 2858 10 5 0 18 
-Placed 2876 10 5 0 2 
-Placed 2868 10 5 0 18 
-Placed 2868 12 6 0 9 
-Placed 2886 10 5 0 2 
-Placed 2878 10 5 0 18 
-Placed 2880 12 6 0 9 
-Placed 2510 6 3 0 6 
-Placed 2896 8 5 0 1 
-Placed 2888 10 5 0 18 
-Placed 2904 8 5 0 1 
-Placed 2892 12 6 0 9 
-Placed 2898 10 5 0 18 
-Placed 2912 10 5 0 1 
-Placed 2896 6 3 0 6 
-Placed 2904 12 6 0 9 
-Placed 2908 10 5 0 18 
-Placed 2922 10 5 0 1 
-Placed 2916 12 6 0 9 
-Placed 2918 10 5 0 18 
-Placed 2932 10 5 0 0 
-Placed 2928 10 5 0 18 
-Placed 2928 12 6 0 9 
-Placed 2942 10 5 0 0 
-Placed 2938 8 5 0 17 
-Placed 2952 10 5 0 2 
-Placed 2940 12 6 0 9 
-Placed 2946 10 5 0 17 
-Placed 2962 10 5 0 2 
-Placed 2952 10 6 0 9 
-Placed 2956 10 5 0 17 
-Placed 2908 6 3 0 6 
-Placed 2972 10 5 0 0 
-Placed 2962 10 6 0 9 
-Placed 2966 10 5 0 16 
-Placed 2982 10 5 0 0 
-Placed 2972 10 6 0 9 
-Placed 2976 10 5 0 16 
-Placed 2992 8 5 0 2 
-Placed 2982 10 6 0 9 
-Placed 2986 10 5 0 18 
-Placed 3000 8 5 0 2 
-Placed 2992 10 6 0 9 
-Placed 3008 10 5 0 2 
-Placed 2996 10 5 0 18 
-Placed 3002 10 6 0 9 
-Placed 3018 10 5 0 2 
-Placed 3006 10 5 0 16 
-Placed 3012 10 6 0 9 
-Placed 3028 6 3 0 1 
-Placed 3028 6 5 0 4 
-Placed 3016 10 5 0 16 
-Placed 3034 8 4 0 2 
-Placed 3022 10 6 0 9 
-Placed 3026 8 5 0 18 
-Placed 3042 6 4 0 1 
-Placed 3032 10 6 0 9 
-Placed 3034 8 5 0 18 
-Placed 3048 6 3 0 1 
-Placed 3048 6 5 0 4 
-Placed 3054 8 4 0 2 
-Placed 3042 10 5 0 18 
-Placed 3042 10 6 0 9 
-Placed 3062 6 4 0 3 
-Placed 3052 10 5 0 10 
-Placed 3052 10 5 0 18 
-Placed 3068 6 3 0 1 
-Placed 3068 6 5 0 4 
-Placed 3074 8 4 0 2 
-Placed 3062 8 4 0 18 
-Placed 3062 10 5 0 10 
-Placed 3070 6 3 0 19 
-Placed 3082 6 4 0 3 
-Placed 3072 10 5 0 9 
-Placed 3072 6 5 0 14 
-Placed 3088 6 3 0 1 
-Placed 3088 6 5 0 4 
-Placed 3078 8 4 0 18 
-Placed 3094 8 4 0 2 
-Placed 3094 8 5 0 8 
-Placed 3086 8 4 0 16 
-Placed 3102 6 4 0 3 
-Placed 3082 10 5 0 9 
-Placed 3094 8 4 0 16 
-Placed 3108 6 3 0 1 
-Placed 3108 6 5 0 4 
-Placed 3114 8 4 0 2 
-Placed 3102 8 4 0 16 
-Placed 3114 8 5 0 8 
-Placed 3122 6 4 0 3 
-Placed 3110 8 4 0 16 
-Placed 3102 10 5 0 10 
-Placed 3128 6 3 0 1 
-Placed 3128 6 5 0 4 
-Placed 3118 8 4 0 16 
-Placed 3134 8 4 0 2 
-Placed 3134 10 5 0 8 
-Placed 3126 8 4 0 16 
-Placed 3142 6 4 0 2 
-Placed 3122 10 5 0 10 
-Placed 3134 8 4 0 16 
-Placed 3148 6 3 0 1 
-Placed 3148 6 5 0 4 
-Placed 3154 8 4 0 2 
-Placed 3142 8 4 0 16 
-Placed 3154 10 5 0 8 
-Placed 3162 6 4 0 2 
-Placed 3150 8 4 0 16 
-Placed 3144 10 5 0 10 
-Placed 3168 6 3 0 1 
-Placed 3168 6 5 0 4 
-Placed 3158 6 3 0 19 
-Placed 3174 8 4 0 2 
-Placed 3174 10 5 0 8 
-Placed 3158 6 5 0 14 
-Placed 2834 4 2 0 19 
-Placed 3164 8 4 0 16 
-Placed 3182 8 4 0 1 
-Placed 3164 8 4 0 11 
-Placed 3172 6 3 0 17 
-Placed 3184 6 5 0 6 
-Placed 3190 8 4 0 1 
-Placed 3178 6 3 0 19 
-Placed 3190 10 5 0 8 
-Placed 3178 6 5 0 14 
-Placed 3198 8 4 0 3 
-Placed 3184 8 4 0 16 
-Placed 3200 8 4 0 11 
-Placed 3206 8 4 0 1 
-Placed 3192 8 4 0 16 
-Placed 3206 6 5 0 6 
-Placed 3214 8 4 0 3 
-Placed 3212 10 5 0 8 
-Placed 3200 8 4 0 18 
-Placed 3222 8 4 0 1 
-Placed 3222 8 4 0 11 
-Placed 3208 8 4 0 18 
-Placed 3222 6 5 0 6 
-Placed 3230 4 3 0 2 
-Placed 3216 8 4 0 16 
-Placed 3234 8 4 0 3 
-Placed 3230 10 5 0 8 
-Placed 3224 8 4 0 16 
-Placed 3242 8 4 0 1 
-Placed 3240 8 4 0 11 
-Placed 3232 8 4 0 16 
-Placed 3242 6 5 0 6 
-Placed 3250 4 3 0 2 
-Placed 3254 8 4 0 3 
-Placed 3248 10 5 0 8 
-Placed 3240 8 4 0 16 
-Placed 3262 8 4 0 1 
-Placed 3258 8 4 0 11 
-Placed 3248 8 4 0 18 
-Placed 3262 6 5 0 6 
-Placed 3270 8 4 0 1 
-Placed 3256 8 4 0 18 
-Placed 3268 10 5 0 8 
-Placed 3278 8 4 0 1 
-Placed 3264 8 4 0 18 
-Placed 3278 8 4 0 11 
-Placed 3286 8 4 0 1 
-Placed 3272 8 4 0 18 
-Placed 3278 6 5 0 6 
-Placed 3294 8 4 0 1 
-Placed 3286 10 5 0 8 
-Placed 3280 8 4 0 17 
-Placed 3302 8 4 0 1 
-Placed 3296 8 4 0 11 
-Placed 3288 8 4 0 17 
-Placed 3296 6 5 0 6 
-Placed 3310 8 4 0 1 
-Placed 3296 8 4 0 17 
-Placed 3304 10 5 0 8 
-Placed 3318 8 4 0 3 
-Placed 3304 8 4 0 17 
-Placed 3314 8 4 0 11 
-Placed 3326 8 4 0 1 
-Placed 3312 8 4 0 17 
-Placed 3326 6 5 0 6 
-Placed 2844 6 3 0 14 
-Placed 3334 8 4 0 3 
-Placed 3332 10 5 0 8 
-Placed 3320 8 4 0 17 
-Placed 3342 8 4 0 1 
-Placed 3328 8 4 0 17 
-Placed 3342 10 5 0 8 
-Placed 3350 8 4 0 2 
-Placed 3266 6 3 0 14 
-Placed 3336 8 4 0 17 
-Placed 3352 8 5 0 8 
-Placed 3358 8 4 0 2 
-Placed 3344 8 4 0 17 
-Placed 3360 8 5 0 8 
-Placed 3366 8 4 0 1 
-Placed 3352 8 4 0 17 
-Placed 3368 10 5 0 8 
-Placed 3322 6 3 0 14 
-Placed 3374 8 4 0 1 
-Placed 3360 8 4 0 17 
-Placed 3378 10 5 0 8 
-Placed 3382 8 4 0 1 
-Placed 3368 8 4 0 17 
-Placed 3390 8 4 0 1 
-Placed 3388 8 5 0 8 
-Placed 3376 8 4 0 17 
-Placed 3398 8 4 0 3 
-Placed 3396 8 5 0 8 
-Placed 3384 8 4 0 17 
-Placed 3406 8 4 0 3 
-Placed 3404 10 5 0 8 
-Placed 3392 8 4 0 16 
-Placed 3414 8 4 0 3 
-Placed 3400 8 4 0 16 
-Placed 3414 10 5 0 8 
-Placed 3422 8 4 0 3 
-Placed 3408 8 4 0 18 
-Placed 3424 10 5 0 10 
-Placed 3430 8 4 0 3 
-Placed 3416 8 4 0 18 
-Placed 3434 8 5 0 10 
-Placed 3438 8 4 0 3 
-Placed 3424 8 4 0 17 
-Placed 3442 8 5 0 10 
-Placed 3446 8 4 0 3 
-Placed 3432 8 4 0 17 
-Placed 3450 10 5 0 10 
-Placed 3454 8 4 0 3 
-Placed 3440 8 4 0 17 
-Placed 3462 8 4 0 3 
-Placed 3460 10 5 0 10 
-Placed 3448 8 4 0 17 
-Placed 3470 8 4 0 3 
-Placed 3334 6 3 0 14 
-Placed 3456 8 4 0 18 
-Placed 3470 8 5 0 9 
-Placed 3478 8 4 0 3 
-Placed 3464 8 4 0 18 
-Placed 3478 8 5 0 9 
-Placed 3486 8 4 0 3 
-Placed 3472 8 4 0 18 
-Placed 3486 10 5 0 9 
-Placed 3346 6 3 0 14 
-Placed 2920 6 3 0 6 
-Placed 3494 8 4 0 2 
-Placed 3480 8 4 0 18 
-Placed 3496 10 5 0 9 
-Placed 3502 8 4 0 2 
-Placed 3488 8 4 0 18 
-Placed 3506 10 5 0 9 
-Placed 3510 8 4 0 2 
-Placed 3358 6 3 0 14 
-Placed 3496 8 4 0 18 
-Placed 2932 6 3 0 6 
-Placed 3518 8 4 0 2 
-Placed 3516 10 5 0 9 
-Placed 3504 8 4 0 18 
-Placed 3526 8 4 0 2 
-Placed 3512 8 4 0 18 
-Placed 3526 10 5 0 9 
-Placed 2972 6 3 0 6 
-Placed 3534 8 4 0 2 
-Placed 3520 8 4 0 16 
-Placed 3536 10 5 0 9 
-Placed 3542 8 4 0 2 
-Placed 3528 8 4 0 16 
-Placed 3546 10 5 0 9 
-Placed 3550 8 4 0 2 
-Placed 3536 8 4 0 16 
-Placed 3558 8 4 0 2 
-Placed 3556 10 5 0 9 
-Placed 3544 8 4 0 16 
-Placed 3566 8 4 0 2 
-Placed 3370 6 3 0 14 
-Placed 3552 8 4 0 18 
-Placed 3566 8 5 0 8 
-Placed 3574 8 4 0 2 
-Placed 3560 8 4 0 18 
-Placed 3574 8 5 0 8 
-Placed 3582 8 4 0 2 
-Placed 3568 8 4 0 18 
-Placed 3582 10 5 0 8 
-Placed 3408 6 3 0 14 
-Placed 3590 8 4 0 1 
-Placed 3576 8 4 0 18 
-Placed 3592 10 5 0 8 
-Placed 3598 8 4 0 1 
-Placed 3584 8 4 0 17 
-Placed 3602 10 5 0 8 
-Placed 3606 8 4 0 3 
-Placed 3592 8 4 0 17 
-Placed 3614 8 4 0 3 
-Placed 3612 10 5 0 8 
-Placed 3600 8 4 0 17 
-Placed 3622 8 4 0 1 
-Placed 3608 8 4 0 17 
-Placed 3622 8 5 0 10 
-Placed 3630 8 4 0 1 
-Placed 3616 6 3 0 17 
-Placed 3630 8 5 0 10 
-Placed 3622 6 3 0 17 
-Placed 3638 6 4 0 3 
-Placed 3638 10 5 0 10 
-Placed 3628 6 3 0 17 
-Placed 3644 6 4 0 3 
-Placed 3634 6 3 0 17 
-Placed 3650 8 4 0 3 
-Placed 3648 10 5 0 10 
-Placed 3640 6 3 0 17 
-Placed 3658 8 4 0 3 
-Placed 3658 8 5 0 10 
-Placed 3646 6 3 0 17 
-Placed 3666 6 3 0 3 
-Placed 3494 6 3 0 6 
-Placed 3652 6 3 0 17 
-Placed 3666 8 5 0 10 
-Placed 3672 6 3 0 3 
-Placed 3658 6 3 0 17 
-Placed 3674 10 5 0 10 
-Placed 3678 6 3 0 3 
-Placed 3664 6 3 0 17 
-Placed 3684 6 3 0 3 
-Placed 3506 6 3 0 6 
-Placed 3670 6 3 0 17 
-Placed 3684 10 5 0 10 
-Placed 3690 6 3 0 3 
-Placed 3676 6 3 0 19 
-Placed 3696 6 3 0 3 
-Placed 3694 10 5 0 10 
-Placed 3682 6 3 0 17 
-Placed 3702 6 3 0 2 
-Placed 3688 6 3 0 17 
-Placed 3704 10 5 0 10 
-Placed 3708 6 3 0 2 
-Placed 3694 4 3 0 18 
-Placed 3714 6 3 0 2 
-Placed 3698 4 3 0 18 
-Placed 3714 10 5 0 10 
-Placed 3702 6 3 0 18 
-Placed 3720 6 3 0 2 
-Placed 3708 6 3 0 18 
-Placed 3726 6 3 0 2 
-Placed 3724 10 5 0 10 
-Placed 3714 6 3 0 18 
-Placed 3732 6 3 0 2 
-Placed 3720 6 3 0 18 
-Placed 3734 10 5 0 10 
-Placed 3738 6 3 0 2 
-Placed 3726 6 3 0 18 
-Placed 3744 6 3 0 2 
-Placed 3744 10 5 0 10 
-Placed 3732 6 3 0 18 
-Placed 3750 6 3 0 1 
-Placed 3738 6 3 0 18 
-Placed 3756 4 3 0 3 
-Placed 3754 10 5 0 10 
-Placed 3760 4 3 0 3 
-Placed 3744 6 3 0 18 
-Placed 3764 6 3 0 3 
-Placed 3750 6 3 0 17 
-Placed 3764 10 5 0 10 
-Placed 3770 6 3 0 3 
-Placed 3756 6 3 0 17 
-Placed 3776 6 3 0 3 
-Placed 3774 8 5 0 9 
-Placed 3762 6 3 0 19 
-Placed 3782 6 3 0 3 
-Placed 3768 6 3 0 19 
-Placed 3782 8 5 0 9 
-Placed 3788 6 3 0 3 
-Placed 3774 6 3 0 19 
-Placed 3790 10 5 0 9 
-Placed 3794 6 3 0 3 
-Placed 3780 6 3 0 19 
-Placed 3800 6 3 0 3 
-Placed 3786 6 3 0 19 
-Placed 3800 10 5 0 9 
-Placed 3806 6 3 0 3 
-Placed 3792 6 3 0 19 
-Placed 3812 6 3 0 3 
-Placed 3810 10 5 0 8 
-Placed 3798 6 3 0 19 
-Placed 3818 6 3 0 3 
-Placed 3804 6 3 0 19 
-Placed 3820 10 5 0 8 
-Placed 3824 4 3 0 2 
-Placed 3810 6 3 0 19 
-Placed 3828 4 3 0 2 
-Placed 3832 6 3 0 1 
-Placed 3816 6 3 0 19 
-Placed 3830 10 5 0 10 
-Placed 3838 6 3 0 1 
-Placed 3822 4 3 0 18 
-Placed 3826 4 3 0 18 
-Placed 3840 10 5 0 10 
-Placed 3844 6 3 0 1 
-Placed 3830 6 3 0 17 
-Placed 3850 6 3 0 1 
-Placed 3836 6 3 0 17 
-Placed 3850 10 5 0 8 
-Placed 3856 4 3 0 3 
-Placed 3842 6 3 0 17 
-Placed 3860 4 3 0 3 
-Placed 3860 10 5 0 8 
-Placed 3864 6 3 0 3 
-Placed 3848 6 3 0 17 
-Placed 3870 6 3 0 3 
-Placed 3854 6 3 0 19 
-Placed 3870 8 5 0 10 
-Placed 3876 6 3 0 3 
-Placed 3860 6 3 0 19 
-Placed 3878 8 5 0 10 
-Placed 3882 6 3 0 3 
-Placed 3866 6 3 0 19 
-Placed 3888 4 2 0 3 
-Placed 3872 6 3 0 19 
-Placed 3886 10 5 0 10 
-Placed 3892 4 2 0 3 
-Placed 3878 4 2 0 18 
-Placed 3882 4 2 0 18 
-Placed 3896 10 5 0 10 
-Placed 3886 4 2 0 19 
-Placed 3906 6 5 0 12 
-Placed 3912 8 4 0 10 
-Placed 3920 8 4 0 8 
-Placed 3920 6 5 0 12 
-Placed 3928 8 4 0 10 
-Placed 3936 8 4 0 8 
-Placed 3936 6 5 0 12 
-Placed 3944 8 4 0 8 
-Placed 3952 8 4 0 8 
-Placed 3960 8 4 0 8 
-Placed 3948 6 5 0 12 
-Placed 3968 8 4 0 10 
-Placed 3976 8 4 0 8 
-Placed 3976 6 5 0 12 
-Placed 3984 8 4 0 10 
-Placed 3992 8 4 0 8 
-Placed 3992 6 5 0 12 
-Placed 4000 8 4 0 8 
-Placed 4008 8 4 0 10 
-Placed 4016 8 4 0 8 
-Placed 4016 6 5 0 12 
-Placed 4024 8 4 0 10 
-Placed 4032 8 4 0 8 
-Placed 4032 6 5 0 12 
-Placed 4040 8 4 0 10 
-Placed 4048 8 4 0 10 
-Placed 4056 8 4 0 9 
-Placed 4064 8 4 0 9 
-Placed 4072 8 4 0 9 
-Placed 4080 8 4 0 9 
-Placed 4088 8 4 0 9 
-Placed 4096 8 4 0 9 
-Placed 4104 8 4 0 9 
-Placed 4112 8 4 0 9 
-Placed 4120 8 4 0 9 
-Placed 4128 8 4 0 9 
-Placed 4136 8 4 0 9 
-Placed 4144 8 4 0 9 
-Placed 4152 8 4 0 9 
-Placed 4160 8 4 0 9 
-Placed 4168 8 4 0 10 
-Placed 4176 8 4 0 10 
-Placed 4184 8 4 0 9 
-Placed 4192 8 4 0 9 
-Placed 4200 8 4 0 9 
-Placed 4208 8 4 0 9 
-Placed 4216 8 4 0 11 
-Placed 4224 8 4 0 11 
-Placed 4232 8 4 0 11 
-Placed 4240 8 4 0 11 
-Placed 4248 8 4 0 11 
-Placed 4256 8 4 0 10 
-Placed 4264 8 4 0 10 
-Placed 4272 8 4 0 10 
-Placed 4280 8 4 0 10 
-Placed 4288 8 4 0 10 
-Placed 4296 8 4 0 10 
-Placed 4304 8 4 0 10 
-Placed 4312 8 4 0 10 
-Placed 4320 8 4 0 8 
-Placed 4328 8 4 0 8 
-Placed 4336 8 4 0 8 
-Placed 4344 8 4 0 8 
-Placed 4352 8 4 0 10 
-Placed 4360 8 4 0 10 
-Placed 4368 8 4 0 10 
-Placed 4376 8 4 0 10 
-Placed 4384 8 4 0 9 
-Placed 4392 8 4 0 9 
-Placed 4400 8 4 0 11 
-Placed 4408 8 4 0 11 
-Placed 4416 8 4 0 9 
-Placed 4424 8 4 0 9 
-Placed 4432 8 4 0 11 
-Placed 4440 8 4 0 11 
+Y_9X_12
+-t_98
+Placed 1488 6 3 0 11 
+Y_11X_14
+t_99
+Placed 1490 10 5 0 2 
+I_2Y_3X_7
+-t_21
+Placed 1494 6 3 0 11 
+Y_11X_14
+-t_99
+Placed 1500 6 3 0 9 
+Y_9X_12
+t_100
+Placed 1500 10 5 0 2 
+I_2X_3Y_7
+t_21
+Placed 1506 4 3 0 9 
+I_10X_9Y_12
+t_100
+Placed 1510 6 3 0 9 
+Y_9X_12
+-t_100
+Placed 1510 10 5 0 0 
+Y_0X_5
+t_22
+Placed 1516 6 3 0 11 
+Y_11X_14
+t_101
+Placed 1520 8 5 0 0 
+I_1X_0Y_5
+t_22
+Placed 1522 6 3 0 11 
+Y_11X_14
+-t_101
+Placed 1528 6 3 0 9 
+X_9X_10X_11Y_12
+t_103
+Placed 1528 10 5 0 0 
+Y_0X_5
+-t_22
+Placed 1534 6 3 0 9 
+X_9X_10Y_11X_12
+-t_103
+Placed 1538 8 5 0 0 
+I_3Y_0X_5
+-t_23
+Placed 1540 6 3 0 9 
+Y_9Y_10Y_11X_12
+-t_103
+Placed 1546 6 3 0 9 
+X_9Y_10Y_11Y_12
+t_103
+Placed 1546 10 5 0 0 
+Y_0X_5
+t_23
+Placed 1552 6 3 0 9 
+Y_9X_10X_11X_12
+-t_103
+Placed 1556 8 5 0 0 
+I_3X_0Y_5
+t_23
+Placed 1558 6 3 0 9 
+Y_9X_10Y_11Y_12
+-t_103
+Placed 1564 6 3 0 9 
+Y_9Y_10X_11Y_12
+t_103
+Placed 1564 10 5 0 0 
+Y_0X_5
+-t_23
+Placed 1570 6 3 0 9 
+X_9Y_10X_11X_12
+t_103
+Placed 1574 10 5 0 2 
+Y_2X_7
+t_24
+Placed 1576 6 3 0 10 
+X_10X_11X_12Y_13
+t_110
+Placed 1582 6 3 0 10 
+X_10X_11Y_12X_13
+-t_110
+Placed 1584 10 5 0 2 
+Y_2X_7
+-t_24
+Placed 1588 6 3 0 10 
+Y_10Y_11Y_12X_13
+-t_110
+Placed 1594 6 3 0 10 
+X_10Y_11Y_12Y_13
+t_110
+Placed 1594 8 5 0 2 
+I_3Y_2X_7
+-t_25
+Placed 1600 6 3 0 10 
+Y_10X_11X_12X_13
+-t_110
+Placed 1602 10 5 0 2 
+Y_2X_7
+t_25
+Placed 1606 6 3 0 10 
+Y_10X_11Y_12Y_13
+-t_110
+Placed 1612 6 3 0 10 
+Y_10Y_11X_12Y_13
+t_110
+Placed 1612 8 5 0 2 
+I_3X_2Y_7
+t_25
+Placed 1618 6 3 0 10 
+X_10Y_11X_12X_13
+t_110
+Placed 1620 10 5 0 2 
+Y_2X_7
+-t_25
+Placed 1624 6 3 0 9 
+Y_9X_12
+t_112
+Placed 1630 6 3 0 9 
+Y_9X_12
+-t_112
+Placed 1630 8 5 0 1 
+I_1Y_3X_6
+-t_28
+Placed 1636 4 3 0 11 
+I_12Y_11X_14
+-t_113
+Placed 1638 8 5 0 1 
+I_1X_3Y_6
+t_28
+Placed 1640 6 3 0 11 
+Y_11X_14
+t_113
+Placed 1646 4 3 0 11 
+I_12X_11Y_14
+t_113
+Placed 1646 4 5 0 0 
+I_0Y_4X_5
+-t_36
+Placed 1650 6 3 0 11 
+Y_11X_14
+-t_113
+Placed 1650 4 5 0 0 
+I_0X_4Y_5
+t_36
+Placed 1654 4 5 0 2 
+I_2Y_6X_7
+-t_39
+Placed 1658 4 5 0 2 
+I_2X_6Y_7
+t_39
+Placed 1662 6 5 0 0 
+X_0X_1X_4Y_5
+t_40
+Placed 1668 6 5 0 0 
+X_0X_1Y_4X_5
+-t_40
+Placed 1674 6 5 0 0 
+Y_0Y_1Y_4X_5
+-t_40
+Placed 1680 6 5 0 0 
+X_0Y_1Y_4Y_5
+t_40
+Placed 1686 6 5 0 0 
+Y_0X_1X_4X_5
+-t_40
+Placed 1692 6 5 0 0 
+Y_0X_1Y_4Y_5
+-t_40
+Placed 1698 6 5 0 0 
+Y_0Y_1X_4Y_5
+t_40
+Placed 1704 6 5 0 0 
+X_0Y_1X_4X_5
+t_40
+Placed 1710 6 5 0 2 
+X_2X_3X_6Y_7
+t_43
+Placed 1716 6 5 0 2 
+X_2X_3Y_6X_7
+-t_43
+Placed 1722 6 5 0 2 
+Y_2Y_3Y_6X_7
+-t_43
+Placed 1728 6 5 0 2 
+X_2Y_3Y_6Y_7
+t_43
+Placed 1734 6 5 0 2 
+Y_2X_3X_6X_7
+-t_43
+Placed 1740 6 5 0 2 
+Y_2X_3Y_6Y_7
+-t_43
+Placed 1746 6 5 0 2 
+Y_2Y_3X_6Y_7
+t_43
+Placed 1752 6 5 0 2 
+X_2Y_3X_6X_7
+t_43
+Placed 1758 8 5 0 0 
+I_4Y_0X_5
+-t_44
+Placed 1766 10 5 0 0 
+Y_0X_5
+t_44
+Placed 1776 8 5 0 0 
+I_4X_0Y_5
+t_44
+Placed 1784 10 5 0 0 
+Y_0X_5
+-t_44
+Placed 1794 10 5 0 0 
+Y_0X_5
+t_45
+Placed 1804 10 5 0 0 
+Y_0X_5
+-t_45
+Placed 1814 8 5 0 2 
+I_4Y_2X_7
+-t_46
+Placed 1822 10 5 0 2 
+Y_2X_7
+t_46
+Placed 1832 8 5 0 2 
+I_4X_2Y_7
+t_46
+Placed 1840 10 5 0 2 
+Y_2X_7
+-t_46
+Placed 1850 8 5 0 2 
+I_6Y_2X_7
+-t_47
+Placed 1858 10 5 0 2 
+Y_2X_7
+t_47
+Placed 1868 8 5 0 2 
+I_6X_2Y_7
+t_47
+Placed 1876 10 5 0 2 
+Y_2X_7
+-t_47
+Placed 1886 10 5 0 2 
+X_2X_4X_5Y_7
+t_49
+Placed 1896 10 5 0 2 
+X_2X_4Y_5X_7
+t_49
+Placed 1906 10 5 0 2 
+Y_2Y_4Y_5X_7
+-t_49
+Placed 1916 10 5 0 2 
+X_2Y_4Y_5Y_7
+t_49
+Placed 1926 10 5 0 2 
+Y_2X_4X_5X_7
+-t_49
+Placed 1936 10 5 0 2 
+Y_2X_4Y_5Y_7
+t_49
+Placed 1946 10 5 0 2 
+Y_2Y_4X_5Y_7
+-t_49
+Placed 1956 10 5 0 2 
+X_2Y_4X_5X_7
+-t_49
+Placed 1966 8 5 0 1 
+I_6Y_1X_4
+-t_50
+Placed 1974 8 5 0 1 
+I_6X_1Y_4
+t_50
+Placed 1982 6 5 0 0 
+X_0X_1X_4Y_5
+t_52
+Placed 1988 6 5 0 0 
+X_0X_1Y_4X_5
+-t_52
+Placed 1994 6 5 0 0 
+Y_0Y_1Y_4X_5
+-t_52
+Placed 2000 6 5 0 0 
+X_0Y_1Y_4Y_5
+-t_52
+Placed 2006 6 5 0 0 
+Y_0X_1X_4X_5
+t_52
+Placed 2012 6 5 0 0 
+Y_0X_1Y_4Y_5
+t_52
+Placed 2018 6 5 0 0 
+Y_0Y_1X_4Y_5
+t_52
+Placed 2024 6 5 0 0 
+X_0Y_1X_4X_5
+-t_52
+Placed 2030 6 5 0 2 
+X_2X_3X_6Y_7
+t_55
+Placed 2036 6 5 0 2 
+X_2X_3Y_6X_7
+-t_55
+Placed 2042 6 5 0 2 
+Y_2Y_3Y_6X_7
+-t_55
+Placed 2048 6 5 0 2 
+X_2Y_3Y_6Y_7
+-t_55
+Placed 2054 6 5 0 2 
+Y_2X_3X_6X_7
+t_55
+Placed 2060 6 5 0 2 
+Y_2X_3Y_6Y_7
+t_55
+Placed 2066 6 5 0 2 
+Y_2Y_3X_6Y_7
+t_55
+Placed 2072 6 5 0 2 
+X_2Y_3X_6X_7
+-t_55
+Placed 2078 10 5 0 1 
+I_6Y_1X_5
+-t_61
+Placed 2088 10 5 0 1 
+I_6X_1Y_5
+t_61
+Placed 2098 10 5 0 0 
+I_5Y_0X_4
+-t_70
+Placed 2108 10 5 0 0 
+I_5X_0Y_4
+t_70
+Placed 2118 10 5 0 2 
+I_7Y_2X_6
+-t_73
+Placed 2128 10 5 0 2 
+I_7X_2Y_6
+t_73
+Placed 2138 10 5 0 0 
+Y_0X_5
+t_74
+Placed 2148 10 5 0 0 
+Y_0X_5
+-t_74
+Placed 2158 8 5 0 2 
+I_5Y_2X_7
+-t_75
+Placed 2166 10 5 0 2 
+Y_2X_7
+t_75
+Placed 2176 8 5 0 2 
+I_5X_2Y_7
+t_75
+Placed 2184 10 5 0 2 
+Y_2X_7
+-t_75
+Placed 2194 8 4 0 2 
+Y_2X_6
+t_2
+Placed 2202 8 4 0 2 
+Y_2X_6
+-t_2
+Placed 2210 6 4 0 0 
+I_2Y_0X_4
+-t_3
+Placed 2216 8 4 0 0 
+Y_0X_4
+t_3
+Placed 2224 6 4 0 0 
+I_2X_0Y_4
+t_3
+Placed 2230 8 4 0 0 
+Y_0X_4
+-t_3
+Placed 2238 8 4 0 0 
+X_0X_2X_3Y_4
+t_5
+Placed 2246 8 4 0 0 
+X_0X_2Y_3X_4
+t_5
+Placed 2254 8 4 0 0 
+Y_0Y_2Y_3X_4
+-t_5
+Placed 2262 8 4 0 0 
+X_0Y_2Y_3Y_4
+t_5
+Placed 2270 8 4 0 0 
+Y_0X_2X_3X_4
+-t_5
+Placed 2278 8 4 0 0 
+Y_0X_2Y_3Y_4
+t_5
+Placed 2286 8 4 0 0 
+Y_0Y_2X_3Y_4
+-t_5
+Placed 2294 8 4 0 0 
+X_0Y_2X_3X_4
+-t_5
+Placed 2302 8 4 0 0 
+I_0Y_1X_4
+-t_10
+Placed 2310 8 4 0 0 
+I_0X_1Y_4
+t_10
+Placed 2318 8 4 0 2 
+I_2Y_3X_6
+-t_13
+Placed 2326 8 4 0 2 
+I_2X_3Y_6
+t_13
+Placed 2334 6 4 0 0 
+I_1Y_0X_4
+-t_14
+Placed 2340 8 4 0 0 
+Y_0X_4
+t_14
+Placed 2348 6 4 0 0 
+I_1X_0Y_4
+t_14
+Placed 2354 8 4 0 0 
+Y_0X_4
+-t_14
+Placed 2362 6 4 0 0 
+I_3Y_0X_4
+-t_15
+Placed 2368 8 4 0 0 
+Y_0X_4
+t_15
+Placed 2376 6 4 0 0 
+I_3X_0Y_4
+t_15
+Placed 2382 8 4 0 0 
+Y_0X_4
+-t_15
+Placed 2390 8 4 0 2 
+Y_2X_6
+t_16
+Placed 2398 8 4 0 2 
+Y_2X_6
+-t_16
+Placed 2406 6 4 0 2 
+I_3Y_2X_6
+-t_17
+Placed 2412 8 4 0 2 
+Y_2X_6
+t_17
+Placed 2420 6 4 0 2 
+I_3X_2Y_6
+t_17
+Placed 2426 8 4 0 2 
+Y_2X_6
+-t_17
+Placed 2434 8 4 0 1 
+Y_1X_5
+t_18
+Placed 2442 8 4 0 1 
+Y_1X_5
+-t_18
+Placed 2450 8 4 0 3 
+Y_3X_7
+t_19
+Placed 2458 8 4 0 3 
+Y_3X_7
+-t_19
+Placed 2466 6 4 0 1 
+I_2Y_1X_5
+-t_20
+Placed 2472 8 4 0 1 
+Y_1X_5
+t_20
+Placed 2480 6 4 0 1 
+I_2X_1Y_5
+t_20
+Placed 2486 8 4 0 1 
+Y_1X_5
+-t_20
+Placed 2494 8 4 0 3 
+Y_3X_7
+t_21
+Placed 2502 8 4 0 3 
+Y_3X_7
+-t_21
+Placed 2510 8 4 0 1 
+X_1X_2X_3Y_5
+t_31
+Placed 2518 8 4 0 1 
+X_1X_2Y_3X_5
+-t_31
+Placed 2526 8 4 0 1 
+Y_1Y_2Y_3X_5
+-t_31
+Placed 2534 8 4 0 1 
+X_1Y_2Y_3Y_5
+t_31
+Placed 2542 8 4 0 1 
+Y_1X_2X_3X_5
+-t_31
+Placed 2550 8 4 0 1 
+Y_1X_2Y_3Y_5
+-t_31
+Placed 2558 8 4 0 1 
+Y_1Y_2X_3Y_5
+t_31
+Placed 2566 8 4 0 1 
+X_1Y_2X_3X_5
+t_31
+Placed 2574 8 4 0 3 
+Y_3X_7
+t_32
+Placed 2582 8 4 0 3 
+Y_3X_7
+-t_32
+Placed 2590 6 4 0 1 
+I_3Y_1X_5
+-t_33
+Placed 2596 8 4 0 1 
+Y_1X_5
+t_33
+Placed 2604 6 4 0 1 
+I_3X_1Y_5
+t_33
+Placed 2610 8 4 0 1 
+Y_1X_5
+-t_33
+Placed 2618 8 4 0 0 
+Y_0X_4
+t_34
+Placed 2626 8 4 0 0 
+Y_0X_4
+-t_34
+Placed 2634 6 4 0 2 
+I_4Y_2X_6
+-t_35
+Placed 2640 8 4 0 2 
+Y_2X_6
+t_35
+Placed 2648 6 4 0 2 
+I_4X_2Y_6
+t_35
+Placed 2654 8 4 0 2 
+Y_2X_6
+-t_35
+Placed 2662 4 4 0 1 
+I_1Y_4X_5
+-t_56
+Placed 2666 4 4 0 1 
+I_1X_4Y_5
+t_56
+Placed 2670 4 4 0 3 
+I_3Y_6X_7
+-t_59
+Placed 2674 4 4 0 3 
+I_3X_6Y_7
+t_59
+Placed 2678 6 4 0 1 
+I_4Y_1X_5
+-t_60
+Placed 2684 8 4 0 1 
+Y_1X_5
+t_60
+Placed 2692 6 4 0 1 
+I_4X_1Y_5
+t_60
+Placed 2698 8 4 0 1 
+Y_1X_5
+-t_60
+Placed 2706 8 4 0 1 
+Y_1X_5
+t_61
+Placed 2714 8 4 0 1 
+Y_1X_5
+-t_61
+Placed 2722 6 4 0 3 
+I_4Y_3X_7
+-t_62
+Placed 2728 8 4 0 3 
+Y_3X_7
+t_62
+Placed 2736 6 4 0 3 
+I_4X_3Y_7
+t_62
+Placed 2742 8 4 0 3 
+Y_3X_7
+-t_62
+Placed 2750 6 4 0 3 
+I_6Y_3X_7
+-t_63
+Placed 2756 8 4 0 3 
+Y_3X_7
+t_63
+Placed 2764 6 4 0 3 
+I_6X_3Y_7
+t_63
+Placed 2770 8 4 0 3 
+Y_3X_7
+-t_63
+Placed 2778 8 4 0 3 
+X_3X_4X_5Y_7
+t_65
+Placed 2786 8 4 0 3 
+X_3X_4Y_5X_7
+t_65
+Placed 2794 8 4 0 3 
+Y_3Y_4Y_5X_7
+-t_65
+Placed 2802 8 4 0 3 
+X_3Y_4Y_5Y_7
+t_65
+Placed 2810 8 4 0 3 
+Y_3X_4X_5X_7
+-t_65
+Placed 2818 8 4 0 3 
+Y_3X_4Y_5Y_7
+t_65
+Placed 2826 8 4 0 3 
+Y_3Y_4X_5Y_7
+-t_65
+Placed 2834 8 4 0 3 
+X_3Y_4X_5X_7
+-t_65
+Placed 2842 8 4 0 2 
+X_2X_4X_5Y_6
+-t_67
+Placed 2850 8 4 0 2 
+X_2X_4Y_5X_6
+t_67
+Placed 2858 8 4 0 2 
+Y_2Y_4Y_5X_6
+t_67
+Placed 2866 8 4 0 2 
+X_2Y_4Y_5Y_6
+-t_67
+Placed 2874 8 4 0 2 
+Y_2X_4X_5X_6
+t_67
+Placed 2882 8 4 0 2 
+Y_2X_4Y_5Y_6
+t_67
+Placed 2890 8 4 0 2 
+Y_2Y_4X_5Y_6
+-t_67
+Placed 2898 8 4 0 2 
+X_2Y_4X_5X_6
+-t_67
+Placed 2906 8 4 0 0 
+Y_0X_4
+t_70
+Placed 2914 8 4 0 0 
+Y_0X_4
+-t_70
+Placed 2922 8 4 0 0 
+Y_0X_4
+t_71
+Placed 2930 8 4 0 0 
+Y_0X_4
+-t_71
+Placed 2938 6 4 0 2 
+I_5Y_2X_6
+-t_72
+Placed 2944 8 4 0 2 
+Y_2X_6
+t_72
+Placed 2952 6 4 0 2 
+I_5X_2Y_6
+t_72
+Placed 2958 8 4 0 2 
+Y_2X_6
+-t_72
+Placed 2966 8 4 0 2 
+Y_2X_6
+t_73
+Placed 2974 8 4 0 2 
+Y_2X_6
+-t_73
+Placed 2982 8 4 0 1 
+I_5Y_1X_4
+-t_76
+Placed 2990 8 4 0 1 
+I_5X_1Y_4
+t_76
+Placed 2998 8 4 0 3 
+I_7Y_3X_6
+-t_79
+Placed 3006 8 4 0 3 
+I_7X_3Y_6
+t_79
+Placed 3014 8 4 0 1 
+Y_1X_5
+t_80
+Placed 3022 8 4 0 1 
+Y_1X_5
+-t_80
+Placed 3030 6 4 0 3 
+I_5Y_3X_7
+-t_81
+Placed 3036 8 4 0 3 
+Y_3X_7
+t_81
+Placed 3044 6 4 0 3 
+I_5X_3Y_7
+t_81
+Placed 3050 8 4 0 3 
+Y_3X_7
+-t_81
+Placed 3058 6 3 0 1 
+Y_1X_4
+t_10
+Placed 3064 6 3 0 1 
+Y_1X_4
+-t_10
+Placed 3070 6 3 0 3 
+Y_3X_6
+t_11
+Placed 3076 6 3 0 3 
+Y_3X_6
+-t_11
+Placed 3082 4 3 0 1 
+I_2Y_1X_4
+-t_12
+Placed 3086 6 3 0 1 
+Y_1X_4
+t_12
+Placed 3092 4 3 0 1 
+I_2X_1Y_4
+t_12
+Placed 3096 6 3 0 1 
+Y_1X_4
+-t_12
+Placed 3102 6 3 0 3 
+Y_3X_6
+t_13
+Placed 3108 6 3 0 3 
+Y_3X_6
+-t_13
+Placed 3114 6 3 0 1 
+X_1X_2X_3Y_4
+t_27
+Placed 3120 6 3 0 1 
+X_1X_2Y_3X_4
+-t_27
+Placed 3126 6 3 0 1 
+Y_1Y_2Y_3X_4
+-t_27
+Placed 3132 6 3 0 1 
+X_1Y_2Y_3Y_4
+t_27
+Placed 3138 6 3 0 1 
+Y_1X_2X_3X_4
+-t_27
+Placed 3144 6 3 0 1 
+Y_1X_2Y_3Y_4
+-t_27
+Placed 3150 6 3 0 1 
+Y_1Y_2X_3Y_4
+t_27
+Placed 3156 6 3 0 1 
+X_1Y_2X_3X_4
+t_27
+Placed 3162 6 3 0 3 
+Y_3X_6
+t_28
+Placed 3168 6 3 0 3 
+Y_3X_6
+-t_28
+Placed 3174 4 3 0 1 
+I_3Y_1X_4
+-t_29
+Placed 3178 6 3 0 1 
+Y_1X_4
+t_29
+Placed 3184 4 3 0 1 
+I_3X_1Y_4
+t_29
+Placed 3188 6 3 0 1 
+Y_1X_4
+-t_29
+Placed 3194 4 3 0 2 
+I_2Y_4X_5
+-t_38
+Placed 3198 4 3 0 2 
+I_2X_4Y_5
+t_38
+Placed 3202 6 3 0 2 
+X_2X_3X_4Y_5
+t_42
+Placed 3208 6 3 0 2 
+X_2X_3Y_4X_5
+-t_42
+Placed 3214 6 3 0 2 
+Y_2Y_3Y_4X_5
+-t_42
+Placed 3220 6 3 0 2 
+X_2Y_3Y_4Y_5
+t_42
+Placed 3226 6 3 0 2 
+Y_2X_3X_4X_5
+-t_42
+Placed 3232 6 3 0 2 
+Y_2X_3Y_4Y_5
+-t_42
+Placed 3238 6 3 0 2 
+Y_2Y_3X_4Y_5
+t_42
+Placed 3244 6 3 0 2 
+X_2Y_3X_4X_5
+t_42
+Placed 3250 6 3 0 1 
+Y_1X_4
+t_50
+Placed 3256 6 3 0 1 
+Y_1X_4
+-t_50
+Placed 3262 4 3 0 3 
+I_4Y_3X_6
+-t_51
+Placed 3266 6 3 0 3 
+Y_3X_6
+t_51
+Placed 3272 4 3 0 3 
+I_4X_3Y_6
+t_51
+Placed 3276 6 3 0 3 
+Y_3X_6
+-t_51
+Placed 3282 6 3 0 2 
+X_2X_3X_4Y_5
+t_54
+Placed 3288 6 3 0 2 
+X_2X_3Y_4X_5
+-t_54
+Placed 3294 6 3 0 2 
+Y_2Y_3Y_4X_5
+-t_54
+Placed 3300 6 3 0 2 
+X_2Y_3Y_4Y_5
+-t_54
+Placed 3306 6 3 0 2 
+Y_2X_3X_4X_5
+t_54
+Placed 3312 6 3 0 2 
+Y_2X_3Y_4Y_5
+t_54
+Placed 3318 6 3 0 2 
+Y_2Y_3X_4Y_5
+t_54
+Placed 3324 6 3 0 2 
+X_2Y_3X_4X_5
+-t_54
+Placed 3330 6 3 0 3 
+X_3X_4X_5Y_6
+-t_69
+Placed 3336 6 3 0 3 
+X_3X_4Y_5X_6
+t_69
+Placed 3342 6 3 0 3 
+Y_3Y_4Y_5X_6
+t_69
+Placed 3348 6 3 0 3 
+X_3Y_4Y_5Y_6
+-t_69
+Placed 3354 6 3 0 3 
+Y_3X_4X_5X_6
+t_69
+Placed 3360 6 3 0 3 
+Y_3X_4Y_5Y_6
+t_69
+Placed 3366 6 3 0 3 
+Y_3Y_4X_5Y_6
+-t_69
+Placed 3372 6 3 0 3 
+X_3Y_4X_5X_6
+-t_69
+Placed 3378 6 3 0 1 
+Y_1X_4
+t_76
+Placed 3384 6 3 0 1 
+Y_1X_4
+-t_76
+Placed 3390 6 3 0 1 
+Y_1X_4
+t_77
+Placed 3396 6 3 0 1 
+Y_1X_4
+-t_77
+Placed 3402 4 3 0 3 
+I_5Y_3X_6
+-t_78
+Placed 3406 6 3 0 3 
+Y_3X_6
+t_78
+Placed 3412 4 3 0 3 
+I_5X_3Y_6
+t_78
+Placed 3416 6 3 0 3 
+Y_3X_6
+-t_78
+Placed 3422 6 3 0 3 
+Y_3X_6
+t_79
+Placed 3428 6 3 0 3 
+Y_3X_6
+-t_79
+Placed 3434 4 2 0 3 
+I_3Y_4X_5
+-t_58
+Placed 3438 4 2 0 3 
+I_3X_4Y_5
+t_58

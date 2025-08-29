@@ -1,3200 +1,2480 @@
-intraTile
-12 7 0 16
 interTile
-6 15 0 0
-intraTile
-4 7 0 0
-intraTile
-4 7 0 8
-intraTile
-2 1 0 0
-intraTile
-2 1 0 2
-intraTile
-2 1 0 4
-intraTile
-2 1 0 6
-intraTile
-2 1 0 8
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-intraTile
-2 1 0 14
-intraTile
-12 7 0 16
-interTile
-6 15 0 0
+8 14 0 0
+I_0Y_11X_14
+-t_87
 intraTile
 4 7 0 0
-intraTile
-4 7 0 8
-intraTile
-2 1 0 0
-intraTile
-2 1 0 2
-intraTile
-2 1 0 4
-intraTile
-2 1 0 6
-intraTile
-2 1 0 8
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-intraTile
-2 1 0 14
-intraTile
-14 7 0 16
-interTile
-6 15 0 0
-intraTile
-6 7 0 0
+I_0Y_6X_7
+-t_37
 intraTile
 6 7 0 8
-interTile
-6 15 0 0
-intraTile
-14 7 0 16
-intraTile
-6 7 0 0
-intraTile
-6 7 0 8
-interTile
-6 15 0 0
-intraTile
-14 7 0 16
-intraTile
-6 7 0 0
-intraTile
-6 7 0 8
-interTile
-6 15 0 0
-intraTile
-6 7 0 0
-intraTile
-6 7 0 8
-intraTile
-14 7 0 16
-interTile
-6 15 0 0
-intraTile
-6 7 0 0
-intraTile
-6 7 0 8
-intraTile
-14 7 0 16
-interTile
-6 15 0 0
-intraTile
-12 7 0 0
-intraTile
-6 7 0 8
-intraTile
-2 1 0 16
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
-intraTile
-2 1 0 22
-interTile
-6 15 0 8
-intraTile
-12 7 0 0
-intraTile
-6 7 0 8
-intraTile
-4 7 0 16
-intraTile
-2 1 0 16
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
-intraTile
-2 1 0 22
-interTile
-6 15 0 8
-intraTile
-14 7 0 0
-intraTile
-6 7 0 8
-intraTile
-4 7 0 16
-intraTile
-2 1 0 16
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
-intraTile
-2 1 0 22
-interTile
-6 15 0 8
-intraTile
-4 7 0 8
-intraTile
-6 7 0 16
-intraTile
-14 7 0 0
-intraTile
-2 1 0 8
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-intraTile
-2 1 0 14
-interTile
-6 15 0 8
-intraTile
-4 7 0 8
-intraTile
-6 7 0 16
-intraTile
-2 1 0 8
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-intraTile
-2 1 0 14
-intraTile
-14 7 0 0
-interTile
-6 15 0 8
-intraTile
-2 1 0 14
-intraTile
-4 6 0 8
-intraTile
-6 7 0 16
-intraTile
-2 1 0 14
-intraTile
-2 1 0 8
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-intraTile
-2 1 0 14
-intraTile
-14 7 0 0
-interTile
-6 15 0 8
-intraTile
-2 1 0 14
-intraTile
-4 6 0 8
-intraTile
-6 7 0 16
-intraTile
-2 1 0 8
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-interTile
-6 15 0 8
-intraTile
-14 7 0 0
-intraTile
-2 1 0 8
-intraTile
-4 6 0 9
-intraTile
-6 7 0 16
-intraTile
-2 1 0 8
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-interTile
-6 15 0 8
-intraTile
-6 7 0 0
-intraTile
-4 6 0 9
-intraTile
-6 7 0 16
-intraTile
-2 1 0 0
-intraTile
-2 1 0 2
-intraTile
-2 1 0 4
-intraTile
-2 1 0 6
-intraTile
-2 1 0 10
-intraTile
-2 1 0 12
-interTile
-6 9 0 14
-interTile
-6 13 0 0
-intraTile
-4 5 0 8
-intraTile
-6 7 0 0
-intraTile
-6 7 0 16
-interTile
-6 9 0 14
-interTile
-6 13 0 0
-intraTile
-4 5 0 8
-intraTile
-6 7 0 0
-intraTile
-6 7 0 16
-interTile
-6 9 0 14
-interTile
-6 13 0 0
-intraTile
-4 5 0 10
+X_8X_9X_14Y_15
+t_107
 intraTile
 4 7 0 0
-intraTile
-4 7 0 16
-intraTile
-2 1 0 0
-intraTile
-2 1 0 2
-intraTile
-2 1 0 4
-intraTile
-2 1 0 6
-intraTile
-2 1 0 16
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
-intraTile
-2 1 0 22
+I_0X_6Y_7
+t_37
 interTile
-6 9 0 14
-interTile
-6 13 0 0
+8 14 0 0
+I_0X_11Y_14
+t_87
 intraTile
-4 5 0 10
+6 7 0 0
+X_0X_1X_6Y_7
+t_41
 intraTile
-4 7 0 0
-intraTile
-4 7 0 16
-intraTile
-2 1 0 0
-intraTile
-2 1 0 2
+6 7 0 8
+X_8X_9Y_14X_15
+-t_107
 intraTile
 2 1 0 4
+Y_4X_5
+t_36
 intraTile
 2 1 0 6
-intraTile
-2 1 0 16
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
-intraTile
-2 1 0 22
+Y_6X_7
+t_37
 interTile
-6 9 0 14
-interTile
-6 13 0 0
+8 13 0 1
+I_1Y_11X_14
+-t_91
 intraTile
-2 1 0 6
+6 7 0 0
+X_0X_1Y_6X_7
+-t_41
 intraTile
-2 1 0 22
-intraTile
-6 5 0 8
-intraTile
-4 6 0 0
-intraTile
-4 6 0 16
-intraTile
-2 1 0 6
-intraTile
-2 1 0 22
-intraTile
-2 1 0 0
-intraTile
-2 1 0 2
+6 7 0 8
+Y_8Y_9Y_14X_15
+-t_107
 intraTile
 2 1 0 4
+Y_4X_5
+-t_36
 intraTile
 2 1 0 6
-intraTile
-2 1 0 16
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
-intraTile
-2 1 0 22
+Y_6X_7
+-t_37
 interTile
-6 9 0 14
-interTile
-6 13 0 0
+8 13 0 1
+I_1X_11Y_14
+t_91
 intraTile
-6 5 0 8
+6 7 0 0
+Y_0Y_1Y_6X_7
+-t_41
 intraTile
-4 6 0 0
-intraTile
-4 6 0 16
-intraTile
-2 1 0 0
-intraTile
-2 1 0 2
+6 7 0 8
+X_8Y_9Y_14Y_15
+t_107
 intraTile
 2 1 0 4
+Y_4X_5
+t_38
 intraTile
-2 1 0 16
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
+2 1 0 6
+Y_6X_7
+t_39
 interTile
-6 9 0 14
-interTile
-6 13 0 0
+8 12 0 0
+I_0Y_9X_12
+-t_86
 intraTile
-2 1 0 0
+6 7 0 0
+X_0Y_1Y_6Y_7
+t_41
 intraTile
-2 1 0 16
-intraTile
-6 5 0 8
-intraTile
-4 6 0 1
-intraTile
-4 6 0 17
-intraTile
-2 1 0 2
+6 7 0 8
+Y_8X_9X_14X_15
+-t_107
 intraTile
 2 1 0 4
-intraTile
-2 1 0 18
-intraTile
-2 1 0 20
-interTile
-6 9 0 14
-interTile
-6 13 0 0
-intraTile
-6 5 0 8
-intraTile
-4 6 0 1
-intraTile
-14 7 0 16
-interTile
-6 13 0 2
-intraTile
-4 5 0 0
-intraTile
-6 5 0 8
-intraTile
-14 7 0 16
-interTile
-6 13 0 2
-intraTile
-4 5 0 0
-intraTile
-6 5 0 8
-intraTile
-14 7 0 16
-interTile
-6 13 0 2
-intraTile
-4 5 0 2
-intraTile
-6 5 0 8
-intraTile
-10 7 0 16
-interTile
-6 13 0 2
-intraTile
-4 5 0 2
-intraTile
-6 5 0 8
-intraTile
-10 7 0 16
-interTile
-6 13 0 2
-intraTile
-6 5 0 0
-intraTile
-6 5 0 10
-intraTile
-10 7 0 16
-interTile
-6 13 0 2
-intraTile
-6 5 0 0
-intraTile
-6 5 0 10
-intraTile
-10 7 0 16
-interTile
-6 13 0 2
-intraTile
-10 7 0 16
-intraTile
-6 5 0 0
-intraTile
-6 5 0 10
-interTile
-6 13 0 2
-intraTile
-10 7 0 16
-intraTile
-6 5 0 10
-intraTile
-14 7 0 0
-interTile
-6 13 0 8
-intraTile
-6 5 0 10
-intraTile
-4 6 0 17
-intraTile
-14 7 0 0
-interTile
-6 13 0 8
-intraTile
-6 5 0 10
-intraTile
-4 5 0 16
-intraTile
-14 7 0 0
-interTile
-6 13 0 8
-intraTile
-6 5 0 10
-intraTile
-4 5 0 16
-intraTile
-10 7 0 0
-interTile
-6 13 0 8
-intraTile
-6 5 0 10
-intraTile
-4 5 0 18
-intraTile
-10 7 0 0
-interTile
-6 13 0 8
-intraTile
-4 5 0 8
-intraTile
-4 5 0 18
-intraTile
-10 7 0 0
-interTile
-6 13 0 8
-intraTile
-4 5 0 8
-intraTile
-6 5 0 16
-intraTile
-10 7 0 0
-interTile
-6 13 0 8
-intraTile
-10 7 0 0
-intraTile
-4 5 0 10
-intraTile
-6 5 0 16
-interTile
-6 13 0 8
-intraTile
-10 7 0 0
-intraTile
-4 5 0 10
-intraTile
-6 5 0 16
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 8
-intraTile
-6 5 0 0
-intraTile
-6 5 0 16
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 8
-intraTile
-6 5 0 0
-intraTile
-6 5 0 16
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 8
-intraTile
-6 5 0 0
-intraTile
-6 5 0 16
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 8
-intraTile
-6 5 0 0
-intraTile
-6 5 0 16
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 8
-intraTile
-6 5 0 0
-intraTile
-6 5 0 16
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 8
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 10
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 9 0 0
-interTile
-6 13 0 10
-intraTile
-6 4 0 10
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-6 4 0 9
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-6 4 0 9
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-6 4 0 9
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-6 4 0 9
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-4 4 0 8
-intraTile
-6 5 0 2
-intraTile
-6 5 0 18
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-4 4 0 8
-intraTile
-4 5 0 0
-intraTile
-4 5 0 16
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-4 4 0 10
-intraTile
-4 5 0 0
-intraTile
-4 5 0 16
-interTile
-6 11 0 0
-interTile
-6 11 0 12
-intraTile
-4 4 0 10
-intraTile
-4 5 0 2
-intraTile
-10 7 0 16
-interTile
-6 11 0 2
-intraTile
-10 7 0 16
-intraTile
-6 4 0 10
-intraTile
-4 5 0 2
-interTile
-6 11 0 2
-intraTile
-10 7 0 16
-intraTile
-6 4 0 0
-intraTile
-6 4 0 10
-intraTile
-10 7 0 16
-interTile
-6 11 0 2
-intraTile
-6 4 0 0
-intraTile
-4 4 0 9
-intraTile
-12 7 0 16
-interTile
-6 11 0 2
-intraTile
-6 4 0 0
-intraTile
-4 4 0 9
-intraTile
-12 7 0 16
-interTile
-6 11 0 2
-intraTile
-6 4 0 0
-intraTile
-4 4 0 11
-intraTile
-12 7 0 16
-interTile
-6 11 0 2
-intraTile
-6 4 0 0
-intraTile
-4 4 0 11
-intraTile
-12 7 0 16
-interTile
-6 11 0 2
-intraTile
-6 4 0 0
-intraTile
-6 4 0 9
-intraTile
-12 7 0 16
-interTile
-6 11 0 2
-intraTile
-8 4 0 0
-intraTile
-6 4 0 9
-intraTile
-12 7 0 16
-interTile
-6 11 0 4
-intraTile
-8 4 0 0
-intraTile
-6 4 0 11
-intraTile
-8 4 0 0
-intraTile
-12 7 0 16
-interTile
-6 11 0 4
-intraTile
-8 4 0 0
-intraTile
-6 4 0 11
-intraTile
-12 7 0 16
-interTile
-6 11 0 4
-intraTile
-8 4 0 0
-intraTile
-6 4 0 11
-intraTile
-8 4 0 0
-intraTile
-14 7 0 16
-interTile
-6 11 0 4
-intraTile
-8 4 0 0
-intraTile
-6 4 0 11
-intraTile
-14 7 0 16
-interTile
-6 11 0 4
-intraTile
-8 4 0 0
-intraTile
-6 4 0 10
-intraTile
-8 4 0 0
-interTile
-6 11 0 4
-intraTile
-14 7 0 16
-intraTile
-8 4 0 0
-intraTile
-6 4 0 10
-interTile
-6 11 0 4
-intraTile
-8 4 0 0
-intraTile
-14 7 0 16
-intraTile
-6 4 0 11
-intraTile
-8 4 0 0
-interTile
-6 11 0 4
-intraTile
-6 4 0 11
-intraTile
-4 5 0 18
-intraTile
-10 7 0 0
-intraTile
-8 4 0 19
-interTile
-6 11 0 8
-intraTile
-10 7 0 0
-intraTile
-6 3 0 9
-intraTile
-4 5 0 18
-intraTile
-8 4 0 19
-interTile
-6 11 0 8
-intraTile
-10 7 0 0
-intraTile
-6 3 0 9
-intraTile
-6 4 0 16
-intraTile
-4 4 0 19
-intraTile
-10 7 0 0
-interTile
-6 11 0 8
-intraTile
-6 3 0 11
-intraTile
-6 4 0 16
-intraTile
-12 7 0 0
-intraTile
-4 4 0 19
-interTile
-6 11 0 8
-intraTile
-6 3 0 11
-intraTile
-6 4 0 16
-intraTile
-12 7 0 0
-intraTile
-6 4 0 19
-interTile
-6 11 0 8
-intraTile
-4 3 0 9
-intraTile
-6 4 0 16
-intraTile
-12 7 0 0
-intraTile
-6 4 0 19
-interTile
-6 11 0 8
-intraTile
-4 3 0 9
-intraTile
-6 4 0 16
-intraTile
-12 7 0 0
-intraTile
-6 4 0 19
-interTile
-6 11 0 8
-intraTile
-6 3 0 9
-intraTile
-6 4 0 16
-intraTile
-12 7 0 0
-intraTile
-6 4 0 19
-interTile
-6 11 0 8
-intraTile
-6 3 0 9
-intraTile
-6 4 0 18
-intraTile
-12 7 0 0
-interTile
-6 11 0 10
-intraTile
-6 3 0 11
-intraTile
-6 4 0 18
-intraTile
-12 7 0 0
-interTile
-6 11 0 10
-intraTile
-6 3 0 11
-intraTile
-6 4 0 17
-intraTile
-12 7 0 0
-interTile
-6 11 0 10
-intraTile
-6 3 0 9
-intraTile
-6 4 0 17
-intraTile
-14 7 0 0
-interTile
-6 11 0 10
-intraTile
-6 3 0 9
-intraTile
-6 4 0 17
-intraTile
-14 7 0 0
-interTile
-6 11 0 10
-intraTile
-6 3 0 9
-intraTile
-6 4 0 17
-interTile
-6 11 0 10
-intraTile
-14 7 0 0
-intraTile
-6 3 0 9
-intraTile
-4 4 0 16
-interTile
-6 11 0 10
-intraTile
-14 7 0 0
-intraTile
-6 3 0 9
-intraTile
-4 4 0 16
-interTile
-6 11 0 10
-intraTile
-6 3 0 9
-intraTile
-6 4 0 2
-intraTile
-4 4 0 18
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-6 3 0 9
-intraTile
-6 4 0 2
-intraTile
-4 4 0 18
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-6 3 0 9
-intraTile
-6 4 0 1
-intraTile
-6 4 0 18
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-6 3 0 11
-intraTile
-6 4 0 1
-intraTile
-6 4 0 18
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-6 3 0 11
-intraTile
-6 4 0 1
-intraTile
-4 4 0 17
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-4 3 0 9
-intraTile
-6 4 0 1
-intraTile
-4 4 0 17
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-4 3 0 9
-intraTile
-4 4 0 0
-intraTile
-6 4 0 17
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-6 3 0 9
-intraTile
-4 4 0 0
-intraTile
-6 4 0 17
-interTile
-6 9 0 2
-interTile
-6 9 0 12
-intraTile
-6 3 0 9
-intraTile
-8 4 0 0
-intraTile
-6 4 0 18
-interTile
-6 7 0 14
-interTile
-6 9 0 4
-intraTile
-8 4 0 0
-intraTile
-4 3 0 10
-intraTile
-14 7 0 16
-intraTile
-8 4 0 0
-interTile
-6 9 0 4
-intraTile
-4 3 0 10
-intraTile
-8 4 0 0
-interTile
-6 7 0 14
-interTile
-6 9 0 4
-intraTile
-4 3 0 1
-intraTile
-14 7 0 16
-intraTile
-6 3 0 10
-intraTile
-4 4 0 2
-intraTile
-8 4 0 0
-interTile
-6 9 0 4
-interTile
-6 7 0 14
-intraTile
-6 3 0 10
-intraTile
-4 4 0 2
-intraTile
-8 4 0 0
-intraTile
-14 7 0 16
-interTile
-6 9 0 4
-intraTile
-6 3 0 10
-intraTile
-6 4 0 2
-intraTile
-6 3 0 1
-interTile
-6 7 0 14
-interTile
-6 9 0 4
-intraTile
-6 3 0 10
-intraTile
-6 4 0 2
-intraTile
-14 7 0 16
-intraTile
-6 3 0 1
-interTile
-6 9 0 4
-intraTile
-6 3 0 10
-intraTile
-4 4 0 1
-intraTile
-12 7 0 16
-intraTile
-8 4 0 0
-interTile
-6 9 0 4
-intraTile
-6 3 0 10
-intraTile
-10 6 0 0
-intraTile
-12 7 0 16
-interTile
-6 9 0 6
-intraTile
-10 6 0 0
-intraTile
-6 3 0 10
-intraTile
-12 7 0 16
-interTile
-6 9 0 6
-intraTile
-12 6 0 0
-intraTile
-6 3 0 10
-intraTile
-12 7 0 16
-interTile
-6 9 0 6
-intraTile
-12 6 0 0
-intraTile
-6 3 0 9
-intraTile
-12 7 0 16
-interTile
-6 9 0 6
-intraTile
-12 6 0 0
-intraTile
-6 3 0 9
-intraTile
-12 7 0 16
-interTile
-6 9 0 6
-intraTile
-12 6 0 0
-intraTile
-4 3 0 11
-intraTile
-12 7 0 16
-interTile
-6 9 0 6
-intraTile
-12 6 0 0
-intraTile
-4 3 0 11
-intraTile
-12 7 0 16
-interTile
-6 9 0 6
-intraTile
-12 6 0 0
-intraTile
-6 3 0 11
-intraTile
-10 7 0 16
-interTile
-6 9 0 6
-intraTile
-4 4 0 1
-intraTile
-6 3 0 11
-intraTile
-12 6 0 17
-intraTile
-14 7 0 0
-interTile
-6 9 0 8
-intraTile
-6 3 0 11
-intraTile
-12 6 0 17
-intraTile
-14 7 0 0
-interTile
-6 9 0 8
-intraTile
-6 3 0 11
-intraTile
-10 6 0 17
-intraTile
-14 7 0 0
-interTile
-6 9 0 8
-intraTile
-10 6 0 17
-intraTile
-6 3 0 11
-intraTile
-14 7 0 0
-interTile
-6 9 0 8
-intraTile
-10 6 0 17
-intraTile
-6 3 0 11
-intraTile
-10 6 0 17
-interTile
-6 9 0 8
-intraTile
-12 7 0 0
-intraTile
-6 3 0 11
-intraTile
-10 6 0 17
-interTile
-6 9 0 8
-intraTile
-12 7 0 0
-intraTile
-6 3 0 11
-intraTile
-10 6 0 17
-interTile
-6 9 0 8
-intraTile
-12 7 0 0
-intraTile
-6 3 0 11
-intraTile
-10 6 0 17
-interTile
-6 9 0 8
-intraTile
-12 7 0 0
-intraTile
-8 6 0 17
-intraTile
-6 3 0 11
-intraTile
-8 4 0 19
-interTile
-6 9 0 10
-intraTile
-12 7 0 0
-intraTile
-4 3 0 10
-intraTile
-8 4 0 19
-interTile
-6 9 0 10
-intraTile
-12 7 0 0
-intraTile
-8 4 0 19
-intraTile
-4 3 0 10
-intraTile
-8 4 0 19
-interTile
-6 9 0 10
-intraTile
-12 7 0 0
-intraTile
-6 3 0 9
-intraTile
-8 4 0 19
-interTile
-6 9 0 10
-intraTile
-12 7 0 0
-intraTile
-8 4 0 19
-intraTile
-6 3 0 9
-intraTile
-8 4 0 19
-interTile
-6 9 0 10
-intraTile
-10 7 0 0
-intraTile
-6 3 0 9
-intraTile
-8 4 0 19
-intraTile
-10 7 0 0
-interTile
-6 9 0 10
-intraTile
-8 4 0 19
-intraTile
-6 3 0 9
-intraTile
-12 7 0 0
-intraTile
-8 4 0 19
-interTile
-6 9 0 10
-intraTile
-4 3 0 11
-intraTile
-8 4 0 19
-intraTile
-12 7 0 0
-interTile
-6 9 0 10
-intraTile
-10 6 0 9
-intraTile
-10 7 0 16
-interTile
-6 7 0 2
-intraTile
-12 6 0 0
-intraTile
-12 7 0 8
-intraTile
-12 7 0 16
-intraTile
-8 6 0 9
-intraTile
-12 7 0 16
-interTile
-6 7 0 2
-intraTile
-12 6 0 0
-intraTile
-12 7 0 8
-intraTile
-10 6 0 16
-intraTile
-8 6 0 9
-intraTile
-10 6 0 16
-interTile
-6 7 0 2
-intraTile
-8 6 0 0
-intraTile
-14 7 0 8
-intraTile
-12 6 0 16
-intraTile
-4 4 0 3
-intraTile
-4 3 0 11
-interTile
-6 7 0 2
-intraTile
-12 6 0 16
-intraTile
-8 6 0 0
-intraTile
-14 7 0 8
-intraTile
-4 4 0 3
-intraTile
-12 6 0 16
-intraTile
-6 3 0 11
-interTile
-6 7 0 2
-intraTile
-12 6 0 1
-intraTile
-12 6 0 16
-intraTile
-14 7 0 8
-intraTile
-12 6 0 16
-intraTile
-6 3 0 11
-interTile
-6 7 0 2
-intraTile
-12 6 0 1
-intraTile
-14 7 0 8
-intraTile
-12 6 0 16
-intraTile
-6 3 0 11
-interTile
-6 7 0 2
-intraTile
-12 6 0 16
-intraTile
-10 6 0 0
-intraTile
-14 7 0 8
-intraTile
-12 6 0 16
-intraTile
-4 3 0 1
-intraTile
-6 3 0 11
-interTile
-6 7 0 2
-intraTile
-10 6 0 0
-intraTile
-8 6 0 16
-intraTile
-14 7 0 8
-intraTile
-8 6 0 16
-intraTile
-8 4 0 0
-intraTile
-4 2 0 11
-interTile
-6 7 0 4
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-14 7 0 8
-intraTile
-10 6 0 16
-intraTile
-8 4 0 0
-intraTile
-4 2 0 11
-interTile
-6 7 0 4
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-14 7 0 8
-intraTile
-10 6 0 16
-intraTile
-8 4 0 0
-interTile
-6 7 0 4
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-6 3 0 1
-intraTile
-8 4 0 11
-interTile
-6 7 0 4
-intraTile
-4 3 0 1
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-6 3 0 1
-intraTile
-8 4 0 11
-interTile
-6 7 0 4
-intraTile
-4 3 0 1
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-6 3 0 1
-intraTile
-8 4 0 11
-interTile
-6 7 0 4
-intraTile
-4 2 0 2
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-6 3 0 1
-intraTile
-8 4 0 11
-interTile
-6 7 0 4
-intraTile
-4 2 0 2
-intraTile
-10 6 0 16
-intraTile
-10 6 0 1
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-6 3 0 1
-intraTile
-8 4 0 11
-interTile
-6 7 0 4
-intraTile
-10 6 0 16
-intraTile
-10 6 0 1
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 16
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 17
-intraTile
-10 6 0 0
-intraTile
-10 7 0 8
-intraTile
-10 6 0 17
-intraTile
-10 6 0 0
-intraTile
-12 7 0 8
-intraTile
-10 6 0 17
-intraTile
-10 6 0 0
-intraTile
-12 7 0 8
-intraTile
-12 6 0 16
-intraTile
-10 6 0 0
-intraTile
-12 7 0 8
-intraTile
-12 6 0 16
-intraTile
-10 6 0 0
-intraTile
-12 7 0 8
-intraTile
-10 6 0 0
-intraTile
-12 6 0 17
-intraTile
-12 7 0 8
-intraTile
-10 6 0 0
-intraTile
-12 6 0 17
-intraTile
-10 6 0 1
-intraTile
-12 7 0 8
-intraTile
-12 6 0 17
-intraTile
-10 6 0 1
-intraTile
-12 7 0 8
-intraTile
-12 6 0 17
-intraTile
-10 6 0 1
-intraTile
-12 7 0 8
-intraTile
-12 6 0 17
-intraTile
-12 6 0 0
-interTile
-6 7 0 6
-intraTile
-12 6 0 17
-intraTile
-10 6 0 1
-intraTile
-14 7 0 8
-intraTile
-8 5 0 0
-intraTile
-12 6 0 17
-interTile
-6 7 0 6
-intraTile
-10 6 0 1
-intraTile
-14 7 0 8
-intraTile
-12 6 0 17
-intraTile
-8 5 0 0
-intraTile
-10 6 0 17
-interTile
-6 7 0 6
-intraTile
-10 6 0 1
-intraTile
-14 7 0 8
-intraTile
-10 6 0 17
-intraTile
-10 5 0 0
-intraTile
-10 6 0 17
-interTile
-6 7 0 6
-intraTile
-10 6 0 1
-intraTile
-14 7 0 8
-intraTile
-10 6 0 17
-intraTile
-10 5 0 0
-intraTile
-10 6 0 17
-interTile
-6 7 0 6
-intraTile
-10 6 0 1
-intraTile
-14 7 0 8
-intraTile
-10 6 0 17
-intraTile
-12 6 0 0
-intraTile
-10 6 0 17
-interTile
-6 7 0 6
-intraTile
-14 7 0 8
-intraTile
-12 6 0 1
-intraTile
-10 6 0 17
-intraTile
-6 4 0 1
-intraTile
-8 6 0 17
-interTile
-6 7 0 6
-intraTile
-12 6 0 1
-intraTile
-14 7 0 8
-intraTile
-10 6 0 17
-intraTile
-8 5 0 0
-intraTile
-10 6 0 17
-interTile
-6 7 0 6
-intraTile
-12 6 0 1
-intraTile
-14 7 0 8
-intraTile
-10 5 0 18
-intraTile
-10 5 0 18
-intraTile
-12 6 0 1
-intraTile
-12 7 0 8
-intraTile
-8 5 0 16
-intraTile
-12 6 0 1
-intraTile
-12 7 0 8
-intraTile
-8 5 0 16
-intraTile
-12 6 0 1
-intraTile
-10 5 0 16
-intraTile
-12 7 0 8
-intraTile
-10 5 0 16
-intraTile
-12 6 0 1
-intraTile
-12 7 0 8
-intraTile
-10 5 0 16
-intraTile
-12 6 0 1
-intraTile
-12 7 0 8
-intraTile
-10 5 0 16
-intraTile
-10 6 0 1
-intraTile
-12 7 0 8
-intraTile
-10 5 0 16
-intraTile
-10 6 0 1
-intraTile
-12 7 0 8
-intraTile
-10 5 0 16
-intraTile
-10 6 0 1
-intraTile
-10 5 0 16
-intraTile
-12 7 0 8
-intraTile
-10 6 0 1
-intraTile
-10 5 0 16
-intraTile
-10 7 0 8
-intraTile
-10 6 0 1
-intraTile
-10 5 0 16
-intraTile
-10 7 0 8
-intraTile
-10 6 0 1
-intraTile
-10 5 0 16
-intraTile
-12 7 0 8
-intraTile
-10 6 0 1
-intraTile
-10 5 0 17
-intraTile
-10 6 0 1
-intraTile
-12 7 0 8
-intraTile
-10 5 0 17
-intraTile
-8 6 0 1
-interTile
-6 7 0 10
-intraTile
-10 5 0 16
-intraTile
-8 6 0 1
-intraTile
-10 6 0 8
-intraTile
-10 6 0 1
-intraTile
-4 2 0 10
-intraTile
-10 5 0 18
-interTile
-6 7 0 10
-intraTile
-10 6 0 1
-intraTile
-10 5 0 16
-intraTile
-10 6 0 8
-intraTile
-10 5 0 2
-intraTile
-4 2 0 10
-intraTile
-10 5 0 18
-interTile
-6 7 0 10
-intraTile
-10 5 0 2
-intraTile
-8 5 0 16
-intraTile
-12 6 0 8
-intraTile
-10 5 0 0
-intraTile
-10 5 0 18
-interTile
-6 7 0 10
-intraTile
-10 5 0 0
-intraTile
-8 5 0 16
-intraTile
-12 6 0 8
-intraTile
-10 5 0 0
-intraTile
-10 5 0 18
-interTile
-6 7 0 10
-intraTile
-10 5 0 0
-intraTile
-10 5 0 16
-intraTile
-12 6 0 8
-intraTile
-10 5 0 0
-intraTile
-8 5 0 18
-interTile
-6 7 0 10
-intraTile
-10 5 0 0
-intraTile
-10 5 0 16
-intraTile
-12 6 0 8
-intraTile
-10 5 0 0
-intraTile
-8 5 0 18
-interTile
-6 7 0 10
-intraTile
-10 5 0 0
-intraTile
-8 5 0 16
-intraTile
-12 6 0 8
-intraTile
-10 5 0 1
-intraTile
-10 5 0 18
-interTile
-6 7 0 10
-intraTile
-10 5 0 1
-intraTile
-8 5 0 16
-intraTile
-12 6 0 8
-intraTile
-8 4 0 19
-intraTile
-10 5 0 0
-intraTile
-8 4 0 8
-interTile
-6 7 0 12
-intraTile
-4 3 0 19
-intraTile
-10 5 0 0
-intraTile
-10 5 0 16
-intraTile
-12 6 0 8
-intraTile
-10 5 0 2
-intraTile
-8 4 0 19
-intraTile
-8 4 0 8
-interTile
-6 7 0 12
-intraTile
-10 5 0 2
-intraTile
-10 5 0 16
-intraTile
-12 6 0 8
-intraTile
-8 5 0 0
-intraTile
-8 4 0 19
-intraTile
-8 4 0 8
-interTile
-6 7 0 12
-intraTile
-10 5 0 0
-intraTile
-10 5 0 18
+Y_4X_5
+-t_38
+intraTile
+2 1 0 6
+Y_6X_7
+-t_39
+interTile
+8 12 0 0
+I_0X_9Y_12
+t_86
+intraTile
+6 7 0 0
+Y_0X_1X_6X_7
+-t_41
+intraTile
+6 7 0 8
+Y_8X_9Y_14Y_15
+-t_107
+intraTile
+2 1 0 4
+Y_4X_5
+t_56
+intraTile
+2 1 0 6
+Y_6X_7
+t_57
+interTile
+8 12 0 2
+I_2Y_11X_14
+-t_89
+intraTile
+6 7 0 0
+Y_0X_1Y_6Y_7
+-t_41
+intraTile
+6 7 0 8
+Y_8Y_9X_14Y_15
+t_107
+intraTile
+2 1 0 4
+Y_4X_5
+-t_56
+intraTile
+2 1 0 6
+Y_6X_7
+-t_57
+interTile
+8 12 0 2
+I_2X_11Y_14
+t_89
+intraTile
+6 7 0 0
+Y_0Y_1X_6Y_7
+t_41
+intraTile
+6 7 0 8
+X_8Y_9X_14X_15
+t_107
+intraTile
+2 1 0 4
+Y_4X_5
+t_58
+intraTile
+2 1 0 6
+Y_6X_7
+t_59
+interTile
+8 11 0 1
+I_1Y_9X_12
+-t_90
 intraTile
 8 6 0 8
+I_8Y_11X_14
+-t_99
 intraTile
-10 5 0 0
+6 7 0 0
+X_0Y_1X_6X_7
+t_41
 intraTile
-8 4 0 8
+2 1 0 4
+Y_4X_5
+-t_58
 intraTile
-8 4 0 19
+2 1 0 6
+Y_6X_7
+-t_59
 interTile
-6 7 0 12
-intraTile
-8 5 0 0
-intraTile
-8 5 0 17
+8 11 0 1
+I_1X_9Y_12
+t_90
 intraTile
 8 6 0 8
+I_8X_11Y_14
+t_99
+intraTile
+6 7 0 0
+X_0X_1X_6Y_7
+t_53
+interTile
+8 11 0 3
+I_3Y_11X_14
+-t_93
+intraTile
+6 5 0 8
+X_8X_9X_12Y_13
+t_106
+intraTile
+6 7 0 0
+X_0X_1Y_6X_7
+-t_53
+interTile
+8 11 0 3
+I_3X_11Y_14
+t_93
+intraTile
+6 5 0 8
+X_8X_9Y_12X_13
+-t_106
+intraTile
+6 7 0 0
+Y_0Y_1Y_6X_7
+-t_53
+interTile
+8 10 0 2
+I_2Y_9X_12
+-t_88
+intraTile
+6 5 0 8
+Y_8Y_9Y_12X_13
+-t_106
+intraTile
+6 7 0 0
+X_0Y_1Y_6Y_7
+-t_53
+interTile
+8 10 0 2
+I_2X_9Y_12
+t_88
+intraTile
+6 5 0 8
+X_8Y_9Y_12Y_13
+t_106
+intraTile
+6 7 0 0
+Y_0X_1X_6X_7
+t_53
+interTile
+8 10 0 4
+I_4Y_11X_14
+-t_95
+intraTile
+6 5 0 8
+Y_8X_9X_12X_13
+-t_106
+intraTile
+6 7 0 0
+Y_0X_1Y_6Y_7
+t_53
+interTile
+8 10 0 4
+I_4X_11Y_14
+t_95
+intraTile
+6 5 0 8
+Y_8X_9Y_12Y_13
+-t_106
+intraTile
+6 7 0 0
+Y_0Y_1X_6Y_7
+t_53
+interTile
+8 9 0 3
+I_3Y_9X_12
+-t_92
+intraTile
+6 5 0 8
+Y_8Y_9X_12Y_13
+t_106
+intraTile
+6 7 0 0
+X_0Y_1X_6X_7
+-t_53
+interTile
+8 9 0 3
+I_3X_9Y_12
+t_92
+intraTile
+6 5 0 8
+X_8Y_9X_12X_13
+t_106
+intraTile
+8 6 0 0
+I_0Y_3X_6
+-t_11
+interTile
+8 8 0 4
+I_4Y_9X_12
+-t_94
+intraTile
+6 5 0 10
+X_10X_11X_14Y_15
+t_111
+intraTile
+8 6 0 0
+I_0X_3Y_6
+t_11
+interTile
+8 8 0 4
+I_4X_9Y_12
+t_94
+intraTile
+6 5 0 10
+X_10X_11Y_14X_15
+-t_111
+intraTile
+4 6 0 1
+I_1Y_6X_7
+-t_57
+intraTile
+4 6 0 1
+I_1X_6Y_7
+t_57
 intraTile
 8 5 0 0
-intraTile
-8 4 0 8
-intraTile
-8 4 0 19
-intraTile
-10 5 0 0
+I_2Y_0X_5
+-t_7
 interTile
-6 7 0 12
+8 8 0 6
+I_6Y_11X_14
+-t_97
 intraTile
-4 3 0 19
+6 5 0 10
+Y_10Y_11Y_14X_15
+-t_111
 intraTile
-8 5 0 17
-intraTile
-12 6 0 9
-intraTile
-10 5 0 0
-intraTile
-6 4 0 18
-intraTile
-8 4 0 8
-intraTile
-10 5 0 2
-intraTile
-6 4 0 19
-interTile
-6 7 0 12
-intraTile
-10 5 0 17
-intraTile
-12 6 0 9
-intraTile
-10 5 0 2
-intraTile
-8 4 0 19
-intraTile
-8 4 0 8
-intraTile
-8 5 0 2
-interTile
-6 7 0 12
-intraTile
-8 5 0 2
-intraTile
-10 5 0 17
-intraTile
-10 6 0 8
-intraTile
-10 5 0 2
-intraTile
-8 4 0 8
-intraTile
-8 4 0 19
-interTile
-6 7 0 12
-intraTile
-10 5 0 2
-intraTile
-10 5 0 17
-intraTile
-10 6 0 8
-intraTile
-8 5 0 1
-intraTile
-4 3 0 17
-intraTile
-10 6 0 8
-interTile
-6 7 0 14
-intraTile
-8 5 0 1
-intraTile
-10 5 0 17
-intraTile
-10 6 0 8
-intraTile
-10 5 0 1
-intraTile
-4 3 0 17
-intraTile
-10 6 0 8
-intraTile
-10 5 0 1
-interTile
-6 7 0 14
-intraTile
-10 5 0 17
-intraTile
-10 6 0 8
-intraTile
-10 5 0 1
-intraTile
-4 3 0 17
-intraTile
-10 6 0 8
-intraTile
-10 5 0 1
-interTile
-6 7 0 14
-intraTile
-10 5 0 17
-intraTile
-10 6 0 8
-intraTile
-10 5 0 1
-intraTile
-4 3 0 17
-intraTile
-10 6 0 8
-intraTile
-10 5 0 1
-interTile
-6 7 0 14
-intraTile
-10 5 0 17
-intraTile
-10 6 0 9
-intraTile
-10 5 0 1
-intraTile
-6 4 0 19
-intraTile
-10 6 0 8
-intraTile
-10 5 0 1
-interTile
-6 5 0 14
-intraTile
-4 3 0 19
-intraTile
-10 5 0 17
-intraTile
-10 6 0 8
+8 6 0 1
+I_7Y_1X_4
+-t_77
 intraTile
 8 5 0 0
-intraTile
-8 4 0 19
-intraTile
-10 6 0 8
-intraTile
-8 5 0 0
+I_2X_0Y_5
+t_7
 interTile
-6 5 0 14
+8 8 0 6
+I_6X_11Y_14
+t_97
 intraTile
-10 5 0 0
+12 7 0 0
+I_0Y_2X_7
+-t_6
 intraTile
-8 5 0 16
+10 7 0 8
+X_8X_10X_13Y_15
+t_85
 intraTile
-10 6 0 8
+10 7 0 8
+X_8X_10Y_13X_15
+t_85
 intraTile
-8 4 0 19
+12 7 0 0
+I_0X_2Y_7
+t_6
 intraTile
-10 5 0 0
+10 7 0 8
+Y_8Y_10Y_13X_15
+-t_85
 intraTile
-10 6 0 8
-interTile
-6 5 0 14
+14 7 0 0
+X_0X_1X_2Y_7
+t_8
 intraTile
-4 3 0 19
+10 7 0 8
+X_8Y_10Y_13Y_15
+t_85
 intraTile
-10 5 0 0
+14 7 0 0
+X_0X_1Y_2X_7
+-t_8
 intraTile
-8 5 0 16
+10 7 0 8
+Y_8X_10X_13X_15
+-t_85
 intraTile
-10 6 0 8
+10 7 0 8
+Y_8X_10Y_13Y_15
+t_85
 intraTile
-6 3 0 17
+14 7 0 0
+Y_0Y_1Y_2X_7
+-t_8
 intraTile
-10 5 0 0
+10 7 0 8
+Y_8Y_10X_13Y_15
+-t_85
 intraTile
-10 6 0 8
+14 7 0 0
+X_0Y_1Y_2Y_7
+t_8
 intraTile
-6 3 0 19
-interTile
-6 5 0 14
-intraTile
-8 5 0 2
-intraTile
-10 5 0 16
-intraTile
-10 6 0 8
-intraTile
-8 5 0 2
-intraTile
-10 5 0 16
-intraTile
-10 6 0 8
-intraTile
-10 5 0 2
-intraTile
-10 5 0 16
-intraTile
-10 6 0 9
-intraTile
-10 5 0 2
-intraTile
-10 5 0 16
-intraTile
-10 6 0 9
-intraTile
-8 5 0 2
-intraTile
-8 5 0 18
-intraTile
-10 6 0 9
-intraTile
-8 5 0 2
-intraTile
-8 5 0 18
-intraTile
-10 6 0 9
-intraTile
-10 5 0 2
-intraTile
-10 5 0 18
-intraTile
-10 6 0 9
-intraTile
-10 5 0 2
-intraTile
-10 5 0 18
-intraTile
-10 6 0 9
-intraTile
-10 5 0 2
-intraTile
-8 5 0 18
-intraTile
-10 6 0 9
-intraTile
-10 5 0 2
-intraTile
-8 5 0 18
-intraTile
-10 6 0 9
-intraTile
-10 5 0 2
-intraTile
-8 5 0 17
-intraTile
-6 3 0 19
-interTile
-6 5 0 14
+10 7 0 8
+X_8Y_10X_13X_15
+-t_85
 intraTile
 12 6 0 8
+X_8X_9X_10Y_14
+t_82
 intraTile
-10 5 0 2
-intraTile
-10 5 0 18
-intraTile
-10 5 0 2
+14 7 0 0
+Y_0X_1X_2X_7
+-t_8
 intraTile
 12 6 0 8
+X_8X_9Y_10X_14
+-t_82
 intraTile
-10 5 0 18
+14 7 0 0
+Y_0X_1Y_2Y_7
+-t_8
 intraTile
-10 5 0 2
+12 6 0 8
+Y_8Y_9Y_10X_14
+-t_82
+intraTile
+14 7 0 0
+Y_0Y_1X_2Y_7
+t_8
+intraTile
+12 6 0 8
+X_8Y_9Y_10Y_14
+t_82
+intraTile
+14 7 0 0
+X_0Y_1X_2X_7
+t_8
+intraTile
+12 6 0 8
+Y_8X_9X_10X_14
+-t_82
+intraTile
+10 7 0 0
+I_0Y_3X_7
+-t_19
+intraTile
+12 6 0 8
+Y_8X_9Y_10Y_14
+-t_82
+intraTile
+10 7 0 0
+I_0X_3Y_7
+t_19
+intraTile
+12 6 0 8
+Y_8Y_9X_10Y_14
+t_82
+intraTile
+12 7 0 0
+X_0X_1X_3Y_7
+t_30
+intraTile
+12 6 0 8
+X_8Y_9X_10X_14
+t_82
+intraTile
+12 7 0 0
+X_0X_1Y_3X_7
+-t_30
+intraTile
+10 6 0 8
+X_8X_10X_12Y_14
+t_84
+intraTile
+12 7 0 0
+Y_0Y_1Y_3X_7
+-t_30
+intraTile
+10 6 0 8
+X_8X_10Y_12X_14
+t_84
+intraTile
+12 7 0 0
+X_0Y_1Y_3Y_7
+-t_30
+intraTile
+10 6 0 8
+Y_8Y_10Y_12X_14
+-t_84
+intraTile
+12 7 0 0
+Y_0X_1X_3X_7
+t_30
+intraTile
+10 6 0 8
+X_8Y_10Y_12Y_14
+t_84
+intraTile
+10 6 0 8
+Y_8X_10X_12X_14
+-t_84
+intraTile
+12 7 0 0
+Y_0X_1Y_3Y_7
+t_30
+intraTile
+10 6 0 8
+Y_8X_10Y_12Y_14
+t_84
+intraTile
+12 7 0 0
+Y_0Y_1X_3Y_7
+t_30
+intraTile
+10 6 0 8
+Y_8Y_10X_12Y_14
+-t_84
+intraTile
+12 7 0 0
+X_0Y_1X_3X_7
+-t_30
+intraTile
+10 6 0 8
+X_8Y_10X_12X_14
+-t_84
+intraTile
+14 7 0 0
+X_0X_5X_6Y_7
+t_48
+intraTile
+10 6 0 8
+X_8X_9X_11Y_14
+t_102
+intraTile
+10 6 0 8
+X_8X_9Y_11X_14
+-t_102
+intraTile
+14 7 0 0
+X_0X_5Y_6X_7
+-t_48
+intraTile
+10 6 0 8
+Y_8Y_9Y_11X_14
+-t_102
+intraTile
+14 7 0 0
+Y_0Y_5Y_6X_7
+-t_48
+intraTile
+10 6 0 8
+X_8Y_9Y_11Y_14
+-t_102
+intraTile
+14 7 0 0
+X_0Y_5Y_6Y_7
+t_48
+intraTile
+10 6 0 8
+Y_8X_9X_11X_14
+t_102
+intraTile
+10 6 0 8
+Y_8X_9Y_11Y_14
+t_102
+intraTile
+14 7 0 0
+Y_0X_5X_6X_7
+-t_48
+intraTile
+10 6 0 8
+Y_8Y_9X_11Y_14
+t_102
+intraTile
+14 7 0 0
+Y_0X_5Y_6Y_7
+-t_48
+intraTile
+10 6 0 8
+X_8Y_9X_11X_14
+-t_102
+intraTile
+10 6 0 9
+X_9X_11X_13Y_15
+t_105
+intraTile
+14 7 0 0
+Y_0Y_5X_6Y_7
+t_48
+intraTile
+10 6 0 9
+X_9X_11Y_13X_15
+t_105
+intraTile
+14 7 0 0
+X_0Y_5X_6X_7
+t_48
+intraTile
+10 6 0 9
+Y_9Y_11Y_13X_15
+-t_105
+intraTile
+12 7 0 0
+X_0X_4X_6Y_7
+t_66
+intraTile
+10 6 0 9
+X_9Y_11Y_13Y_15
+t_105
+intraTile
+10 6 0 9
+Y_9X_11X_13X_15
+-t_105
+intraTile
+12 7 0 0
+X_0X_4Y_6X_7
+-t_66
+intraTile
+10 6 0 9
+Y_9X_11Y_13Y_15
+t_105
+intraTile
+12 7 0 0
+Y_0Y_4Y_6X_7
+-t_66
+intraTile
+10 6 0 9
+Y_9Y_11X_13Y_15
+-t_105
+intraTile
+12 7 0 0
+X_0Y_4Y_6Y_7
+-t_66
+intraTile
+10 6 0 9
+X_9Y_11X_13X_15
+-t_105
+intraTile
+12 7 0 0
+Y_0X_4X_6X_7
+t_66
+intraTile
+10 6 0 8
+X_8X_11X_13Y_14
+-t_108
+intraTile
+12 7 0 0
+Y_0X_4Y_6Y_7
+t_66
+intraTile
+10 6 0 8
+X_8X_11Y_13X_14
+t_108
+intraTile
+10 6 0 8
+Y_8Y_11Y_13X_14
+t_108
+intraTile
+12 7 0 0
+Y_0Y_4X_6Y_7
+t_66
+intraTile
+10 6 0 8
+X_8Y_11Y_13Y_14
+t_108
+intraTile
+12 7 0 0
+X_0Y_4X_6X_7
+-t_66
+intraTile
+10 6 0 8
+Y_8X_11X_13X_14
+-t_108
+intraTile
+10 7 0 0
+I_7Y_0X_4
+-t_71
+intraTile
+10 6 0 8
+Y_8X_11Y_13Y_14
+-t_108
+intraTile
+10 7 0 0
+I_7X_0Y_4
+t_71
+intraTile
+10 6 0 8
+Y_8Y_11X_13Y_14
+-t_108
+intraTile
+12 7 0 0
+I_7Y_0X_5
+-t_74
+intraTile
+10 6 0 8
+X_8Y_11X_13X_14
+t_108
+intraTile
+12 7 0 0
+I_7X_0Y_5
+t_74
+intraTile
+10 6 0 9
+X_9X_10X_12Y_15
+t_109
+intraTile
+10 6 0 0
+I_0Y_2X_6
+-t_2
+intraTile
+10 6 0 9
+X_9X_10Y_12X_15
+-t_109
+intraTile
+10 6 0 0
+I_0X_2Y_6
+t_2
+intraTile
+10 6 0 9
+Y_9Y_10Y_12X_15
+-t_109
+intraTile
+12 6 0 0
+X_0X_1X_2Y_6
+t_4
+intraTile
+10 6 0 9
+X_9Y_10Y_12Y_15
+-t_109
+intraTile
+12 6 0 0
+X_0X_1Y_2X_6
+-t_4
+intraTile
+10 6 0 9
+Y_9X_10X_12X_15
+t_109
+intraTile
+10 6 0 9
+Y_9X_10Y_12Y_15
+t_109
+intraTile
+12 6 0 0
+Y_0Y_1Y_2X_6
+-t_4
+intraTile
+10 6 0 9
+Y_9Y_10X_12Y_15
+t_109
+intraTile
+12 6 0 0
+X_0Y_1Y_2Y_6
+t_4
+intraTile
+10 6 0 9
+X_9Y_10X_12X_15
+-t_109
+intraTile
+12 6 0 0
+Y_0X_1X_2X_6
+-t_4
 intraTile
 12 6 0 9
+X_9X_13X_14Y_15
+t_114
 intraTile
-10 5 0 18
-intraTile
-10 5 0 2
-intraTile
-10 5 0 18
-intraTile
-12 6 0 9
-intraTile
-10 5 0 2
-intraTile
-10 5 0 18
+12 6 0 0
+Y_0X_1Y_2Y_6
+-t_4
 intraTile
 12 6 0 9
+X_9X_13Y_14X_15
+-t_114
+intraTile
+12 6 0 0
+Y_0Y_1X_2Y_6
+t_4
+intraTile
+12 6 0 9
+Y_9Y_13Y_14X_15
+-t_114
+intraTile
+12 6 0 0
+X_0Y_1X_2X_6
+t_4
+intraTile
+12 6 0 9
+X_9Y_13Y_14Y_15
+t_114
+intraTile
+12 6 0 1
+I_1Y_2X_7
+-t_24
+intraTile
+12 6 0 9
+Y_9X_13X_14X_15
+-t_114
+intraTile
+12 6 0 1
+I_1X_2Y_7
+t_24
+intraTile
+12 6 0 9
+Y_9X_13Y_14Y_15
+-t_114
+intraTile
+10 6 0 0
+X_0X_1X_3Y_6
+t_26
+intraTile
+12 6 0 9
+Y_9Y_13X_14Y_15
+t_114
+intraTile
+10 6 0 0
+X_0X_1Y_3X_6
+-t_26
+intraTile
+12 6 0 9
+X_9Y_13X_14X_15
+t_114
+intraTile
+10 6 0 0
+Y_0Y_1Y_3X_6
+-t_26
+intraTile
+10 5 0 9
+X_9X_11X_12Y_14
+t_104
+intraTile
+10 6 0 0
+X_0Y_1Y_3Y_6
+-t_26
+intraTile
+10 5 0 9
+X_9X_11Y_12X_14
+t_104
+intraTile
+10 6 0 0
+Y_0X_1X_3X_6
+t_26
+intraTile
+10 5 0 9
+Y_9Y_11Y_12X_14
+-t_104
+intraTile
+10 6 0 0
+Y_0X_1Y_3Y_6
+t_26
+intraTile
+10 5 0 9
+X_9Y_11Y_12Y_14
+t_104
+intraTile
+10 6 0 0
+Y_0Y_1X_3Y_6
+t_26
+intraTile
+10 5 0 9
+Y_9X_11X_12X_14
+-t_104
+intraTile
+10 6 0 0
+X_0Y_1X_3X_6
+-t_26
+intraTile
+10 5 0 9
+Y_9X_11Y_12Y_14
+t_104
+intraTile
+10 6 0 1
+I_1Y_3X_7
+-t_32
+intraTile
+10 5 0 9
+Y_9Y_11X_12Y_14
+-t_104
+intraTile
+10 6 0 1
+I_1X_3Y_7
+t_32
+intraTile
+10 5 0 9
+X_9Y_11X_12X_14
+-t_104
+intraTile
+10 6 0 0
+I_6Y_0X_4
+-t_34
+intraTile
+6 5 0 10
+X_10Y_11Y_14Y_15
+t_111
+intraTile
+10 6 0 0
+I_6X_0Y_4
+t_34
+intraTile
+6 5 0 10
+Y_10X_11X_14X_15
+-t_111
+intraTile
+6 5 0 10
+Y_10X_11Y_14Y_15
+-t_111
+intraTile
+12 6 0 0
+I_6Y_0X_5
+-t_45
+intraTile
+6 5 0 10
+Y_10Y_11X_14Y_15
+t_111
+intraTile
+6 5 0 10
+X_10Y_11X_14X_15
+t_111
+intraTile
+12 6 0 0
+I_6X_0Y_5
+t_45
+intraTile
+8 5 0 9
+I_14Y_9X_12
+-t_112
+intraTile
+12 6 0 1
+X_1X_5X_6Y_7
+t_64
+intraTile
+8 5 0 9
+I_14X_9Y_12
+t_112
+intraTile
+8 4 0 8
+X_8X_10X_11Y_12
+t_83
+intraTile
+12 6 0 1
+X_1X_5Y_6X_7
+-t_64
+intraTile
+8 4 0 8
+X_8X_10Y_11X_12
+t_83
+intraTile
+12 6 0 1
+Y_1Y_5Y_6X_7
+-t_64
+intraTile
+8 4 0 8
+Y_8Y_10Y_11X_12
+-t_83
+intraTile
+8 4 0 8
+X_8Y_10Y_11Y_12
+t_83
+intraTile
+12 6 0 1
+X_1Y_5Y_6Y_7
+t_64
+intraTile
+8 4 0 8
+Y_8X_10X_11X_12
+-t_83
+intraTile
+12 6 0 1
+Y_1X_5X_6X_7
+-t_64
+intraTile
+8 4 0 8
+Y_8X_10Y_11Y_12
+t_83
+intraTile
+8 4 0 8
+Y_8Y_10X_11Y_12
+-t_83
+intraTile
+12 6 0 1
+Y_1X_5Y_6Y_7
+-t_64
+intraTile
+8 4 0 8
+X_8Y_10X_11X_12
+-t_83
+intraTile
+12 6 0 1
+Y_1Y_5X_6Y_7
+t_64
+intraTile
+8 4 0 8
+I_8Y_9X_12
+-t_98
+intraTile
+8 4 0 8
+I_8X_9Y_12
+t_98
+intraTile
+12 6 0 1
+X_1Y_5X_6X_7
+t_64
+intraTile
+8 4 0 10
+I_10Y_11X_14
+-t_101
+intraTile
+10 6 0 1
+X_1X_4X_6Y_7
+t_68
+intraTile
+8 4 0 10
+I_10X_11Y_14
+t_101
+intraTile
+8 4 0 11
+X_11X_12X_13Y_15
+t_115
+intraTile
+10 6 0 1
+X_1X_4Y_6X_7
+-t_68
+intraTile
+8 4 0 11
+X_11X_12Y_13X_15
+t_115
+intraTile
+10 6 0 1
+Y_1Y_4Y_6X_7
+-t_68
+intraTile
+8 4 0 11
+Y_11Y_12Y_13X_15
+-t_115
+intraTile
+10 6 0 1
+X_1Y_4Y_6Y_7
+-t_68
+intraTile
+8 4 0 11
+X_11Y_12Y_13Y_15
+t_115
+intraTile
+10 6 0 1
+Y_1X_4X_6X_7
+t_68
+intraTile
+8 4 0 11
+Y_11X_12X_13X_15
+-t_115
+intraTile
+8 4 0 11
+Y_11X_12Y_13Y_15
+t_115
+intraTile
+10 6 0 1
+Y_1X_4Y_6Y_7
+t_68
+intraTile
+8 4 0 11
+Y_11Y_12X_13Y_15
+-t_115
+intraTile
+10 6 0 1
+Y_1Y_4X_6Y_7
+t_68
+intraTile
+8 4 0 11
+X_11Y_12X_13X_15
+-t_115
+intraTile
+10 6 0 1
+X_1Y_4X_6X_7
+-t_68
+intraTile
+6 3 0 9
+Y_9X_12
+t_0
+intraTile
+6 3 0 9
+X_9Y_12
+-t_0
+intraTile
+8 6 0 1
+I_7X_1Y_4
+t_77
+intraTile
+6 3 0 11
+Y_11X_14
+t_1
+intraTile
+10 6 0 1
+I_7Y_1X_5
+-t_80
+intraTile
+6 3 0 11
+X_11Y_14
+-t_1
+intraTile
+6 3 0 9
+Y_9X_12
+t_86
+intraTile
+10 6 0 1
+I_7X_1Y_5
+t_80
+intraTile
+4 3 0 9
+I_10Y_9X_12
+-t_100
+intraTile
+8 5 0 0
+I_1Y_0X_5
+-t_22
 interTile
-6 3 0 6
+8 6 0 6
+I_6Y_9X_12
+-t_96
 intraTile
-8 5 0 1
+6 3 0 9
+Y_9X_12
+-t_86
 intraTile
-10 5 0 18
+10 5 0 2
+Y_2X_7
+t_6
 intraTile
-8 5 0 1
+6 3 0 11
+Y_11X_14
+t_87
 intraTile
-12 6 0 9
+10 5 0 0
+Y_0X_5
+t_7
+interTile
+8 6 0 6
+I_6X_9Y_12
+t_96
 intraTile
-10 5 0 18
+6 3 0 11
+Y_11X_14
+-t_87
+intraTile
+10 5 0 2
+Y_2X_7
+-t_6
+intraTile
+6 3 0 9
+Y_9X_12
+t_88
+intraTile
+10 5 0 0
+Y_0X_5
+-t_7
+intraTile
+6 3 0 9
+Y_9X_12
+-t_88
+intraTile
+6 3 0 11
+Y_11X_14
+t_89
+intraTile
+10 5 0 0
+X_0X_2X_3Y_5
+t_9
+intraTile
+6 3 0 11
+Y_11X_14
+-t_89
+intraTile
+6 3 0 9
+Y_9X_12
+t_90
+intraTile
+10 5 0 0
+X_0X_2Y_3X_5
+t_9
+intraTile
+6 3 0 9
+Y_9X_12
+-t_90
+intraTile
+10 5 0 0
+Y_0Y_2Y_3X_5
+-t_9
+intraTile
+6 3 0 11
+Y_11X_14
+t_91
+intraTile
+6 3 0 11
+Y_11X_14
+-t_91
+intraTile
+10 5 0 0
+X_0Y_2Y_3Y_5
+t_9
+intraTile
+6 3 0 9
+Y_9X_12
+t_92
+intraTile
+6 3 0 9
+Y_9X_12
+-t_92
+intraTile
+10 5 0 0
+Y_0X_2X_3X_5
+-t_9
+intraTile
+6 3 0 11
+Y_11X_14
+t_93
+intraTile
+10 5 0 0
+Y_0X_2Y_3Y_5
+t_9
+intraTile
+6 3 0 11
+Y_11X_14
+-t_93
+intraTile
+6 3 0 9
+Y_9X_12
+t_94
+intraTile
+10 5 0 0
+Y_0Y_2X_3Y_5
+-t_9
+intraTile
+6 3 0 9
+Y_9X_12
+-t_94
+intraTile
+6 3 0 11
+Y_11X_14
+t_95
+intraTile
+10 5 0 0
+X_0Y_2X_3X_5
+-t_9
+intraTile
+6 3 0 11
+Y_11X_14
+-t_95
 intraTile
 10 5 0 1
-interTile
-6 3 0 6
+I_1Y_2X_6
+-t_16
 intraTile
-12 6 0 9
+6 3 0 9
+Y_9X_12
+t_96
 intraTile
-10 5 0 18
+6 3 0 9
+Y_9X_12
+-t_96
 intraTile
 10 5 0 1
+I_1X_2Y_6
+t_16
 intraTile
-12 6 0 9
+6 3 0 11
+Y_11X_14
+t_97
 intraTile
-10 5 0 18
+6 3 0 11
+Y_11X_14
+-t_97
 intraTile
 10 5 0 0
+I_0Y_1X_5
+-t_18
 intraTile
-10 5 0 18
-intraTile
-12 6 0 9
+6 3 0 9
+Y_9X_12
+t_98
 intraTile
 10 5 0 0
+I_0X_1Y_5
+t_18
 intraTile
-8 5 0 17
+6 3 0 9
+Y_9X_12
+-t_98
+intraTile
+6 3 0 11
+Y_11X_14
+t_99
 intraTile
 10 5 0 2
+I_2Y_3X_7
+-t_21
 intraTile
-12 6 0 9
+6 3 0 11
+Y_11X_14
+-t_99
 intraTile
-10 5 0 17
+6 3 0 9
+Y_9X_12
+t_100
 intraTile
 10 5 0 2
+I_2X_3Y_7
+t_21
 intraTile
-10 6 0 9
+4 3 0 9
+I_10X_9Y_12
+t_100
 intraTile
-10 5 0 17
-interTile
-6 3 0 6
-intraTile
-10 5 0 0
-intraTile
-10 6 0 9
-intraTile
-10 5 0 16
+6 3 0 9
+Y_9X_12
+-t_100
 intraTile
 10 5 0 0
+Y_0X_5
+t_22
 intraTile
-10 6 0 9
+6 3 0 11
+Y_11X_14
+t_101
 intraTile
-10 5 0 16
+8 5 0 0
+I_1X_0Y_5
+t_22
+intraTile
+6 3 0 11
+Y_11X_14
+-t_101
+intraTile
+6 3 0 9
+X_9X_10X_11Y_12
+t_103
+intraTile
+10 5 0 0
+Y_0X_5
+-t_22
+intraTile
+6 3 0 9
+X_9X_10Y_11X_12
+-t_103
+intraTile
+8 5 0 0
+I_3Y_0X_5
+-t_23
+intraTile
+6 3 0 9
+Y_9Y_10Y_11X_12
+-t_103
+intraTile
+6 3 0 9
+X_9Y_10Y_11Y_12
+t_103
+intraTile
+10 5 0 0
+Y_0X_5
+t_23
+intraTile
+6 3 0 9
+Y_9X_10X_11X_12
+-t_103
+intraTile
+8 5 0 0
+I_3X_0Y_5
+t_23
+intraTile
+6 3 0 9
+Y_9X_10Y_11Y_12
+-t_103
+intraTile
+6 3 0 9
+Y_9Y_10X_11Y_12
+t_103
+intraTile
+10 5 0 0
+Y_0X_5
+-t_23
+intraTile
+6 3 0 9
+X_9Y_10X_11X_12
+t_103
+intraTile
+10 5 0 2
+Y_2X_7
+t_24
+intraTile
+6 3 0 10
+X_10X_11X_12Y_13
+t_110
+intraTile
+6 3 0 10
+X_10X_11Y_12X_13
+-t_110
+intraTile
+10 5 0 2
+Y_2X_7
+-t_24
+intraTile
+6 3 0 10
+Y_10Y_11Y_12X_13
+-t_110
+intraTile
+6 3 0 10
+X_10Y_11Y_12Y_13
+t_110
 intraTile
 8 5 0 2
+I_3Y_2X_7
+-t_25
 intraTile
-10 6 0 9
+6 3 0 10
+Y_10X_11X_12X_13
+-t_110
 intraTile
-10 5 0 18
+10 5 0 2
+Y_2X_7
+t_25
+intraTile
+6 3 0 10
+Y_10X_11Y_12Y_13
+-t_110
+intraTile
+6 3 0 10
+Y_10Y_11X_12Y_13
+t_110
 intraTile
 8 5 0 2
+I_3X_2Y_7
+t_25
 intraTile
-10 6 0 9
-intraTile
-10 5 0 2
-intraTile
-10 5 0 18
-intraTile
-10 6 0 9
+6 3 0 10
+X_10Y_11X_12X_13
+t_110
 intraTile
 10 5 0 2
+Y_2X_7
+-t_25
 intraTile
-10 5 0 16
+6 3 0 9
+Y_9X_12
+t_112
 intraTile
-10 6 0 9
+6 3 0 9
+Y_9X_12
+-t_112
 intraTile
-6 3 0 1
-interTile
-6 5 0 4
+8 5 0 1
+I_1Y_3X_6
+-t_28
 intraTile
-10 5 0 16
+4 3 0 11
+I_12Y_11X_14
+-t_113
+intraTile
+8 5 0 1
+I_1X_3Y_6
+t_28
+intraTile
+6 3 0 11
+Y_11X_14
+t_113
+intraTile
+4 3 0 11
+I_12X_11Y_14
+t_113
+intraTile
+4 5 0 0
+I_0Y_4X_5
+-t_36
+intraTile
+6 3 0 11
+Y_11X_14
+-t_113
+intraTile
+4 5 0 0
+I_0X_4Y_5
+t_36
+intraTile
+4 5 0 2
+I_2Y_6X_7
+-t_39
+intraTile
+4 5 0 2
+I_2X_6Y_7
+t_39
+intraTile
+6 5 0 0
+X_0X_1X_4Y_5
+t_40
+intraTile
+6 5 0 0
+X_0X_1Y_4X_5
+-t_40
+intraTile
+6 5 0 0
+Y_0Y_1Y_4X_5
+-t_40
+intraTile
+6 5 0 0
+X_0Y_1Y_4Y_5
+t_40
+intraTile
+6 5 0 0
+Y_0X_1X_4X_5
+-t_40
+intraTile
+6 5 0 0
+Y_0X_1Y_4Y_5
+-t_40
+intraTile
+6 5 0 0
+Y_0Y_1X_4Y_5
+t_40
+intraTile
+6 5 0 0
+X_0Y_1X_4X_5
+t_40
+intraTile
+6 5 0 2
+X_2X_3X_6Y_7
+t_43
+intraTile
+6 5 0 2
+X_2X_3Y_6X_7
+-t_43
+intraTile
+6 5 0 2
+Y_2Y_3Y_6X_7
+-t_43
+intraTile
+6 5 0 2
+X_2Y_3Y_6Y_7
+t_43
+intraTile
+6 5 0 2
+Y_2X_3X_6X_7
+-t_43
+intraTile
+6 5 0 2
+Y_2X_3Y_6Y_7
+-t_43
+intraTile
+6 5 0 2
+Y_2Y_3X_6Y_7
+t_43
+intraTile
+6 5 0 2
+X_2Y_3X_6X_7
+t_43
+intraTile
+8 5 0 0
+I_4Y_0X_5
+-t_44
+intraTile
+10 5 0 0
+Y_0X_5
+t_44
+intraTile
+8 5 0 0
+I_4X_0Y_5
+t_44
+intraTile
+10 5 0 0
+Y_0X_5
+-t_44
+intraTile
+10 5 0 0
+Y_0X_5
+t_45
+intraTile
+10 5 0 0
+Y_0X_5
+-t_45
+intraTile
+8 5 0 2
+I_4Y_2X_7
+-t_46
+intraTile
+10 5 0 2
+Y_2X_7
+t_46
+intraTile
+8 5 0 2
+I_4X_2Y_7
+t_46
+intraTile
+10 5 0 2
+Y_2X_7
+-t_46
+intraTile
+8 5 0 2
+I_6Y_2X_7
+-t_47
+intraTile
+10 5 0 2
+Y_2X_7
+t_47
+intraTile
+8 5 0 2
+I_6X_2Y_7
+t_47
+intraTile
+10 5 0 2
+Y_2X_7
+-t_47
+intraTile
+10 5 0 2
+X_2X_4X_5Y_7
+t_49
+intraTile
+10 5 0 2
+X_2X_4Y_5X_7
+t_49
+intraTile
+10 5 0 2
+Y_2Y_4Y_5X_7
+-t_49
+intraTile
+10 5 0 2
+X_2Y_4Y_5Y_7
+t_49
+intraTile
+10 5 0 2
+Y_2X_4X_5X_7
+-t_49
+intraTile
+10 5 0 2
+Y_2X_4Y_5Y_7
+t_49
+intraTile
+10 5 0 2
+Y_2Y_4X_5Y_7
+-t_49
+intraTile
+10 5 0 2
+X_2Y_4X_5X_7
+-t_49
+intraTile
+8 5 0 1
+I_6Y_1X_4
+-t_50
+intraTile
+8 5 0 1
+I_6X_1Y_4
+t_50
+intraTile
+6 5 0 0
+X_0X_1X_4Y_5
+t_52
+intraTile
+6 5 0 0
+X_0X_1Y_4X_5
+-t_52
+intraTile
+6 5 0 0
+Y_0Y_1Y_4X_5
+-t_52
+intraTile
+6 5 0 0
+X_0Y_1Y_4Y_5
+-t_52
+intraTile
+6 5 0 0
+Y_0X_1X_4X_5
+t_52
+intraTile
+6 5 0 0
+Y_0X_1Y_4Y_5
+t_52
+intraTile
+6 5 0 0
+Y_0Y_1X_4Y_5
+t_52
+intraTile
+6 5 0 0
+X_0Y_1X_4X_5
+-t_52
+intraTile
+6 5 0 2
+X_2X_3X_6Y_7
+t_55
+intraTile
+6 5 0 2
+X_2X_3Y_6X_7
+-t_55
+intraTile
+6 5 0 2
+Y_2Y_3Y_6X_7
+-t_55
+intraTile
+6 5 0 2
+X_2Y_3Y_6Y_7
+-t_55
+intraTile
+6 5 0 2
+Y_2X_3X_6X_7
+t_55
+intraTile
+6 5 0 2
+Y_2X_3Y_6Y_7
+t_55
+intraTile
+6 5 0 2
+Y_2Y_3X_6Y_7
+t_55
+intraTile
+6 5 0 2
+X_2Y_3X_6X_7
+-t_55
+intraTile
+10 5 0 1
+I_6Y_1X_5
+-t_61
+intraTile
+10 5 0 1
+I_6X_1Y_5
+t_61
+intraTile
+10 5 0 0
+I_5Y_0X_4
+-t_70
+intraTile
+10 5 0 0
+I_5X_0Y_4
+t_70
+intraTile
+10 5 0 2
+I_7Y_2X_6
+-t_73
+intraTile
+10 5 0 2
+I_7X_2Y_6
+t_73
+intraTile
+10 5 0 0
+Y_0X_5
+t_74
+intraTile
+10 5 0 0
+Y_0X_5
+-t_74
+intraTile
+8 5 0 2
+I_5Y_2X_7
+-t_75
+intraTile
+10 5 0 2
+Y_2X_7
+t_75
+intraTile
+8 5 0 2
+I_5X_2Y_7
+t_75
+intraTile
+10 5 0 2
+Y_2X_7
+-t_75
 intraTile
 8 4 0 2
+Y_2X_6
+t_2
 intraTile
-10 6 0 9
+8 4 0 2
+Y_2X_6
+-t_2
 intraTile
-8 5 0 18
+6 4 0 0
+I_2Y_0X_4
+-t_3
+intraTile
+8 4 0 0
+Y_0X_4
+t_3
+intraTile
+6 4 0 0
+I_2X_0Y_4
+t_3
+intraTile
+8 4 0 0
+Y_0X_4
+-t_3
+intraTile
+8 4 0 0
+X_0X_2X_3Y_4
+t_5
+intraTile
+8 4 0 0
+X_0X_2Y_3X_4
+t_5
+intraTile
+8 4 0 0
+Y_0Y_2Y_3X_4
+-t_5
+intraTile
+8 4 0 0
+X_0Y_2Y_3Y_4
+t_5
+intraTile
+8 4 0 0
+Y_0X_2X_3X_4
+-t_5
+intraTile
+8 4 0 0
+Y_0X_2Y_3Y_4
+t_5
+intraTile
+8 4 0 0
+Y_0Y_2X_3Y_4
+-t_5
+intraTile
+8 4 0 0
+X_0Y_2X_3X_4
+-t_5
+intraTile
+8 4 0 0
+I_0Y_1X_4
+-t_10
+intraTile
+8 4 0 0
+I_0X_1Y_4
+t_10
+intraTile
+8 4 0 2
+I_2Y_3X_6
+-t_13
+intraTile
+8 4 0 2
+I_2X_3Y_6
+t_13
+intraTile
+6 4 0 0
+I_1Y_0X_4
+-t_14
+intraTile
+8 4 0 0
+Y_0X_4
+t_14
+intraTile
+6 4 0 0
+I_1X_0Y_4
+t_14
+intraTile
+8 4 0 0
+Y_0X_4
+-t_14
+intraTile
+6 4 0 0
+I_3Y_0X_4
+-t_15
+intraTile
+8 4 0 0
+Y_0X_4
+t_15
+intraTile
+6 4 0 0
+I_3X_0Y_4
+t_15
+intraTile
+8 4 0 0
+Y_0X_4
+-t_15
+intraTile
+8 4 0 2
+Y_2X_6
+t_16
+intraTile
+8 4 0 2
+Y_2X_6
+-t_16
+intraTile
+6 4 0 2
+I_3Y_2X_6
+-t_17
+intraTile
+8 4 0 2
+Y_2X_6
+t_17
+intraTile
+6 4 0 2
+I_3X_2Y_6
+t_17
+intraTile
+8 4 0 2
+Y_2X_6
+-t_17
+intraTile
+8 4 0 1
+Y_1X_5
+t_18
+intraTile
+8 4 0 1
+Y_1X_5
+-t_18
+intraTile
+8 4 0 3
+Y_3X_7
+t_19
+intraTile
+8 4 0 3
+Y_3X_7
+-t_19
 intraTile
 6 4 0 1
+I_2Y_1X_5
+-t_20
 intraTile
-10 6 0 9
+8 4 0 1
+Y_1X_5
+t_20
 intraTile
-8 5 0 18
+6 4 0 1
+I_2X_1Y_5
+t_20
 intraTile
-6 3 0 1
-interTile
-6 5 0 4
+8 4 0 1
+Y_1X_5
+-t_20
 intraTile
-8 4 0 2
+8 4 0 3
+Y_3X_7
+t_21
 intraTile
-10 5 0 18
+8 4 0 3
+Y_3X_7
+-t_21
 intraTile
-10 6 0 9
+8 4 0 1
+X_1X_2X_3Y_5
+t_31
 intraTile
-6 4 0 3
+8 4 0 1
+X_1X_2Y_3X_5
+-t_31
 intraTile
-10 5 0 10
+8 4 0 1
+Y_1Y_2Y_3X_5
+-t_31
 intraTile
-10 5 0 18
+8 4 0 1
+X_1Y_2Y_3Y_5
+t_31
 intraTile
-6 3 0 1
-interTile
-6 5 0 4
+8 4 0 1
+Y_1X_2X_3X_5
+-t_31
 intraTile
-8 4 0 2
+8 4 0 1
+Y_1X_2Y_3Y_5
+-t_31
 intraTile
-8 4 0 18
+8 4 0 1
+Y_1Y_2X_3Y_5
+t_31
 intraTile
-10 5 0 10
+8 4 0 1
+X_1Y_2X_3X_5
+t_31
 intraTile
-6 3 0 19
+8 4 0 3
+Y_3X_7
+t_32
 intraTile
-6 4 0 3
+8 4 0 3
+Y_3X_7
+-t_32
 intraTile
-10 5 0 9
-interTile
-6 5 0 14
+6 4 0 1
+I_3Y_1X_5
+-t_33
 intraTile
-6 3 0 1
-interTile
-6 5 0 4
+8 4 0 1
+Y_1X_5
+t_33
 intraTile
-8 4 0 18
+6 4 0 1
+I_3X_1Y_5
+t_33
 intraTile
-8 4 0 2
+8 4 0 1
+Y_1X_5
+-t_33
 intraTile
-8 5 0 8
+8 4 0 0
+Y_0X_4
+t_34
 intraTile
-8 4 0 16
-intraTile
-6 4 0 3
-intraTile
-10 5 0 9
-intraTile
-8 4 0 16
-intraTile
-6 3 0 1
-interTile
-6 5 0 4
-intraTile
-8 4 0 2
-intraTile
-8 4 0 16
-intraTile
-8 5 0 8
-intraTile
-6 4 0 3
-intraTile
-8 4 0 16
-intraTile
-10 5 0 10
-intraTile
-6 3 0 1
-interTile
-6 5 0 4
-intraTile
-8 4 0 16
-intraTile
-8 4 0 2
-intraTile
-10 5 0 8
-intraTile
-8 4 0 16
+8 4 0 0
+Y_0X_4
+-t_34
 intraTile
 6 4 0 2
-intraTile
-10 5 0 10
-intraTile
-8 4 0 16
-intraTile
-6 3 0 1
-interTile
-6 5 0 4
+I_4Y_2X_6
+-t_35
 intraTile
 8 4 0 2
-intraTile
-8 4 0 16
-intraTile
-10 5 0 8
+Y_2X_6
+t_35
 intraTile
 6 4 0 2
-intraTile
-8 4 0 16
-intraTile
-10 5 0 10
-intraTile
-6 3 0 1
-interTile
-6 5 0 4
-intraTile
-6 3 0 19
+I_4X_2Y_6
+t_35
 intraTile
 8 4 0 2
+Y_2X_6
+-t_35
 intraTile
-10 5 0 8
-interTile
-6 5 0 14
+4 4 0 1
+I_1Y_4X_5
+-t_56
 intraTile
-4 2 0 19
+4 4 0 1
+I_1X_4Y_5
+t_56
 intraTile
-8 4 0 16
+4 4 0 3
+I_3Y_6X_7
+-t_59
 intraTile
-8 4 0 1
+4 4 0 3
+I_3X_6Y_7
+t_59
 intraTile
-8 4 0 11
-intraTile
-6 3 0 17
-interTile
-6 5 0 6
-intraTile
-8 4 0 1
-intraTile
-6 3 0 19
-intraTile
-10 5 0 8
-interTile
-6 5 0 14
-intraTile
-8 4 0 3
-intraTile
-8 4 0 16
-intraTile
-8 4 0 11
+6 4 0 1
+I_4Y_1X_5
+-t_60
 intraTile
 8 4 0 1
+Y_1X_5
+t_60
 intraTile
-8 4 0 16
-interTile
-6 5 0 6
-intraTile
-8 4 0 3
-intraTile
-10 5 0 8
-intraTile
-8 4 0 18
+6 4 0 1
+I_4X_1Y_5
+t_60
 intraTile
 8 4 0 1
-intraTile
-8 4 0 11
-intraTile
-8 4 0 18
-interTile
-6 5 0 6
-intraTile
-4 3 0 2
-intraTile
-8 4 0 16
-intraTile
-8 4 0 3
-intraTile
-10 5 0 8
-intraTile
-8 4 0 16
+Y_1X_5
+-t_60
 intraTile
 8 4 0 1
-intraTile
-8 4 0 11
-intraTile
-8 4 0 16
-interTile
-6 5 0 6
-intraTile
-4 3 0 2
-intraTile
-8 4 0 3
-intraTile
-10 5 0 8
-intraTile
-8 4 0 16
+Y_1X_5
+t_61
 intraTile
 8 4 0 1
-intraTile
-8 4 0 11
-intraTile
-8 4 0 18
-interTile
-6 5 0 6
-intraTile
-8 4 0 1
-intraTile
-8 4 0 18
-intraTile
-10 5 0 8
-intraTile
-8 4 0 1
-intraTile
-8 4 0 18
-intraTile
-8 4 0 11
-intraTile
-8 4 0 1
-intraTile
-8 4 0 18
-interTile
-6 5 0 6
-intraTile
-8 4 0 1
-intraTile
-10 5 0 8
-intraTile
-8 4 0 17
-intraTile
-8 4 0 1
-intraTile
-8 4 0 11
-intraTile
-8 4 0 17
-interTile
-6 5 0 6
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-intraTile
-10 5 0 8
-intraTile
-8 4 0 3
-intraTile
-8 4 0 17
-intraTile
-8 4 0 11
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-interTile
-6 5 0 6
-interTile
-6 3 0 14
-intraTile
-8 4 0 3
-intraTile
-10 5 0 8
-intraTile
-8 4 0 17
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-intraTile
-10 5 0 8
-intraTile
-8 4 0 2
-interTile
-6 3 0 14
-intraTile
-8 4 0 17
-intraTile
-8 5 0 8
-intraTile
-8 4 0 2
-intraTile
-8 4 0 17
-intraTile
-8 5 0 8
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-intraTile
-10 5 0 8
-interTile
-6 3 0 14
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-intraTile
-10 5 0 8
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-intraTile
-8 4 0 1
-intraTile
-8 5 0 8
-intraTile
-8 4 0 17
-intraTile
-8 4 0 3
-intraTile
-8 5 0 8
-intraTile
-8 4 0 17
-intraTile
-8 4 0 3
-intraTile
-10 5 0 8
-intraTile
-8 4 0 16
-intraTile
-8 4 0 3
-intraTile
-8 4 0 16
-intraTile
-10 5 0 8
-intraTile
-8 4 0 3
-intraTile
-8 4 0 18
-intraTile
-10 5 0 10
-intraTile
-8 4 0 3
-intraTile
-8 4 0 18
-intraTile
-8 5 0 10
-intraTile
-8 4 0 3
-intraTile
-8 4 0 17
-intraTile
-8 5 0 10
-intraTile
-8 4 0 3
-intraTile
-8 4 0 17
-intraTile
-10 5 0 10
-intraTile
-8 4 0 3
-intraTile
-8 4 0 17
-intraTile
-8 4 0 3
-intraTile
-10 5 0 10
-intraTile
-8 4 0 17
-intraTile
-8 4 0 3
-interTile
-6 3 0 14
-intraTile
-8 4 0 18
-intraTile
-8 5 0 9
-intraTile
-8 4 0 3
-intraTile
-8 4 0 18
-intraTile
-8 5 0 9
-intraTile
-8 4 0 3
-intraTile
-8 4 0 18
-intraTile
-10 5 0 9
-interTile
-6 3 0 14
-interTile
-6 3 0 6
-intraTile
-8 4 0 2
-intraTile
-8 4 0 18
-intraTile
-10 5 0 9
-intraTile
-8 4 0 2
-intraTile
-8 4 0 18
-intraTile
-10 5 0 9
-intraTile
-8 4 0 2
-interTile
-6 3 0 14
-intraTile
-8 4 0 18
-interTile
-6 3 0 6
-intraTile
-8 4 0 2
-intraTile
-10 5 0 9
-intraTile
-8 4 0 18
-intraTile
-8 4 0 2
-intraTile
-8 4 0 18
-intraTile
-10 5 0 9
-interTile
-6 3 0 6
-intraTile
-8 4 0 2
-intraTile
-8 4 0 16
-intraTile
-10 5 0 9
-intraTile
-8 4 0 2
-intraTile
-8 4 0 16
-intraTile
-10 5 0 9
-intraTile
-8 4 0 2
-intraTile
-8 4 0 16
-intraTile
-8 4 0 2
-intraTile
-10 5 0 9
-intraTile
-8 4 0 16
-intraTile
-8 4 0 2
-interTile
-6 3 0 14
-intraTile
-8 4 0 18
-intraTile
-8 5 0 8
-intraTile
-8 4 0 2
-intraTile
-8 4 0 18
-intraTile
-8 5 0 8
-intraTile
-8 4 0 2
-intraTile
-8 4 0 18
-intraTile
-10 5 0 8
-interTile
-6 3 0 14
-intraTile
-8 4 0 1
-intraTile
-8 4 0 18
-intraTile
-10 5 0 8
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-intraTile
-10 5 0 8
-intraTile
-8 4 0 3
-intraTile
-8 4 0 17
-intraTile
-8 4 0 3
-intraTile
-10 5 0 8
-intraTile
-8 4 0 17
-intraTile
-8 4 0 1
-intraTile
-8 4 0 17
-intraTile
-8 5 0 10
-intraTile
-8 4 0 1
-intraTile
-6 3 0 17
-intraTile
-8 5 0 10
-intraTile
-6 3 0 17
+Y_1X_5
+-t_61
 intraTile
 6 4 0 3
+I_4Y_3X_7
+-t_62
 intraTile
-10 5 0 10
-intraTile
-6 3 0 17
+8 4 0 3
+Y_3X_7
+t_62
 intraTile
 6 4 0 3
-intraTile
-6 3 0 17
-intraTile
-8 4 0 3
-intraTile
-10 5 0 10
-intraTile
-6 3 0 17
+I_4X_3Y_7
+t_62
 intraTile
 8 4 0 3
+Y_3X_7
+-t_62
 intraTile
-8 5 0 10
+6 4 0 3
+I_6Y_3X_7
+-t_63
 intraTile
-6 3 0 17
+8 4 0 3
+Y_3X_7
+t_63
 intraTile
-6 3 0 3
-interTile
-6 3 0 6
+6 4 0 3
+I_6X_3Y_7
+t_63
 intraTile
-6 3 0 17
+8 4 0 3
+Y_3X_7
+-t_63
 intraTile
-8 5 0 10
+8 4 0 3
+X_3X_4X_5Y_7
+t_65
 intraTile
-6 3 0 3
+8 4 0 3
+X_3X_4Y_5X_7
+t_65
 intraTile
-6 3 0 17
+8 4 0 3
+Y_3Y_4Y_5X_7
+-t_65
 intraTile
-10 5 0 10
+8 4 0 3
+X_3Y_4Y_5Y_7
+t_65
 intraTile
-6 3 0 3
+8 4 0 3
+Y_3X_4X_5X_7
+-t_65
 intraTile
-6 3 0 17
+8 4 0 3
+Y_3X_4Y_5Y_7
+t_65
 intraTile
-6 3 0 3
-interTile
-6 3 0 6
+8 4 0 3
+Y_3Y_4X_5Y_7
+-t_65
 intraTile
-6 3 0 17
+8 4 0 3
+X_3Y_4X_5X_7
+-t_65
 intraTile
-10 5 0 10
+8 4 0 2
+X_2X_4X_5Y_6
+-t_67
 intraTile
-6 3 0 3
+8 4 0 2
+X_2X_4Y_5X_6
+t_67
 intraTile
-6 3 0 19
+8 4 0 2
+Y_2Y_4Y_5X_6
+t_67
 intraTile
-6 3 0 3
+8 4 0 2
+X_2Y_4Y_5Y_6
+-t_67
 intraTile
-10 5 0 10
+8 4 0 2
+Y_2X_4X_5X_6
+t_67
 intraTile
-6 3 0 17
+8 4 0 2
+Y_2X_4Y_5Y_6
+t_67
 intraTile
-6 3 0 2
+8 4 0 2
+Y_2Y_4X_5Y_6
+-t_67
 intraTile
-6 3 0 17
+8 4 0 2
+X_2Y_4X_5X_6
+-t_67
 intraTile
-10 5 0 10
+8 4 0 0
+Y_0X_4
+t_70
 intraTile
-6 3 0 2
+8 4 0 0
+Y_0X_4
+-t_70
 intraTile
-4 3 0 18
+8 4 0 0
+Y_0X_4
+t_71
 intraTile
-6 3 0 2
+8 4 0 0
+Y_0X_4
+-t_71
 intraTile
-4 3 0 18
+6 4 0 2
+I_5Y_2X_6
+-t_72
 intraTile
-10 5 0 10
+8 4 0 2
+Y_2X_6
+t_72
 intraTile
-6 3 0 18
+6 4 0 2
+I_5X_2Y_6
+t_72
 intraTile
-6 3 0 2
+8 4 0 2
+Y_2X_6
+-t_72
 intraTile
-6 3 0 18
+8 4 0 2
+Y_2X_6
+t_73
 intraTile
-6 3 0 2
+8 4 0 2
+Y_2X_6
+-t_73
 intraTile
-10 5 0 10
+8 4 0 1
+I_5Y_1X_4
+-t_76
 intraTile
-6 3 0 18
+8 4 0 1
+I_5X_1Y_4
+t_76
 intraTile
-6 3 0 2
+8 4 0 3
+I_7Y_3X_6
+-t_79
 intraTile
-6 3 0 18
+8 4 0 3
+I_7X_3Y_6
+t_79
 intraTile
-10 5 0 10
+8 4 0 1
+Y_1X_5
+t_80
 intraTile
-6 3 0 2
+8 4 0 1
+Y_1X_5
+-t_80
 intraTile
-6 3 0 18
+6 4 0 3
+I_5Y_3X_7
+-t_81
 intraTile
-6 3 0 2
+8 4 0 3
+Y_3X_7
+t_81
 intraTile
-10 5 0 10
+6 4 0 3
+I_5X_3Y_7
+t_81
 intraTile
-6 3 0 18
+8 4 0 3
+Y_3X_7
+-t_81
 intraTile
 6 3 0 1
+Y_1X_4
+t_10
 intraTile
-6 3 0 18
-intraTile
-4 3 0 3
-intraTile
-10 5 0 10
-intraTile
-4 3 0 3
-intraTile
-6 3 0 18
+6 3 0 1
+Y_1X_4
+-t_10
 intraTile
 6 3 0 3
-intraTile
-6 3 0 17
-intraTile
-10 5 0 10
+Y_3X_6
+t_11
 intraTile
 6 3 0 3
+Y_3X_6
+-t_11
 intraTile
-6 3 0 17
+4 3 0 1
+I_2Y_1X_4
+-t_12
 intraTile
-6 3 0 3
+6 3 0 1
+Y_1X_4
+t_12
 intraTile
-8 5 0 9
+4 3 0 1
+I_2X_1Y_4
+t_12
 intraTile
-6 3 0 19
-intraTile
-6 3 0 3
-intraTile
-6 3 0 19
-intraTile
-8 5 0 9
-intraTile
-6 3 0 3
-intraTile
-6 3 0 19
-intraTile
-10 5 0 9
+6 3 0 1
+Y_1X_4
+-t_12
 intraTile
 6 3 0 3
-intraTile
-6 3 0 19
-intraTile
-6 3 0 3
-intraTile
-6 3 0 19
-intraTile
-10 5 0 9
+Y_3X_6
+t_13
 intraTile
 6 3 0 3
+Y_3X_6
+-t_13
 intraTile
-6 3 0 19
+6 3 0 1
+X_1X_2X_3Y_4
+t_27
+intraTile
+6 3 0 1
+X_1X_2Y_3X_4
+-t_27
+intraTile
+6 3 0 1
+Y_1Y_2Y_3X_4
+-t_27
+intraTile
+6 3 0 1
+X_1Y_2Y_3Y_4
+t_27
+intraTile
+6 3 0 1
+Y_1X_2X_3X_4
+-t_27
+intraTile
+6 3 0 1
+Y_1X_2Y_3Y_4
+-t_27
+intraTile
+6 3 0 1
+Y_1Y_2X_3Y_4
+t_27
+intraTile
+6 3 0 1
+X_1Y_2X_3X_4
+t_27
 intraTile
 6 3 0 3
-intraTile
-10 5 0 8
-intraTile
-6 3 0 19
+Y_3X_6
+t_28
 intraTile
 6 3 0 3
+Y_3X_6
+-t_28
 intraTile
-6 3 0 19
+4 3 0 1
+I_3Y_1X_4
+-t_29
 intraTile
-10 5 0 8
+6 3 0 1
+Y_1X_4
+t_29
+intraTile
+4 3 0 1
+I_3X_1Y_4
+t_29
+intraTile
+6 3 0 1
+Y_1X_4
+-t_29
 intraTile
 4 3 0 2
-intraTile
-6 3 0 19
+I_2Y_4X_5
+-t_38
 intraTile
 4 3 0 2
+I_2X_4Y_5
+t_38
+intraTile
+6 3 0 2
+X_2X_3X_4Y_5
+t_42
+intraTile
+6 3 0 2
+X_2X_3Y_4X_5
+-t_42
+intraTile
+6 3 0 2
+Y_2Y_3Y_4X_5
+-t_42
+intraTile
+6 3 0 2
+X_2Y_3Y_4Y_5
+t_42
+intraTile
+6 3 0 2
+Y_2X_3X_4X_5
+-t_42
+intraTile
+6 3 0 2
+Y_2X_3Y_4Y_5
+-t_42
+intraTile
+6 3 0 2
+Y_2Y_3X_4Y_5
+t_42
+intraTile
+6 3 0 2
+X_2Y_3X_4X_5
+t_42
 intraTile
 6 3 0 1
-intraTile
-6 3 0 19
-intraTile
-10 5 0 10
+Y_1X_4
+t_50
 intraTile
 6 3 0 1
-intraTile
-4 3 0 18
-intraTile
-4 3 0 18
-intraTile
-10 5 0 10
-intraTile
-6 3 0 1
-intraTile
-6 3 0 17
-intraTile
-6 3 0 1
-intraTile
-6 3 0 17
-intraTile
-10 5 0 8
+Y_1X_4
+-t_50
 intraTile
 4 3 0 3
+I_4Y_3X_6
+-t_51
 intraTile
-6 3 0 17
+6 3 0 3
+Y_3X_6
+t_51
 intraTile
 4 3 0 3
-intraTile
-10 5 0 8
-intraTile
-6 3 0 3
-intraTile
-6 3 0 17
+I_4X_3Y_6
+t_51
 intraTile
 6 3 0 3
+Y_3X_6
+-t_51
 intraTile
-6 3 0 19
+6 3 0 2
+X_2X_3X_4Y_5
+t_54
 intraTile
-8 5 0 10
+6 3 0 2
+X_2X_3Y_4X_5
+-t_54
+intraTile
+6 3 0 2
+Y_2Y_3Y_4X_5
+-t_54
+intraTile
+6 3 0 2
+X_2Y_3Y_4Y_5
+-t_54
+intraTile
+6 3 0 2
+Y_2X_3X_4X_5
+t_54
+intraTile
+6 3 0 2
+Y_2X_3Y_4Y_5
+t_54
+intraTile
+6 3 0 2
+Y_2Y_3X_4Y_5
+t_54
+intraTile
+6 3 0 2
+X_2Y_3X_4X_5
+-t_54
 intraTile
 6 3 0 3
-intraTile
-6 3 0 19
-intraTile
-8 5 0 10
+X_3X_4X_5Y_6
+-t_69
 intraTile
 6 3 0 3
+X_3X_4Y_5X_6
+t_69
 intraTile
-6 3 0 19
+6 3 0 3
+Y_3Y_4Y_5X_6
+t_69
+intraTile
+6 3 0 3
+X_3Y_4Y_5Y_6
+-t_69
+intraTile
+6 3 0 3
+Y_3X_4X_5X_6
+t_69
+intraTile
+6 3 0 3
+Y_3X_4Y_5Y_6
+t_69
+intraTile
+6 3 0 3
+Y_3Y_4X_5Y_6
+-t_69
+intraTile
+6 3 0 3
+X_3Y_4X_5X_6
+-t_69
+intraTile
+6 3 0 1
+Y_1X_4
+t_76
+intraTile
+6 3 0 1
+Y_1X_4
+-t_76
+intraTile
+6 3 0 1
+Y_1X_4
+t_77
+intraTile
+6 3 0 1
+Y_1X_4
+-t_77
+intraTile
+4 3 0 3
+I_5Y_3X_6
+-t_78
+intraTile
+6 3 0 3
+Y_3X_6
+t_78
+intraTile
+4 3 0 3
+I_5X_3Y_6
+t_78
+intraTile
+6 3 0 3
+Y_3X_6
+-t_78
+intraTile
+6 3 0 3
+Y_3X_6
+t_79
+intraTile
+6 3 0 3
+Y_3X_6
+-t_79
 intraTile
 4 2 0 3
-intraTile
-6 3 0 19
-intraTile
-10 5 0 10
+I_3Y_4X_5
+-t_58
 intraTile
 4 2 0 3
-intraTile
-4 2 0 18
-intraTile
-4 2 0 18
-intraTile
-10 5 0 10
-intraTile
-4 2 0 19
-interTile
-6 5 0 12
-intraTile
-8 4 0 10
-intraTile
-8 4 0 8
-interTile
-6 5 0 12
-intraTile
-8 4 0 10
-intraTile
-8 4 0 8
-interTile
-6 5 0 12
-intraTile
-8 4 0 8
-intraTile
-8 4 0 8
-intraTile
-8 4 0 8
-interTile
-6 5 0 12
-intraTile
-8 4 0 10
-intraTile
-8 4 0 8
-interTile
-6 5 0 12
-intraTile
-8 4 0 10
-intraTile
-8 4 0 8
-interTile
-6 5 0 12
-intraTile
-8 4 0 8
-intraTile
-8 4 0 10
-intraTile
-8 4 0 8
-interTile
-6 5 0 12
-intraTile
-8 4 0 10
-intraTile
-8 4 0 8
-interTile
-6 5 0 12
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 11
-intraTile
-8 4 0 11
-intraTile
-8 4 0 11
-intraTile
-8 4 0 11
-intraTile
-8 4 0 11
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 8
-intraTile
-8 4 0 8
-intraTile
-8 4 0 8
-intraTile
-8 4 0 8
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 10
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 11
-intraTile
-8 4 0 11
-intraTile
-8 4 0 9
-intraTile
-8 4 0 9
-intraTile
-8 4 0 11
-intraTile
-8 4 0 11
+I_3X_4Y_5
+t_58
