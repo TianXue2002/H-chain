@@ -66,22 +66,6 @@ def create_excitation(uop, all_g, epsilon):
             excitations.append(cur_excitation)
     return excitations
 
-# def orbital_reordering(excitations, f_orbs):
-#     fragment = np.array(f_orbs)
-#     fragment = 2*fragment
-#     n = f_orbs[0]
-#     N = 2*sum(f_orbs)
-#     for i in range(1,np.size(fragment)):
-#         fragment[i] += fragment[i-1]
-#     for excitation in excitations:
-#         for pair in excitation:
-#             for i in range(len(pair)):
-#                 if pair[i]<sum(f_orbs):
-#                     pair[i] = (pair[i]//n)*2*n + pair[i] % n
-#                 else:
-#                     pair[i] = ((pair[i]-sum(f_orbs))//n)*2*n + pair[i] % n + n
-#     return excitations
-
 def orbital_reordering(excitations, f_orbs):
     fragment = np.array(f_orbs)
     fragment = 2*fragment

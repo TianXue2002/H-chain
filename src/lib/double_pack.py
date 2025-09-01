@@ -4,6 +4,7 @@ from plotting import *
 from readings import *
 from tile_process import *
 import os
+import zx_tile_process as ZX
 
 PARENT_PATH = "C:/Users/24835/Desktop/homework/uiuc/Covey/chem"
 C_PATH = PARENT_PATH + "/H-chain/src/lib/double_packing.exe"
@@ -16,8 +17,11 @@ def export_separation(filename, separation_value, if_double):
         else:
             f.write(str(0) + '\n')
 
-def first_pack(excitations, separation, seam_lst):
-    tiles = create_circuit_tile(excitations)
+def first_pack(excitations, separation, seam_lst, if_zx = False):
+    if not if_zx:
+        tiles = create_circuit_tile(excitations)
+    else:
+        tiles = ZX.create_circuit_tile(excitations)
     print(f"first input has {len(tiles)} tiles")
     # random.shuffle(tiles)
     # tiles = create_circuit_tile(excitations)
@@ -36,11 +40,11 @@ def first_pack(excitations, separation, seam_lst):
     return bounding_width, placed_tiles
 
 def double_pack_with_c(excitations, separation, seam_lst, if_double = False, 
-                       file_name = "./tiles/second_input_tiles.txt"):
+                       file_name = "./tiles/second_input_tiles.txt", if_zx = True):
     
     tile_dir = PARENT_PATH + "/H-chain/src/double_packing/tiles"
 
-    bounding_width, placed_tiles_lst = first_pack(excitations, separation, seam_lst)
+    bounding_width, placed_tiles_lst = first_pack(excitations, separation, seam_lst, if_zx=if_zx)
     if if_double:
         return bounding_width, placed_tiles_lst
     def reexport_tiles(placed_tiles):
